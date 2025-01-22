@@ -1,2 +1,2 @@
-# CITM-Game-Jam-10
-Gran CITM Game Jam 10
+# CITM-Game-Jam-8
+Gran CITM Game Jam 8
