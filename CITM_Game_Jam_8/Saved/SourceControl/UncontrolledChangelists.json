@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/NewBlendSpace1D.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/NewAnimBlueprint.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/1M/P3AZ2QXQMI99R2NHE5GQ1V.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/K1/FGXM32N2CRVPXO1SNYCZMS.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JB/3A71O8NK964ND5LT39EZSQ.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_0_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_10_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_11_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_12_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_13_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_14_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_15_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_16_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_17_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_1_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_2_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_3_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_4_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_5_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_6_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_7_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_8_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Anim_9_Root.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/textures/Arms_Diffuse.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Arms_Diffuse.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Arms_MAT.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Pistol.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Pistol_PhysicsAsset.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/Pistol_Skeleton.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLow.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLow_ncl_1.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLow_ncl_2.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLow_ncl_3.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLow_ncl_4.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLow_ncl_5.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/textures/pistolLOWcolor.uasset",
+				"C:/Users/cacah/OneDrive/Documentos/GitHub/CITM-Game-Jam-10/CITM_Game_Jam_8/Content/FPS_Weapon_Pistola_Test/source/pistolLOWcolor.uasset"
+			]
+		}
+	]
+}
