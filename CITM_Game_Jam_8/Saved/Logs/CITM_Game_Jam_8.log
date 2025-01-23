@@ -1356,3 +1356,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.23-10.51.05:818][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 6.716770
 [2025.01.23-10.51.05:820][ 14]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -143813463
 [2025.01.23-10.51.05:820][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.716770, Update Interval: 321.889099
+[2025.01.23-10.51.06:816][ 17]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: f10...fc2 Access[Expires: 2025.01.23-12.51.06 Remaining: 7200.24] Refresh[Expires: 2025-07-21T17:15:24.913Z Remaining: 15488658.91] State: Valid
+[2025.01.23-10.51.07:150][ 18]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.01.23-10.51.08:149][ 21]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.01.23-10.51.08:149][ 21]LogFab: Display: User logged in
+[2025.01.23-10.51.08:149][ 21]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.01.23-10.51.08:820][ 23]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-ze5A7LNI0EC0hIY65ZFn1Q-a9V5a58jqkmp67n-tlJelw]
