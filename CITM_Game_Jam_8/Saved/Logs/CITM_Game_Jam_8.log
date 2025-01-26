@@ -12207,3 +12207,132 @@ Sampler Limit: 32
 [2025.01.26-18.35.52:581][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3204.507080
 [2025.01.26-18.35.53:582][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.26-18.35.53:582][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3205.173584, Update Interval: 318.928192
+[2025.01.26-18.37.29:654][807]LogChaosDD: Creating Chaos Debug Draw Scene for world World_72
+[2025.01.26-18.37.37:559][272]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-18.37.37:623][272]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Underground/Meshes/SM_Ceiling_Scaffold_Whole_Empty.SM_Ceiling_Scaffold_Whole_Empty
+[2025.01.26-18.37.37:725][272]LogChaosDD: Creating Chaos Debug Draw Scene for world World_73
+[2025.01.26-18.37.42:238][459]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-18.37.42:247][459]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Underground/Meshes/SM_Ceiling_Scaffold_Quarter.SM_Ceiling_Scaffold_Quarter
+[2025.01.26-18.37.42:278][459]LogChaosDD: Creating Chaos Debug Draw Scene for world World_74
+[2025.01.26-18.37.46:875][663]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-18.37.46:933][663]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Underground/Meshes/SM_Ceiling_Pillar_200u.SM_Ceiling_Pillar_200u
+[2025.01.26-18.37.46:965][663]LogChaosDD: Creating Chaos Debug Draw Scene for world World_75
+[2025.01.26-18.37.51:037][810]LogSlate: Window 'SM_Ceiling_Pillar_200u' being destroyed
+[2025.01.26-18.37.51:051][810]LogSlate: Window 'SM_Ceiling_Pillar_200u' being destroyed
+[2025.01.26-18.37.51:101][810]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-18.37.51:101][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-18.37.51:163][810]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-18.37.51:163][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-18.37.51:219][810]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-18.37.51:219][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-18.37.51:322][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.01.26-18.37.55:052][ 30]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-18.37.55:085][ 30]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Underground/Meshes/SM_Floor_200u.SM_Floor_200u
+[2025.01.26-18.37.55:163][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world World_76
+[2025.01.26-18.37.57:945][130]LogSlate: Window 'SM_Floor_200u' being destroyed
+[2025.01.26-18.37.57:956][130]LogSlate: Window 'SM_Floor_200u' being destroyed
+[2025.01.26-18.37.58:002][130]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-18.37.58:002][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-18.37.58:047][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.01.26-18.37.58:807][174]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-18.37.58:808][174]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Underground/Meshes/SM_Floor_Half_200u.SM_Floor_Half_200u
+[2025.01.26-18.37.58:890][174]LogChaosDD: Creating Chaos Debug Draw Scene for world World_77
+[2025.01.26-18.38.07:338][604]LogStaticMesh: Display: Building static mesh SM_Floor_Half_200u (Required Memory Estimate: 0.018191 MB)...
+[2025.01.26-18.38.07:345][604]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/SM_Floor_Half_200u.SM_Floor_Half_200u
+[2025.01.26-18.38.10:267][768]LogEditorTransaction: Undo StaticMesh: Material changed
+[2025.01.26-18.38.14:604][993]LogSlate: Window 'SM_Floor_Half_200u' being destroyed
+[2025.01.26-18.38.14:615][993]LogSlate: Window 'SM_Floor_Half_200u' being destroyed
+[2025.01.26-18.38.14:661][993]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-18.38.14:661][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-18.38.14:711][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.26-18.38.16:740][112]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-18.38.16:760][112]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Underground/Meshes/SM_Floor_Quarter_200u.SM_Floor_Quarter_200u
+[2025.01.26-18.38.16:833][112]LogChaosDD: Creating Chaos Debug Draw Scene for world World_78
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: ================================================
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Total job queries 3796, among them cache hits 3272 (86.20%), DDC hits 240 (6.32%), Duplicates 8 (0.21%)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Tracking 516 distinct input hashes that result in 353 distinct outputs (68.41%)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: RAM used: 241,06 KiB of 819,20 MiB budget. Usage: 0.03%
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Shaders Compiled: 276
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Jobs assigned 276, completed 276 (100%)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Average time worker was idle: 83.77 s
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Time job spent in pending queue: average 0.87 s, longest 23.10 s
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Job execution time: average 6.87 s, max 29.85 s
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Job life time (pending + execution): average 7.74 s, max 30.10
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Shader code size: average 9,331 KiB, min 3,457 KiB, max 30,105 KiB
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 104.01 s
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Jobs were issued in 204 batches (only local compilation was used), average 1.35 jobs/batch
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Average processing rate: 2.65 jobs/sec
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Total thread time: 356,938 s
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Total thread preprocess time: 72,415 s
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Percentage time preprocessing: 20.29%
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Effective parallelization: 3.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   12 times, average 5.88 sec, max 7.94 sec, min 2.94 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 3.59 sec, max 4.19 sec, min 2.98 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 3.43 sec, max 4.21 sec, min 2.92 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 3.16 sec, max 4.41 sec, min 2.66 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 2.68 sec, max 2.98 sec, min 2.39 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 19.75% of total time (compiled   12 times, average 5.88 sec, max 7.94 sec, min 2.94 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.53% of total time (compiled   26 times, average 1.45 sec, max 2.43 sec, min 1.01 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                               FHWRasterizePS - 10.09% of total time (compiled   17 times, average 2.12 sec, max 2.40 sec, min 1.52 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.10% of total time (compiled   32 times, average 0.79 sec, max 1.63 sec, min 0.55 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.57% of total time (compiled   10 times, average 1.99 sec, max 3.69 sec, min 1.08 sec)
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: === Material stats ===
+[2025.01.26-18.39.33:208][926]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.26-18.39.33:209][926]LogShaderCompilers: Display: Materials Translated:    890
+[2025.01.26-18.39.33:209][926]LogShaderCompilers: Display: Material Total Translate Time: 0.41 s
+[2025.01.26-18.39.33:209][926]LogShaderCompilers: Display: Material Translation Only: 0.20 s (48%)
+[2025.01.26-18.39.33:209][926]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.26-18.39.33:209][926]LogShaderCompilers: Display: Material Cache Hits: 18 (2%)
+[2025.01.26-18.39.33:209][926]LogShaderCompilers: Display: ================================================
+[2025.01.26-18.41.36:566][296]LogHttp: Warning: 000008346B9D2300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.01.26-18.41.36:566][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 0 (Found bundle for host: 0x833fe840c30 [serially])
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 6 (Closing connection)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3F33ABE1-44A6-9CE6-F09E-91B3B34859E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=2793a6e546e62e0c09b7fc9536788854%7Cf10cc2ec206d42d59dd19448336d0fc2%7C4ffcb57f-3e60-4a24-a0e7-b48d417ca28a&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 9 (  Trying 54.227.12.48:443...)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.227.12.48) port 443)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 12 (SSL reusing session ID)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 23 (Server certificate:)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 25 ( start date: Mar  4 00:00:00 2024 GMT)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 26 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 30 (using HTTP/1.1)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 32 (Closing connection)
+[2025.01.26-18.41.36:567][296]LogHttp: Warning: 000008346B9D2300: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.01.26-18.41.52:234][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3564.169678
+[2025.01.26-18.41.55:902][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-18.41.55:902][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3567.502930, Update Interval: 322.692963
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B5C3DAD46-45D4-3CC3-1E40-43A3DA0C893F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: request failed, libcurl error: 0 (No error)
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: libcurl info message cache 0 (Found bundle for host: 0x83462080ba0 [serially])
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: libcurl info message cache 3 (Closing connection)
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: 00000848E3AD7E00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.01.26-18.41.58:569][363]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B5C3DAD46-45D4-3CC3-1E40-43A3DA0C893F%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.01.26-18.44.21:422][791]LogDerivedDataCache: C:/Users/Marcel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
