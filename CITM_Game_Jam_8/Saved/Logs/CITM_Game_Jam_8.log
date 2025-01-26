@@ -1440,3 +1440,831 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.01.26-11.01.32:584][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1723.247681
 [2025.01.26-11.01.33:583][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.26-11.01.33:583][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1723.913330, Update Interval: 356.006348
+[2025.01.26-11.08.01:331][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2111.994873
+[2025.01.26-11.08.02:333][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-11.08.02:333][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2112.661621, Update Interval: 308.723419
+[2025.01.26-11.14.05:109][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2475.771484
+[2025.01.26-11.14.06:109][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-11.14.06:109][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2476.438232, Update Interval: 349.212921
+[2025.01.26-11.14.28:236][195]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.14.28:265][195]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/Underground/Maps/UB_BuiltData.UB_BuiltData
+[2025.01.26-11.14.28:474][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.28:484][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_12 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.28:498][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.28:524][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_16 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.28:526][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_14 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.28:527][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_13 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.28:535][195]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_15 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:212][206]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_17 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:220][206]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_18 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:223][207]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_19 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:226][207]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_21 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:227][207]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_31 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:230][207]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_23 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.29:232][207]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_22 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:115][279]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_36 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:161][282]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_34 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:163][282]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_33 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:202][285]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_32 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:215][286]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:234][287]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_35 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.30:235][287]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:245][369]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:245][369]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:313][375]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:321][375]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:328][376]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:347][377]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_24 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.31:379][380]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_25 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:273][438]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_26 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:274][438]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_27 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:303][439]LogSlate: Window 'UB_BuiltData' being destroyed
+[2025.01.26-11.14.32:347][439]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:352][439]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_28 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:356][439]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:357][439]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_30 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:359][439]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_29 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.32:362][439]LogSlate: Window 'UB_BuiltData' being destroyed
+[2025.01.26-11.14.33:430][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.33:438][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.33:456][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_12 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.33:518][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 294.333316 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.33:566][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_13 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.33:594][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_15 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.33:595][509]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_14 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:095][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_16 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:102][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_21 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:108][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_18 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:179][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_17 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:199][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_19 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:225][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_22 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:240][511]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_23 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:707][512]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_36 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:806][513]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_34 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:808][513]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:820][513]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_33 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:822][513]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_32 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:842][513]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_31 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.34:888][513]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_35 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:053][514]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:602][515]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:611][515]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:695][515]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:720][516]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:736][517]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:760][519]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_24 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.35:772][519]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_25 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:500][578]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:506][578]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_27 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:520][579]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_26 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:523][579]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:528][579]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_29 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:532][580]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_28 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.36:602][586]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_30 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:350][619]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2025.01.26-11.14.37:389][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_11 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:393][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_2 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:396][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_10 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:402][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_3 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:411][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_0 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:419][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_1 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:438][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 286.333315 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:498][619]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.14.37:593][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_4 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:642][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_7 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:652][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_6 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:655][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_5 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:678][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_8 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.37:695][619]LogTexture: Display: Building textures: /Game/Underground/Maps/UB_BuiltData.UB_BuiltData:ShadowMapTexture2D_9 (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 150.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:379][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_12 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:379][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_11 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:386][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_10 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:387][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_15 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:393][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_1 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:396][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_14 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:400][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_13 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:423][619]LogStaticMesh: Display: Building static mesh SM_Billboard01 (Required Memory Estimate: 0.670022 MB)...
+[2025.01.26-11.14.38:423][619]LogStaticMesh: Display: Building static mesh SM_Billboard02 (Required Memory Estimate: 0.670022 MB)...
+[2025.01.26-11.14.38:431][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:432][619]LogStaticMesh: Display: Building static mesh SM_Billboard03 (Required Memory Estimate: 0.670022 MB)...
+[2025.01.26-11.14.38:432][619]LogStaticMesh: Display: Building static mesh SM_Billboard04 (Required Memory Estimate: 0.670029 MB)...
+[2025.01.26-11.14.38:434][619]LogStaticMesh: Display: Building static mesh SM_Billboard05 (Required Memory Estimate: 0.670029 MB)...
+[2025.01.26-11.14.38:438][619]LogStaticMesh: Display: Building static mesh SM_Body_Bag01 (Required Memory Estimate: 6.643143 MB)...
+[2025.01.26-11.14.38:471][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_16 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.38:488][619]LogStaticMesh: Display: Building static mesh SM_Body_Bag02 (Required Memory Estimate: 6.643143 MB)...
+[2025.01.26-11.14.38:563][619]LogStaticMesh: Display: Building static mesh SM_Tileable_Cable (Required Memory Estimate: 0.75473 MB)...
+[2025.01.26-11.14.38:621][619]LogStaticMesh: Built static mesh [0.19s] /Game/Underground/Meshes/Props/SM_Billboard05.SM_Billboard05
+[2025.01.26-11.14.38:625][619]LogStaticMesh: Built static mesh [0.20s] /Game/Underground/Meshes/Props/SM_Billboard02.SM_Billboard02
+[2025.01.26-11.14.38:629][619]LogStaticMesh: Built static mesh [0.20s] /Game/Underground/Meshes/Props/SM_Billboard03.SM_Billboard03
+[2025.01.26-11.14.38:629][619]LogStaticMesh: Display: Building static mesh SM_Direction_Sign03 (Required Memory Estimate: 0.159964 MB)...
+[2025.01.26-11.14.38:632][619]LogStaticMesh: Built static mesh [0.21s] /Game/Underground/Meshes/Props/SM_Billboard04.SM_Billboard04
+[2025.01.26-11.14.38:633][619]LogStaticMesh: Display: Building static mesh SM_Direction_Sign04 (Required Memory Estimate: 0.159964 MB)...
+[2025.01.26-11.14.38:635][619]LogStaticMesh: Display: Building static mesh SM_Evidence_Bag_Big (Required Memory Estimate: 0.185912 MB)...
+[2025.01.26-11.14.38:643][619]LogStaticMesh: Built static mesh [0.22s] /Game/Underground/Meshes/Props/SM_Billboard01.SM_Billboard01
+[2025.01.26-11.14.38:647][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/Props/SM_Direction_Sign03.SM_Direction_Sign03
+[2025.01.26-11.14.38:647][619]LogStaticMesh: Display: Building static mesh SM_Folding_Doors_Short_Closed (Required Memory Estimate: 5.785339 MB)...
+[2025.01.26-11.14.38:650][619]LogStaticMesh: Display: Building static mesh SM_Gate_Closed (Required Memory Estimate: 9.838616 MB)...
+[2025.01.26-11.14.38:656][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/Props/SM_Direction_Sign04.SM_Direction_Sign04
+[2025.01.26-11.14.38:659][619]LogStaticMesh: Display: Building static mesh SM_Gate_Open (Required Memory Estimate: 9.838616 MB)...
+[2025.01.26-11.14.38:662][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Evidence_Bag_Big.SM_Evidence_Bag_Big
+[2025.01.26-11.14.38:665][619]LogStaticMesh: Display: Building static mesh SM_Tarp_Floor01 (Required Memory Estimate: 20.840904 MB)...
+[2025.01.26-11.14.38:802][619]LogStaticMesh: Built static mesh [0.24s] /Game/Underground/Meshes/Props/SM_Tileable_Cable.SM_Tileable_Cable
+[2025.01.26-11.14.38:805][619]LogStaticMesh: Display: Building static mesh SM_Tarp_Floor_Flat02 (Required Memory Estimate: 0.412052 MB)...
+[2025.01.26-11.14.38:816][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/Props/SM_Tarp_Floor_Flat02.SM_Tarp_Floor_Flat02
+[2025.01.26-11.14.38:819][619]LogStaticMesh: Display: Building static mesh SM_Tarp_WaterTank04 (Required Memory Estimate: 7.258778 MB)...
+[2025.01.26-11.14.38:939][619]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.01.26-11.14.38:984][619]LogStaticMesh: Display: Building static mesh SM_Pill_Bottle_Medium (Required Memory Estimate: 0.55548 MB)...
+[2025.01.26-11.14.38:999][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Pill_Bottle_Medium) ...
+[2025.01.26-11.14.39:110][619]LogStaticMesh: Built static mesh [0.13s] /Game/Underground/Meshes/Props/SM_Pill_Bottle_Medium.SM_Pill_Bottle_Medium
+[2025.01.26-11.14.39:121][619]LogStaticMesh: Display: Building static mesh SM_Pill_Bottle_Small (Required Memory Estimate: 0.465965 MB)...
+[2025.01.26-11.14.39:136][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Pill_Bottle_Small) ...
+[2025.01.26-11.14.39:221][619]LogStaticMesh: Built static mesh [0.10s] /Game/Underground/Meshes/Props/SM_Pill_Bottle_Small.SM_Pill_Bottle_Small
+[2025.01.26-11.14.39:226][619]LogStaticMesh: Display: Building static mesh SM_Can (Required Memory Estimate: 1.21669 MB)...
+[2025.01.26-11.14.39:241][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Can) ...
+[2025.01.26-11.14.39:537][619]LogStaticMesh: Built static mesh [0.31s] /Game/Underground/Meshes/Props/SM_Can.SM_Can
+[2025.01.26-11.14.39:543][619]LogStaticMesh: Display: Building static mesh SM_Cigarette (Required Memory Estimate: 0.263865 MB)...
+[2025.01.26-11.14.39:558][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Cigarette) ...
+[2025.01.26-11.14.39:569][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Cigarette.SM_Cigarette
+[2025.01.26-11.14.39:572][619]LogStaticMesh: Display: Building static mesh SM_Bottle_Crushed (Required Memory Estimate: 0.986004 MB)...
+[2025.01.26-11.14.39:588][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Bottle_Crushed) ...
+[2025.01.26-11.14.39:860][619]LogStaticMesh: Built static mesh [0.29s] /Game/Underground/Meshes/Props/SM_Bottle_Crushed.SM_Bottle_Crushed
+[2025.01.26-11.14.39:866][619]LogStaticMesh: Display: Building static mesh SM_Newspaper02 (Required Memory Estimate: 0.069888 MB)...
+[2025.01.26-11.14.39:873][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/Props/SM_Newspaper02.SM_Newspaper02
+[2025.01.26-11.14.39:876][619]LogStaticMesh: Display: Building static mesh SM_Newspaper01 (Required Memory Estimate: 0.056857 MB)...
+[2025.01.26-11.14.39:883][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/Props/SM_Newspaper01.SM_Newspaper01
+[2025.01.26-11.14.39:886][619]LogStaticMesh: Display: Building static mesh SM_Bottle (Required Memory Estimate: 0.985817 MB)...
+[2025.01.26-11.14.39:898][619]LogStaticMesh: Built static mesh [1.25s] /Game/Underground/Meshes/Props/SM_Folding_Doors_Short_Closed.SM_Folding_Doors_Short_Closed
+[2025.01.26-11.14.39:902][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Bottle) ...
+[2025.01.26-11.14.40:129][619]LogStaticMesh: Built static mesh [0.24s] /Game/Underground/Meshes/Props/SM_Bottle.SM_Bottle
+[2025.01.26-11.14.40:133][619]LogStaticMesh: Display: Building static mesh SM_Beam_Thin_100u (Required Memory Estimate: 29.851431 MB)...
+[2025.01.26-11.14.40:135][619]LogStaticMesh: Display: Building static mesh SM_Cigarette_Box (Required Memory Estimate: 0.159964 MB)...
+[2025.01.26-11.14.40:150][619]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Underground/Meshes/Props/SM_Cigarette_Box) ...
+[2025.01.26-11.14.40:169][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Cigarette_Box.SM_Cigarette_Box
+[2025.01.26-11.14.40:279][619]LogStaticMesh: Built static mesh [1.79s] /Game/Underground/Meshes/Props/SM_Body_Bag02.SM_Body_Bag02
+[2025.01.26-11.14.40:286][619]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Underground/Maps/Main_Level.Main_Level
+[2025.01.26-11.14.40:288][619]Cmd: MAP LOAD FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Underground/Maps/Main_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.26-11.14.40:292][619]LogStaticMesh: Display: Building static mesh SM_Beam_Thin_Split_100u (Required Memory Estimate: 14.939955 MB)...
+[2025.01.26-11.14.40:300][619]LogStaticMesh: Built static mesh [1.86s] /Game/Underground/Meshes/Props/SM_Body_Bag01.SM_Body_Bag01
+[2025.01.26-11.14.40:314][619]LogStaticMesh: Display: Building static mesh SM_Beam_Vertical_100u (Required Memory Estimate: 50.635632 MB)...
+[2025.01.26-11.14.40:385][619]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.14.40:392][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.14.40:421][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-11.14.40:444][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.01.26-11.14.40:451][619]LogStaticMesh: Display: Building static mesh SM_Wall_Custom_Curve (Required Memory Estimate: 2.23389 MB)...
+[2025.01.26-11.14.40:456][619]LogStaticMesh: Display: Building static mesh SM_Floor_200u (Required Memory Estimate: 1.120513 MB)...
+[2025.01.26-11.14.40:469][619]LogStaticMesh: Display: Waiting for static meshes to be ready 12/133 (/Game/Underground/Meshes/SM_Beam_Thin_100u) ...
+[2025.01.26-11.14.40:469][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/SM_Floor_200u.SM_Floor_200u
+[2025.01.26-11.14.40:472][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_200u (Required Memory Estimate: 1.120513 MB)...
+[2025.01.26-11.14.40:486][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/SM_Wall_Custom_Curve.SM_Wall_Custom_Curve
+[2025.01.26-11.14.40:490][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/SM_Ceiling_200u.SM_Ceiling_200u
+[2025.01.26-11.14.40:490][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Cables (Required Memory Estimate: 0.883692 MB)...
+[2025.01.26-11.14.40:493][619]LogStaticMesh: Display: Building static mesh SM_Wall_Corner_100u (Required Memory Estimate: 2.047036 MB)...
+[2025.01.26-11.14.40:513][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/Props/SM_Ceiling_Cables.SM_Ceiling_Cables
+[2025.01.26-11.14.40:516][619]LogStaticMesh: Display: Building static mesh SM_Bin_Bag03 (Required Memory Estimate: 3.129344 MB)...
+[2025.01.26-11.14.40:524][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/SM_Wall_Corner_100u.SM_Wall_Corner_100u
+[2025.01.26-11.14.40:530][619]LogStaticMesh: Display: Building static mesh SM_Bin_Bag02 (Required Memory Estimate: 3.134144 MB)...
+[2025.01.26-11.14.41:350][619]LogStaticMesh: Built static mesh [2.70s] /Game/Underground/Meshes/Props/SM_Gate_Closed.SM_Gate_Closed
+[2025.01.26-11.14.41:374][619]LogStaticMesh: Display: Building static mesh SM_Bin_Bag01 (Required Memory Estimate: 13.628943 MB)...
+[2025.01.26-11.14.41:425][619]LogStaticMesh: Built static mesh [0.90s] /Game/Underground/Meshes/Props/SM_Bin_Bag02.SM_Bin_Bag02
+[2025.01.26-11.14.41:433][619]LogStaticMesh: Display: Building static mesh SM_Cigarette_Box_Crushed (Required Memory Estimate: 0.234985 MB)...
+[2025.01.26-11.14.41:439][619]LogStaticMesh: Built static mesh [0.92s] /Game/Underground/Meshes/Props/SM_Bin_Bag03.SM_Bin_Bag03
+[2025.01.26-11.14.41:447][619]LogStaticMesh: Display: Building static mesh SM_Bin (Required Memory Estimate: 2.388826 MB)...
+[2025.01.26-11.14.41:462][619]LogStaticMesh: Built static mesh [2.80s] /Game/Underground/Meshes/Props/SM_Gate_Open.SM_Gate_Open
+[2025.01.26-11.14.41:472][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/Props/SM_Cigarette_Box_Crushed.SM_Cigarette_Box_Crushed
+[2025.01.26-11.14.41:475][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Flat02 (Required Memory Estimate: 0.038793 MB)...
+[2025.01.26-11.14.41:477][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Debris/SM_Cardboard_Flat02.SM_Cardboard_Flat02
+[2025.01.26-11.14.41:480][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Flat01 (Required Memory Estimate: 0.035501 MB)...
+[2025.01.26-11.14.41:482][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Debris/SM_Cardboard_Flat01.SM_Cardboard_Flat01
+[2025.01.26-11.14.41:483][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Flat04 (Required Memory Estimate: 0.040328 MB)...
+[2025.01.26-11.14.41:483][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Flat03 (Required Memory Estimate: 0.023772 MB)...
+[2025.01.26-11.14.41:486][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Debris/SM_Cardboard_Flat04.SM_Cardboard_Flat04
+[2025.01.26-11.14.41:486][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Debris/SM_Cardboard_Flat03.SM_Cardboard_Flat03
+[2025.01.26-11.14.41:487][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box02 (Required Memory Estimate: 0.322184 MB)...
+[2025.01.26-11.14.41:488][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box04 (Required Memory Estimate: 0.406051 MB)...
+[2025.01.26-11.14.41:546][619]LogStaticMesh: Built static mesh [0.06s] /Game/Underground/Meshes/Props/SM_Cardboard_Box02.SM_Cardboard_Box02
+[2025.01.26-11.14.41:550][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box03 (Required Memory Estimate: 0.411805 MB)...
+[2025.01.26-11.14.41:563][619]LogStaticMesh: Built static mesh [0.08s] /Game/Underground/Meshes/Props/SM_Cardboard_Box04.SM_Cardboard_Box04
+[2025.01.26-11.14.41:567][619]LogStaticMesh: Display: Building static mesh SM_Tileable_Multiple_Cable (Required Memory Estimate: 10.515354 MB)...
+[2025.01.26-11.14.41:633][619]LogStaticMesh: Built static mesh [0.08s] /Game/Underground/Meshes/Props/SM_Cardboard_Box03.SM_Cardboard_Box03
+[2025.01.26-11.14.41:638][619]LogStaticMesh: Display: Building static mesh SM_Fluorescent_Ligh03 (Required Memory Estimate: 1.846518 MB)...
+[2025.01.26-11.14.42:005][619]LogStaticMesh: Built static mesh [3.19s] /Game/Underground/Meshes/Props/SM_Tarp_WaterTank04.SM_Tarp_WaterTank04
+[2025.01.26-11.14.42:023][619]LogStaticMesh: Display: Building static mesh SM_Pipe_Straight_Long (Required Memory Estimate: 1.856144 MB)...
+[2025.01.26-11.14.42:106][619]LogStaticMesh: Built static mesh [0.66s] /Game/Underground/Meshes/Props/SM_Bin.SM_Bin
+[2025.01.26-11.14.42:114][619]LogStaticMesh: Display: Building static mesh SM_Fire_Extinguisher (Required Memory Estimate: 6.672903 MB)...
+[2025.01.26-11.14.42:203][619]LogStaticMesh: Built static mesh [0.57s] /Game/Underground/Meshes/Props/SM_Fluorescent_Ligh03.SM_Fluorescent_Ligh03
+[2025.01.26-11.14.42:208][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box06 (Required Memory Estimate: 0.226634 MB)...
+[2025.01.26-11.14.42:255][619]LogStaticMesh: Built static mesh [0.05s] /Game/Underground/Meshes/Props/SM_Cardboard_Box06.SM_Cardboard_Box06
+[2025.01.26-11.14.42:258][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box07 (Required Memory Estimate: 0.064948 MB)...
+[2025.01.26-11.14.42:268][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/Props/SM_Cardboard_Box07.SM_Cardboard_Box07
+[2025.01.26-11.14.42:270][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box01 (Required Memory Estimate: 0.064948 MB)...
+[2025.01.26-11.14.42:280][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/Props/SM_Cardboard_Box01.SM_Cardboard_Box01
+[2025.01.26-11.14.42:282][619]LogStaticMesh: Display: Building static mesh SM_Wooden_Pallette (Required Memory Estimate: 1.118944 MB)...
+[2025.01.26-11.14.42:419][619]LogStaticMesh: Built static mesh [0.14s] /Game/Underground/Meshes/Props/SM_Wooden_Pallette.SM_Wooden_Pallette
+[2025.01.26-11.14.42:423][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Evidence_Top (Required Memory Estimate: 0.166426 MB)...
+[2025.01.26-11.14.42:447][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/Props/SM_Cardboard_Evidence_Top.SM_Cardboard_Evidence_Top
+[2025.01.26-11.14.42:449][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Evidence_Box (Required Memory Estimate: 0.258163 MB)...
+[2025.01.26-11.14.42:484][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Cardboard_Evidence_Box.SM_Cardboard_Evidence_Box
+[2025.01.26-11.14.42:486][619]LogStaticMesh: Display: Building static mesh SM_Cement_Bag_Bent (Required Memory Estimate: 0.806093 MB)...
+[2025.01.26-11.14.42:507][619]LogStaticMesh: Built static mesh [0.48s] /Game/Underground/Meshes/Pipes/SM_Pipe_Straight_Long.SM_Pipe_Straight_Long
+[2025.01.26-11.14.42:513][619]LogStaticMesh: Display: Building static mesh SM_Cement_Bag (Required Memory Estimate: 0.806093 MB)...
+[2025.01.26-11.14.42:676][619]LogStaticMesh: Built static mesh [0.19s] /Game/Underground/Meshes/Props/SM_Cement_Bag_Bent.SM_Cement_Bag_Bent
+[2025.01.26-11.14.42:679][619]LogStaticMesh: Display: Building static mesh SM_Military_Crate_Open (Required Memory Estimate: 19.70505 MB)...
+[2025.01.26-11.14.42:707][619]LogStaticMesh: Built static mesh [0.20s] /Game/Underground/Meshes/Props/SM_Cement_Bag.SM_Cement_Bag
+[2025.01.26-11.14.42:711][619]LogStaticMesh: Display: Building static mesh SM_Jerry_Can (Required Memory Estimate: 1.388523 MB)...
+[2025.01.26-11.14.43:072][619]LogStaticMesh: Built static mesh [0.36s] /Game/Underground/Meshes/Props/SM_Jerry_Can.SM_Jerry_Can
+[2025.01.26-11.14.43:076][619]LogStaticMesh: Display: Building static mesh SM_Newspaper04 (Required Memory Estimate: 1.048956 MB)...
+[2025.01.26-11.14.43:285][619]LogStaticMesh: Built static mesh [0.21s] /Game/Underground/Meshes/Props/SM_Newspaper04.SM_Newspaper04
+[2025.01.26-11.14.43:289][619]LogStaticMesh: Display: Building static mesh SM_Newspaper03 (Required Memory Estimate: 0.287023 MB)...
+[2025.01.26-11.14.43:314][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Newspaper03.SM_Newspaper03
+[2025.01.26-11.14.43:316][619]LogStaticMesh: Display: Building static mesh SM_Street_Cone02 (Required Memory Estimate: 1.272953 MB)...
+[2025.01.26-11.14.43:632][619]LogStaticMesh: Built static mesh [0.32s] /Game/Underground/Meshes/Props/SM_Street_Cone02.SM_Street_Cone02
+[2025.01.26-11.14.43:636][619]LogStaticMesh: Display: Building static mesh SM_Registration_Sign (Required Memory Estimate: 0.160104 MB)...
+[2025.01.26-11.14.43:655][619]LogStaticMesh: Built static mesh [0.02s] /Game/Underground/Meshes/Props/SM_Registration_Sign.SM_Registration_Sign
+[2025.01.26-11.14.43:658][619]LogStaticMesh: Display: Building static mesh SM_Clippboard (Required Memory Estimate: 0.58735 MB)...
+[2025.01.26-11.14.43:769][619]LogStaticMesh: Built static mesh [1.66s] /Game/Underground/Meshes/Props/SM_Fire_Extinguisher.SM_Fire_Extinguisher
+[2025.01.26-11.14.43:781][619]LogStaticMesh: Built static mesh [3.49s] /Game/Underground/Meshes/SM_Beam_Thin_Split_100u.SM_Beam_Thin_Split_100u
+[2025.01.26-11.14.43:782][619]LogStaticMesh: Display: Building static mesh SM_Quarantine_Sign (Required Memory Estimate: 0.160104 MB)...
+[2025.01.26-11.14.43:802][619]LogStaticMesh: Built static mesh [0.14s] /Game/Underground/Meshes/Props/SM_Clippboard.SM_Clippboard
+[2025.01.26-11.14.43:805][619]LogStaticMesh: Display: Building static mesh SM_Body_C_Sign (Required Memory Estimate: 0.160104 MB)...
+[2025.01.26-11.14.43:806][619]LogStaticMesh: Display: Building static mesh SM_Banner (Required Memory Estimate: 5.04362 MB)...
+[2025.01.26-11.14.43:819][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/Props/SM_Quarantine_Sign.SM_Quarantine_Sign
+[2025.01.26-11.14.43:822][619]LogStaticMesh: Display: Building static mesh SM_Fence_200u (Required Memory Estimate: 2.623091 MB)...
+[2025.01.26-11.14.43:840][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/Props/SM_Body_C_Sign.SM_Body_C_Sign
+[2025.01.26-11.14.43:844][619]LogStaticMesh: Display: Building static mesh SM_Fence_Door (Required Memory Estimate: 7.435831 MB)...
+[2025.01.26-11.14.44:070][619]LogStaticMesh: Built static mesh [5.41s] /Game/Underground/Meshes/Props/SM_Tarp_Floor01.SM_Tarp_Floor01
+[2025.01.26-11.14.44:104][619]LogStaticMesh: Display: Building static mesh SM_Fence_100u (Required Memory Estimate: 2.623091 MB)...
+[2025.01.26-11.14.44:152][619]LogStaticMesh: Built static mesh [2.59s] /Game/Underground/Meshes/Props/SM_Tileable_Multiple_Cable.SM_Tileable_Multiple_Cable
+[2025.01.26-11.14.44:173][619]LogStaticMesh: Display: Building static mesh SM_Bottle_Medium (Required Memory Estimate: 1.890998 MB)...
+[2025.01.26-11.14.44:550][619]LogStaticMesh: Built static mesh [0.73s] /Game/Underground/Meshes/SM_Fence_200u.SM_Fence_200u
+[2025.01.26-11.14.44:556][619]LogStaticMesh: Display: Building static mesh SM_Tape01 (Required Memory Estimate: 0.240793 MB)...
+[2025.01.26-11.14.44:596][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/Props/SM_Tape01.SM_Tape01
+[2025.01.26-11.14.44:599][619]LogStaticMesh: Display: Building static mesh SM_Tarp_Wall03 (Required Memory Estimate: 7.247616 MB)...
+[2025.01.26-11.14.44:682][619]LogStaticMesh: Built static mesh [0.08s] /Game/Underground/Meshes/Props/SM_Tarp_Wall03.SM_Tarp_Wall03
+[2025.01.26-11.14.44:695][619]LogStaticMesh: Display: Building static mesh SM_Vent_A (Required Memory Estimate: 0.281402 MB)...
+[2025.01.26-11.14.44:698][619]LogStaticMesh: Built static mesh [0.89s] /Game/Underground/Meshes/Props/SM_Banner.SM_Banner
+[2025.01.26-11.14.44:701][619]LogStaticMesh: Built static mesh [0.53s] /Game/Underground/Meshes/Props/SM_Bottle_Medium.SM_Bottle_Medium
+[2025.01.26-11.14.44:707][619]LogStaticMesh: Display: Building static mesh SM_Folded_Road_Sign (Required Memory Estimate: 2.959881 MB)...
+[2025.01.26-11.14.44:707][619]LogStaticMesh: Display: Building static mesh SM_Bottle_Fat (Required Memory Estimate: 2.628805 MB)...
+[2025.01.26-11.14.44:729][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Vent_A.SM_Vent_A
+[2025.01.26-11.14.44:733][619]LogStaticMesh: Display: Building static mesh SM_Wall_Curved_Right_200u (Required Memory Estimate: 2.048218 MB)...
+[2025.01.26-11.14.44:768][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/SM_Wall_Curved_Right_200u.SM_Wall_Curved_Right_200u
+[2025.01.26-11.14.44:773][619]LogStaticMesh: Display: Building static mesh SM_Bucket (Required Memory Estimate: 1.384404 MB)...
+[2025.01.26-11.14.44:842][619]LogStaticMesh: Built static mesh [0.74s] /Game/Underground/Meshes/SM_Fence_100u.SM_Fence_100u
+[2025.01.26-11.14.44:849][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Whole_Empty (Required Memory Estimate: 7.10069 MB)...
+[2025.01.26-11.14.45:101][619]LogStaticMesh: Built static mesh [3.73s] /Game/Underground/Meshes/Props/SM_Bin_Bag01.SM_Bin_Bag01
+[2025.01.26-11.14.45:101][619]LogStaticMesh: Built static mesh [0.33s] /Game/Underground/Meshes/Props/SM_Bucket.SM_Bucket
+[2025.01.26-11.14.45:105][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Whole (Required Memory Estimate: 8.187257 MB)...
+[2025.01.26-11.14.45:119][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Quarter (Required Memory Estimate: 2.930942 MB)...
+[2025.01.26-11.14.45:388][619]LogStaticMesh: Built static mesh [0.68s] /Game/Underground/Meshes/Props/SM_Bottle_Fat.SM_Bottle_Fat
+[2025.01.26-11.14.45:394][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Whole_Gaps (Required Memory Estimate: 7.644013 MB)...
+[2025.01.26-11.14.45:699][619]LogStaticMesh: Built static mesh [0.58s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Quarter.SM_Ceiling_Scaffold_Quarter
+[2025.01.26-11.14.45:706][619]LogStaticMesh: Display: Building static mesh SM_Portable_Floodlight (Required Memory Estimate: 7.107579 MB)...
+[2025.01.26-11.14.45:810][619]LogStaticMesh: Built static mesh [1.11s] /Game/Underground/Meshes/Props/SM_Folded_Road_Sign.SM_Folded_Road_Sign
+[2025.01.26-11.14.45:816][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Cables_45 (Required Memory Estimate: 5.512122 MB)...
+[2025.01.26-11.14.45:892][619]LogStaticMesh: Built static mesh [0.08s] /Game/Underground/Meshes/Props/SM_Ceiling_Cables_45.SM_Ceiling_Cables_45
+[2025.01.26-11.14.45:903][619]LogStaticMesh: Display: Building static mesh SM_Wall_200u (Required Memory Estimate: 0.749263 MB)...
+[2025.01.26-11.14.45:915][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/SM_Wall_200u.SM_Wall_200u
+[2025.01.26-11.14.45:918][619]LogStaticMesh: Display: Building static mesh SM_Folding_Doors_Long_Closed (Required Memory Estimate: 10.638034 MB)...
+[2025.01.26-11.14.46:068][619]LogStaticMesh: Built static mesh [2.22s] /Game/Underground/Meshes/SM_Fence_Door.SM_Fence_Door
+[2025.01.26-11.14.46:078][619]LogStaticMesh: Display: Building static mesh SM_Wall_50u (Required Memory Estimate: 0.750845 MB)...
+[2025.01.26-11.14.46:090][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/SM_Wall_50u.SM_Wall_50u
+[2025.01.26-11.14.46:092][619]LogStaticMesh: Display: Building static mesh SM_Pipe_Curved (Required Memory Estimate: 2.375862 MB)...
+[2025.01.26-11.14.46:376][619]LogStaticMesh: Built static mesh [1.53s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Whole_Empty.SM_Ceiling_Scaffold_Whole_Empty
+[2025.01.26-11.14.46:390][619]LogStaticMesh: Display: Building static mesh SM_Stairs_200u (Required Memory Estimate: 6.037795 MB)...
+[2025.01.26-11.14.46:680][619]LogStaticMesh: Built static mesh [0.59s] /Game/Underground/Meshes/Pipes/SM_Pipe_Curved.SM_Pipe_Curved
+[2025.01.26-11.14.46:688][619]LogStaticMesh: Display: Building static mesh SM_Military_Crate (Required Memory Estimate: 17.61063 MB)...
+[2025.01.26-11.14.46:946][619]LogStaticMesh: Built static mesh [1.84s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Whole.SM_Ceiling_Scaffold_Whole
+[2025.01.26-11.14.46:965][619]LogStaticMesh: Display: Building static mesh SM_Crate_Top (Required Memory Estimate: 10.112648 MB)...
+[2025.01.26-11.14.47:085][619]LogStaticMesh: Built static mesh [1.69s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Whole_Gaps.SM_Ceiling_Scaffold_Whole_Gaps
+[2025.01.26-11.14.47:097][619]LogStaticMesh: Display: Building static mesh SM_Crate_Open (Required Memory Estimate: 7.439109 MB)...
+[2025.01.26-11.14.47:109][619]LogStaticMesh: Built static mesh [6.98s] /Game/Underground/Meshes/SM_Beam_Thin_100u.SM_Beam_Thin_100u
+[2025.01.26-11.14.47:148][619]LogStaticMesh: Display: Building static mesh SM_Portable_Water_Tank (Required Memory Estimate: 17.423249 MB)...
+[2025.01.26-11.14.47:295][619]LogStaticMesh: Display: Waiting for static meshes to be ready 75/133 (/Game/Underground/Meshes/Props/SM_Military_Crate_Open) ...
+[2025.01.26-11.14.47:577][619]LogStaticMesh: Built static mesh [1.87s] /Game/Underground/Meshes/Props/SM_Portable_Floodlight.SM_Portable_Floodlight
+[2025.01.26-11.14.47:591][619]LogStaticMesh: Display: Building static mesh SM_Cinder_Blocks (Required Memory Estimate: 10.255542 MB)...
+[2025.01.26-11.14.47:866][619]LogStaticMesh: Built static mesh [1.95s] /Game/Underground/Meshes/Props/SM_Folding_Doors_Long_Closed.SM_Folding_Doors_Long_Closed
+[2025.01.26-11.14.47:891][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Half_Gap (Required Memory Estimate: 4.632716 MB)...
+[2025.01.26-11.14.48:008][619]LogStaticMesh: Built static mesh [1.62s] /Game/Underground/Meshes/SM_Stairs_200u.SM_Stairs_200u
+[2025.01.26-11.14.48:021][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Half (Required Memory Estimate: 4.904325 MB)...
+[2025.01.26-11.14.48:464][619]LogStaticMesh: Built static mesh [5.79s] /Game/Underground/Meshes/Props/SM_Military_Crate_Open.SM_Military_Crate_Open
+[2025.01.26-11.14.48:501][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Scaffold_Quarter_Empty (Required Memory Estimate: 2.659226 MB)...
+[2025.01.26-11.14.48:505][619]LogStaticMesh: Display: Waiting for static meshes to be ready 79/133 (/Game/Underground/Meshes/Props/SM_Military_Crate) ...
+[2025.01.26-11.14.48:739][619]LogStaticMesh: Built static mesh [1.64s] /Game/Underground/Meshes/Props/SM_Crate_Open.SM_Crate_Open
+[2025.01.26-11.14.48:752][619]LogStaticMesh: Display: Building static mesh SM_Pipe_Straight_Short (Required Memory Estimate: 1.856144 MB)...
+[2025.01.26-11.14.48:968][619]LogStaticMesh: Built static mesh [0.47s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Quarter_Empty.SM_Ceiling_Scaffold_Quarter_Empty
+[2025.01.26-11.14.48:974][619]LogStaticMesh: Display: Building static mesh SM_Stand_Up_Floodlight (Required Memory Estimate: 6.849309 MB)...
+[2025.01.26-11.14.49:116][619]LogStaticMesh: Built static mesh [1.23s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Half_Gap.SM_Ceiling_Scaffold_Half_Gap
+[2025.01.26-11.14.49:126][619]LogStaticMesh: Display: Building static mesh SM_Wall_Corner_100u_Flipped (Required Memory Estimate: 2.047036 MB)...
+[2025.01.26-11.14.49:153][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/SM_Wall_Corner_100u_Flipped.SM_Wall_Corner_100u_Flipped
+[2025.01.26-11.14.49:157][619]LogStaticMesh: Display: Building static mesh SM_Wall_100u (Required Memory Estimate: 0.749269 MB)...
+[2025.01.26-11.14.49:168][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/SM_Wall_100u.SM_Wall_100u
+[2025.01.26-11.14.49:171][619]LogStaticMesh: Display: Building static mesh SM_Railing_100u (Required Memory Estimate: 4.970287 MB)...
+[2025.01.26-11.14.49:194][619]LogStaticMesh: Built static mesh [0.44s] /Game/Underground/Meshes/Pipes/SM_Pipe_Straight_Short.SM_Pipe_Straight_Short
+[2025.01.26-11.14.49:201][619]LogStaticMesh: Display: Building static mesh SM_CCTV_Heavy (Required Memory Estimate: 3.2593 MB)...
+[2025.01.26-11.14.49:385][619]LogStaticMesh: Built static mesh [1.36s] /Game/Underground/Meshes/SM_Ceiling_Scaffold_Half.SM_Ceiling_Scaffold_Half
+[2025.01.26-11.14.49:388][619]LogStaticMesh: Built static mesh [2.42s] /Game/Underground/Meshes/Props/SM_Crate_Top.SM_Crate_Top
+[2025.01.26-11.14.49:393][619]LogStaticMesh: Display: Building static mesh SM_Road_Sign (Required Memory Estimate: 2.959667 MB)...
+[2025.01.26-11.14.49:403][619]LogStaticMesh: Display: Building static mesh SM_Floor_Half_200u (Required Memory Estimate: 0.018191 MB)...
+[2025.01.26-11.14.49:406][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/SM_Floor_Half_200u.SM_Floor_Half_200u
+[2025.01.26-11.14.49:408][619]LogStaticMesh: Display: Building static mesh SM_Tape03 (Required Memory Estimate: 1.473191 MB)...
+[2025.01.26-11.14.49:727][619]LogStaticMesh: Built static mesh [0.32s] /Game/Underground/Meshes/Props/SM_Tape03.SM_Tape03
+[2025.01.26-11.14.49:732][619]LogStaticMesh: Display: Building static mesh SM_Tape02 (Required Memory Estimate: 1.2679 MB)...
+[2025.01.26-11.14.49:947][619]LogStaticMesh: Built static mesh [0.78s] /Game/Underground/Meshes/SM_Railing_100u.SM_Railing_100u
+[2025.01.26-11.14.49:957][619]LogStaticMesh: Display: Building static mesh SM_Metal_Rack (Required Memory Estimate: 7.13302 MB)...
+[2025.01.26-11.14.49:962][619]LogStaticMesh: Built static mesh [0.23s] /Game/Underground/Meshes/Props/SM_Tape02.SM_Tape02
+[2025.01.26-11.14.49:967][619]LogStaticMesh: Display: Building static mesh SM_Wooden_Barrier (Required Memory Estimate: 3.527017 MB)...
+[2025.01.26-11.14.50:055][619]LogStaticMesh: Built static mesh [0.66s] /Game/Underground/Meshes/Props/SM_Road_Sign.SM_Road_Sign
+[2025.01.26-11.14.50:062][619]LogStaticMesh: Display: Building static mesh SM_Wall_50u_Custom (Required Memory Estimate: 0.473088 MB)...
+[2025.01.26-11.14.50:069][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/SM_Wall_50u_Custom.SM_Wall_50u_Custom
+[2025.01.26-11.14.50:072][619]LogStaticMesh: Display: Building static mesh SM_Wall_15u (Required Memory Estimate: 0.195405 MB)...
+[2025.01.26-11.14.50:076][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/SM_Wall_15u.SM_Wall_15u
+[2025.01.26-11.14.50:078][619]LogStaticMesh: Display: Building static mesh SM_Marble_Wall_Chips (Required Memory Estimate: 0.245253 MB)...
+[2025.01.26-11.14.50:090][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/Debris/SM_Marble_Wall_Chips.SM_Marble_Wall_Chips
+[2025.01.26-11.14.50:092][619]LogStaticMesh: Display: Building static mesh SM_Stretcher01 (Required Memory Estimate: 7.487915 MB)...
+[2025.01.26-11.14.50:327][619]LogStaticMesh: Built static mesh [1.13s] /Game/Underground/Meshes/Props/SM_CCTV_Heavy.SM_CCTV_Heavy
+[2025.01.26-11.14.50:335][619]LogStaticMesh: Display: Building static mesh SM_Single_Door02 (Required Memory Estimate: 3.111259 MB)...
+[2025.01.26-11.14.50:591][619]LogStaticMesh: Built static mesh [3.00s] /Game/Underground/Meshes/Props/SM_Cinder_Blocks.SM_Cinder_Blocks
+[2025.01.26-11.14.50:614][619]LogStaticMesh: Display: Building static mesh SM_Flat_Cardboard (Required Memory Estimate: 0.044767 MB)...
+[2025.01.26-11.14.50:616][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Props/SM_Flat_Cardboard.SM_Flat_Cardboard
+[2025.01.26-11.14.50:617][619]LogStaticMesh: Display: Building static mesh SM_Cardboard_Box05 (Required Memory Estimate: 0.2018 MB)...
+[2025.01.26-11.14.50:650][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Cardboard_Box05.SM_Cardboard_Box05
+[2025.01.26-11.14.50:652][619]LogStaticMesh: Display: Building static mesh SM_Direction_Sign01 (Required Memory Estimate: 0.293084 MB)...
+[2025.01.26-11.14.50:690][619]LogStaticMesh: Built static mesh [0.04s] /Game/Underground/Meshes/Props/SM_Direction_Sign01.SM_Direction_Sign01
+[2025.01.26-11.14.50:694][619]LogStaticMesh: Display: Building static mesh SM_Direction_Sign02 (Required Memory Estimate: 0.293084 MB)...
+[2025.01.26-11.14.50:723][619]LogStaticMesh: Built static mesh [0.03s] /Game/Underground/Meshes/Props/SM_Direction_Sign02.SM_Direction_Sign02
+[2025.01.26-11.14.50:726][619]LogStaticMesh: Display: Building static mesh SM_Fluorescent_Light01 (Required Memory Estimate: 23.131517 MB)...
+[2025.01.26-11.14.50:760][619]LogStaticMesh: Built static mesh [1.79s] /Game/Underground/Meshes/Props/SM_Stand_Up_Floodlight.SM_Stand_Up_Floodlight
+[2025.01.26-11.14.50:772][619]LogStaticMesh: Display: Building static mesh SM_Trolley (Required Memory Estimate: 12.230607 MB)...
+[2025.01.26-11.14.50:902][619]LogStaticMesh: Built static mesh [0.94s] /Game/Underground/Meshes/Props/SM_Wooden_Barrier.SM_Wooden_Barrier
+[2025.01.26-11.14.50:910][619]LogStaticMesh: Display: Building static mesh SM_Oxygen_Cannister (Required Memory Estimate: 2.461345 MB)...
+[2025.01.26-11.14.51:085][619]LogStaticMesh: Built static mesh [0.75s] /Game/Underground/Meshes/Props/SM_Single_Door02.SM_Single_Door02
+[2025.01.26-11.14.51:092][619]LogStaticMesh: Display: Building static mesh SM_AC_Unit_100u (Required Memory Estimate: 1.147396 MB)...
+[2025.01.26-11.14.51:267][619]LogStaticMesh: Built static mesh [0.18s] /Game/Underground/Meshes/Props/SM_AC_Unit_100u.SM_AC_Unit_100u
+[2025.01.26-11.14.51:272][619]LogStaticMesh: Display: Building static mesh SM_AC_Unit_Cover (Required Memory Estimate: 0.918552 MB)...
+[2025.01.26-11.14.51:337][619]LogStaticMesh: Built static mesh [4.65s] /Game/Underground/Meshes/Props/SM_Military_Crate.SM_Military_Crate
+[2025.01.26-11.14.51:362][619]LogStaticMesh: Display: Building static mesh SM_AC_Unit_Bend_45 (Required Memory Estimate: 1.563133 MB)...
+[2025.01.26-11.14.51:371][619]LogStaticMesh: Display: Waiting for static meshes to be ready 106/133 (/Game/Underground/Meshes/Props/SM_Portable_Water_Tank) ...
+[2025.01.26-11.14.51:374][619]LogStaticMesh: Built static mesh [0.10s] /Game/Underground/Meshes/Props/SM_AC_Unit_Cover.SM_AC_Unit_Cover
+[2025.01.26-11.14.51:376][619]LogStaticMesh: Built static mesh [4.23s] /Game/Underground/Meshes/Props/SM_Portable_Water_Tank.SM_Portable_Water_Tank
+[2025.01.26-11.14.51:379][619]LogStaticMesh: Display: Building static mesh SM_Power_Generator (Required Memory Estimate: 16.987859 MB)...
+[2025.01.26-11.14.51:407][619]LogStaticMesh: Display: Building static mesh SM_Street_Cone01 (Required Memory Estimate: 2.827374 MB)...
+[2025.01.26-11.14.51:421][619]LogStaticMesh: Display: Waiting for static meshes to be ready 108/133 (/Game/Underground/Meshes/Props/SM_Metal_Rack) ...
+[2025.01.26-11.14.51:484][619]LogStaticMesh: Built static mesh [0.57s] /Game/Underground/Meshes/Props/SM_Oxygen_Cannister.SM_Oxygen_Cannister
+[2025.01.26-11.14.51:488][619]LogStaticMesh: Display: Building static mesh SM_Vending_Machine (Required Memory Estimate: 1.758612 MB)...
+[2025.01.26-11.14.51:583][619]LogStaticMesh: Built static mesh [0.22s] /Game/Underground/Meshes/Props/SM_AC_Unit_Bend_45.SM_AC_Unit_Bend_45
+[2025.01.26-11.14.51:588][619]LogStaticMesh: Display: Building static mesh SM_Cable_Ramp (Required Memory Estimate: 1.301592 MB)...
+[2025.01.26-11.14.51:767][619]LogStaticMesh: Built static mesh [1.81s] /Game/Underground/Meshes/Props/SM_Metal_Rack.SM_Metal_Rack
+[2025.01.26-11.14.51:780][619]LogStaticMesh: Display: Building static mesh SM_ElectriBox01 (Required Memory Estimate: 12.570508 MB)...
+[2025.01.26-11.14.51:780][619]LogStaticMesh: Display: Waiting for static meshes to be ready 111/133 (/Game/Underground/Meshes/Props/SM_Stretcher01) ...
+[2025.01.26-11.14.51:795][619]LogStaticMesh: Built static mesh [1.70s] /Game/Underground/Meshes/Props/SM_Stretcher01.SM_Stretcher01
+[2025.01.26-11.14.51:807][619]LogStaticMesh: Display: Building static mesh SM_Ceiling_Pillar_200u (Required Memory Estimate: 3.707294 MB)...
+[2025.01.26-11.14.51:813][619]LogStaticMesh: Display: Waiting for static meshes to be ready 112/133 (/Game/Underground/Meshes/Props/SM_Fluorescent_Light01) ...
+[2025.01.26-11.14.51:833][619]LogStaticMesh: Built static mesh [0.35s] /Game/Underground/Meshes/Props/SM_Vending_Machine.SM_Vending_Machine
+[2025.01.26-11.14.51:838][619]LogStaticMesh: Display: Building static mesh SM_ElectriBox03 (Required Memory Estimate: 7.729336 MB)...
+[2025.01.26-11.14.51:905][619]LogStaticMesh: Built static mesh [11.59s] /Game/Underground/Meshes/SM_Beam_Vertical_100u.SM_Beam_Vertical_100u
+[2025.01.26-11.14.51:977][619]LogStaticMesh: Display: Building static mesh SM_Half_Arch_Mirror (Required Memory Estimate: 2.523749 MB)...
+[2025.01.26-11.14.52:016][619]LogStaticMesh: Built static mesh [0.43s] /Game/Underground/Meshes/Props/SM_Cable_Ramp.SM_Cable_Ramp
+[2025.01.26-11.14.52:022][619]LogStaticMesh: Display: Building static mesh SM_Rectangular_Barrier (Required Memory Estimate: 2.331175 MB)...
+[2025.01.26-11.14.52:100][619]LogStaticMesh: Built static mesh [0.69s] /Game/Underground/Meshes/Props/SM_Street_Cone01.SM_Street_Cone01
+[2025.01.26-11.14.52:107][619]LogStaticMesh: Display: Building static mesh SM_Barrier (Required Memory Estimate: 7.56998 MB)...
+[2025.01.26-11.14.52:484][619]LogStaticMesh: Built static mesh [0.51s] /Game/Underground/Meshes/Props/SM_Half_Arch_Mirror.SM_Half_Arch_Mirror
+[2025.01.26-11.14.52:491][619]LogStaticMesh: Display: Building static mesh SM_Single_Door01 (Required Memory Estimate: 5.738329 MB)...
+[2025.01.26-11.14.52:542][619]LogStaticMesh: Built static mesh [0.52s] /Game/Underground/Meshes/Props/SM_Rectangular_Barrier.SM_Rectangular_Barrier
+[2025.01.26-11.14.52:548][619]LogStaticMesh: Display: Building static mesh SM_Fluorescent_Light02 (Required Memory Estimate: 23.131517 MB)...
+[2025.01.26-11.14.52:784][619]LogStaticMesh: Built static mesh [0.98s] /Game/Underground/Meshes/SM_Ceiling_Pillar_200u.SM_Ceiling_Pillar_200u
+[2025.01.26-11.14.52:791][619]LogStaticMesh: Display: Building static mesh SM_Folding_Doors_Long_Open (Required Memory Estimate: 6.306453 MB)...
+[2025.01.26-11.14.52:879][619]LogStaticMesh: Built static mesh [2.11s] /Game/Underground/Meshes/Props/SM_Trolley.SM_Trolley
+[2025.01.26-11.14.52:896][619]LogStaticMesh: Display: Building static mesh SM_AC_Unit_C_Bend_45 (Required Memory Estimate: 1.389645 MB)...
+[2025.01.26-11.14.52:969][619]LogStaticMesh: Built static mesh [0.07s] /Game/Underground/Meshes/Props/SM_AC_Unit_C_Bend_45.SM_AC_Unit_C_Bend_45
+[2025.01.26-11.14.52:973][619]LogStaticMesh: Display: Building static mesh SM_AC_Unit_C_Cover (Required Memory Estimate: 0.985683 MB)...
+[2025.01.26-11.14.53:108][619]LogStaticMesh: Built static mesh [0.14s] /Game/Underground/Meshes/Props/SM_AC_Unit_C_Cover.SM_AC_Unit_C_Cover
+[2025.01.26-11.14.53:112][619]LogStaticMesh: Display: Building static mesh SM_AC_Unit_C_100u (Required Memory Estimate: 0.065475 MB)...
+[2025.01.26-11.14.53:116][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Props/SM_AC_Unit_C_100u.SM_AC_Unit_C_100u
+[2025.01.26-11.14.53:119][619]LogStaticMesh: Display: Building static mesh SM_Floor_Quarter_200u (Required Memory Estimate: 0.010621 MB)...
+[2025.01.26-11.14.53:123][619]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/SM_Floor_Quarter_200u.SM_Floor_Quarter_200u
+[2025.01.26-11.14.53:124][619]LogStaticMesh: Display: Building static mesh SM_Wall_100u_Flipped (Required Memory Estimate: 0.749269 MB)...
+[2025.01.26-11.14.53:137][619]LogStaticMesh: Built static mesh [0.01s] /Game/Underground/Meshes/SM_Wall_100u_Flipped.SM_Wall_100u_Flipped
+[2025.01.26-11.14.53:373][619]LogStaticMesh: Built static mesh [1.53s] /Game/Underground/Meshes/Props/SM_ElectriBox03.SM_ElectriBox03
+[2025.01.26-11.14.53:625][619]LogStaticMesh: Built static mesh [1.52s] /Game/Underground/Meshes/Props/SM_Barrier.SM_Barrier
+[2025.01.26-11.14.53:640][619]LogStaticMesh: Display: Building static mesh SM_Heat_Vent (Required Memory Estimate: 3.068188 MB)...
+[2025.01.26-11.14.53:857][619]LogStaticMesh: Built static mesh [1.07s] /Game/Underground/Meshes/Props/SM_Folding_Doors_Long_Open.SM_Folding_Doors_Long_Open
+[2025.01.26-11.14.53:923][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_2 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.53:994][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_3 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:061][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_4 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:130][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_6 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:186][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_7 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:245][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_8 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:313][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_9 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:315][619]LogStaticMesh: Built static mesh [2.54s] /Game/Underground/Meshes/Props/SM_ElectriBox01.SM_ElectriBox01
+[2025.01.26-11.14.54:346][619]LogStaticMesh: Built static mesh [1.85s] /Game/Underground/Meshes/Props/SM_Single_Door01.SM_Single_Door01
+[2025.01.26-11.14.54:385][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_1 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:387][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_10 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:414][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_11 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:454][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_12 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:464][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_13 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:489][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_14 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:491][619]LogStaticMesh: Built static mesh [0.85s] /Game/Underground/Meshes/Props/SM_Heat_Vent.SM_Heat_Vent
+[2025.01.26-11.14.54:659][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:697][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_15 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:698][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_16 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:713][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_2 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:718][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_3 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:772][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_4 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:780][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_5 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:790][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_7 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:791][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_6 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:840][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:ShadowMapTexture2D_6 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:843][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:ShadowMapTexture2D_5 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:856][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_8 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:861][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:LQ_Lightmap_1_9 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:878][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:ShadowMapTexture2D_7 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:885][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_01.IES_01 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:886][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_02.IES_02 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:887][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_03.IES_03 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:888][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_04.IES_04 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:888][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:ShadowMapTexture2D_8 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:889][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_05.IES_05 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:891][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_06.IES_06 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:892][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/IES_Light_Profiles/IES_07.IES_07 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:893][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/LUT/LUT_Beauty.LUT_Beauty (BGRA8, 256x16 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:896][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Arrow_BaseColor.T_Arrow_BaseColor (G8, 512x512 x1x1x1) (Required Memory Estimate: 8.249993 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:904][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:ShadowMapTexture2D_9 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:919][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Graffiti_Plain_E_BaseColor.T_Graffiti_Plain_E_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:920][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Graffiti_Plain_D_BaseColor.T_Graffiti_Plain_D_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:931][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/Vertical_Stain_BaseColor.Vertical_Stain_BaseColor (TFO_AutoDXT, 512x1024 x1x1x1) (Required Memory Estimate: 85.541647 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:975][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_DirtStain_BaseColor.T_DirtStain_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:979][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_DirtStain_B_BaseColor.T_DirtStain_B_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.54:980][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/Vertical_Stain_B_BaseColor.Vertical_Stain_B_BaseColor (TFO_AutoDXT, 512x1024 x1x1x1) (Required Memory Estimate: 85.541647 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:001][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Floor_BaseColor.T_Grunge_Floor_BaseColor (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 29.999993 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:006][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Graffiti_Plain_C_BaseColor.T_Graffiti_Plain_C_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:009][619]LogTexture: Display: Building textures: /Game/Underground/Post_Processing/Dirt_Masks/Dodgy_BaseColor.Dodgy_BaseColor (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 170.416647 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:018][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Floor_B_BaseColor.T_Grunge_Floor_B_BaseColor (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 29.999993 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:064][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Floor_C_BaseColor.T_Grunge_Floor_C_BaseColor (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 29.999993 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:077][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Leak_B_BaseColor.T_Grunge_Leak_B_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:090][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Leak_BaseColor.T_Grunge_Leak_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:143][619]LogStaticMesh: Built static mesh [3.76s] /Game/Underground/Meshes/Props/SM_Power_Generator.SM_Power_Generator
+[2025.01.26-11.14.55:143][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Leak_C_BaseColor.T_Grunge_Leak_C_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:169][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Leak_D_BaseColor.T_Grunge_Leak_D_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:172][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Graffiti_Plain_BaseColor.T_Graffiti_Plain_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:184][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Path_BaseColor.T_Grunge_Path_BaseColor (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:217][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Graffiti_Plain_B_BaseColor.T_Graffiti_Plain_B_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:248][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Graffiti_Paint_Spray_BaseColor.T_Graffiti_Paint_Spray_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:277][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Beam_Thin_BaseColor.T_Beam_Thin_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:288][619]LogTexture: Display: Building textures: /Game/Underground/Textures/Decals/T_Grunge_Decal_M.T_Grunge_Decal_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:313][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Beam_Vertical_BaseColor.T_Beam_Vertical_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:320][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Beam_Thin_N.T_Beam_Thin_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:352][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Beam_Vertical_N.T_Beam_Vertical_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:469][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Default_Normal.T_Default_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:496][619]LogStaticMesh: Built static mesh [4.77s] /Game/Underground/Meshes/Props/SM_Fluorescent_Light01.SM_Fluorescent_Light01
+[2025.01.26-11.14.55:500][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_BillBoard_Posters_BaseColor.T_BillBoard_Posters_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:507][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Billboard_Edge_BaseColor.T_Billboard_Edge_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:514][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Body_Bag_Black_BaseColor.T_Body_Bag_Black_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:521][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Body_Bag_Normal.T_Body_Bag_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:527][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Billboard_Edge_N.T_Billboard_Edge_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:532][619]LogStaticMesh: Display: Waiting for static meshes to be ready 132/133 (/Game/Underground/Meshes/Props/SM_Fluorescent_Light02) ...
+[2025.01.26-11.14.55:639][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Body_Bag_Yellow_BaseColor.T_Body_Bag_Yellow_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:655][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_ConcreteCeiling_BaseColor.T_ConcreteCeiling_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:657][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_ConcreteFloor_BaseColor.T_ConcreteFloor_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:662][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_ConcreteCeiling_N.T_ConcreteCeiling_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:668][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_ConcreteFloor_N.T_ConcreteFloor_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:673][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Directions_BaseColor.T_Directions_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:835][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bulb_N.T_Bulb_N (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:865][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Evidence_BaseColor.T_Evidence_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:876][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Directions_N.T_Directions_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:893][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_FE_N_Dirty.T_FE_N_Dirty (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:902][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_FireExtinguisher_Dirty_BaseColor.T_FireExtinguisher_Dirty_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.55:902][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Evidence_N.T_Evidence_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:068][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Folding_Doors_BaseColor.T_Folding_Doors_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:088][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Jerry_Can_Blue_BaseColor.T_Jerry_Can_Blue_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:265][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Gate_BaseColor.T_Gate_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:278][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Gate_Right_BaseColor.T_Gate_Right_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:353][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Folding_Doors_N.T_Folding_Doors_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:354][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Gate_N.T_Gate_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:367][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Jerry_Can_N.T_Jerry_Can_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:375][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Jerry_Can_Yellow_BaseColor.T_Jerry_Can_Yellow_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:892][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Light_BaseColor.T_Light_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:908][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Light_N.T_Light_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:924][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Metal_N.T_Metal_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:931][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Brushed_Metal_N.T_Brushed_Metal_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:939][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Police_Barrier_Blue_BaseColor.T_Police_Barrier_Blue_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.56:962][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Police_Barrier_N.T_Police_Barrier_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:148][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Rubber_N.T_Rubber_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:167][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Door01_BaseColor.T_Door01_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:180][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Door01_N.T_Door01_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:318][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Stairs_BaseColor.T_Stairs_BaseColor (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:355][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_Plain_BaseColor.T_Tarp_Plain_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:359][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_BaseColor.T_Tarp_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:378][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Stairs_N.T_Stairs_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:510][619]LogStaticMesh: Built static mesh [4.96s] /Game/Underground/Meshes/Props/SM_Fluorescent_Light02.SM_Fluorescent_Light02
+[2025.01.26-11.14.57:725][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Default_BaseColor.T_Default_BaseColor (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 1.645795 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:769][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_Floor_BaseColor.T_Tarp_Floor_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:783][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Vending_Machine_BaseColor.T_Vending_Machine_BaseColor (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:800][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Vending_Machine_N.T_Vending_Machine_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:843][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_N_R_Plain_Weave.T_Tarp_N_R_Plain_Weave (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.57:882][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_N_R_Weave.T_Tarp_N_R_Weave (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.58:018][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Roughness_Mask.T_Roughness_Mask (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.58:177][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_N_R_Plain_Floor.T_Tarp_N_R_Plain_Floor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.59:121][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_White_Broken_BaseColor.T_SubwayMarble_White_Broken_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.59:122][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cardboard_Flat_Atlas_BaseColor.T_Cardboard_Flat_Atlas_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.59:123][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_Broken_RBW_BaseColor.T_SubwayMarble_Broken_RBW_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.14.59:229][619]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x105 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 23% occupied, 512 triangles, SM_Wall_Custom_Curve
+[2025.01.26-11.15.01:419][619]LogMeshUtilities: Finished distance field build in 1.9s - 217x14x217 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 100% occupied, 1322 triangles, SM_Folding_Doors_Short_Closed
+[2025.01.26-11.15.02:333][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Pipe_BaseColor.T_Pipe_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:333][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cardboard_Flat_Atlas_N.T_Cardboard_Flat_Atlas_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:643][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Pipe_N.T_Pipe_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:654][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Signs_BaseColor.T_Signs_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:680][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_Bag_BaseColor.T_Bin_Bag_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:685][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Police_Barrier_BaseColor.T_Police_Barrier_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:697][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_BaseColor.T_Bin_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:708][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Folds_N.T_Folds_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:718][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_N.T_Bin_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:898][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_Bag_C_BaseColor.T_Bin_Bag_C_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:900][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_Bag_B_N.T_Bin_Bag_B_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:903][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_Bag_B_BaseColor.T_Bin_Bag_B_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:905][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_Bag_C_N.T_Bin_Bag_C_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.02:910][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Bin_Bag_N.T_Bin_Bag_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.05:939][619]LogMeshUtilities: Finished distance field build in 2.8s - 217x42x224 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 2256 triangles, SM_Gate_Closed
+[2025.01.26-11.15.08:560][619]LogMeshUtilities: Finished distance field build in 4.6s - 259x21x259 sparse distance field, 2.4Mb total, 0.0Mb always loaded, 100% occupied, 2432 triangles, SM_Folding_Doors_Long_Closed
+[2025.01.26-11.15.10:684][619]LogMeshUtilities: Finished distance field build in 3.3s - 224x112x224 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 23% occupied, 2256 triangles, SM_Gate_Open
+[2025.01.26-11.15.12:731][619]LogMeshUtilities: Finished distance field build in 4.1s - 259x259x210 sparse distance field, 5.3Mb total, 0.2Mb always loaded, 19% occupied, 1386 triangles, SM_Stairs_200u
+[2025.01.26-11.15.12:819][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cap_N.T_Cap_N (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:823][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Rubbish_Props_BaseColor.T_Rubbish_Props_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:823][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Rubbish_Props_N.T_Rubbish_Props_N (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:873][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Plastic_N.T_Plastic_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:874][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cable_Ramp_BaseColor.T_Cable_Ramp_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:877][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_CardboardBox02_BaseColor.T_CardboardBox02_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:879][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cable_Ramp_N.T_Cable_Ramp_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:896][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_CardboardBox_BaseColor01.T_CardboardBox_BaseColor01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:926][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_CardboardBox01_N.T_CardboardBox01_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.12:927][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_CardboardBox02_N.T_CardboardBox02_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.13:117][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cement_Bag_N.T_Cement_Bag_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.13:121][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cement_Bag_BaseColor.T_Cement_Bag_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.13:124][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_CCTV_BaseColor.T_CCTV_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.13:132][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_CCTV_N.T_CCTV_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.17:905][619]LogMeshUtilities: Finished distance field build in 4.3s - 259x140x203 sparse distance field, 6.7Mb total, 0.2Mb always loaded, 51% occupied, 1612 triangles, SM_Metal_Rack
+[2025.01.26-11.15.17:938][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Crate_Bottom_BaseColor.T_Crate_Bottom_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.18:094][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cinder_Blocks_BaseColor.T_Cinder_Blocks_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.18:148][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cinder_Blocks_N.T_Cinder_Blocks_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.18:943][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Crate_Top_BaseColor.T_Crate_Top_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.18:959][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Crate_Bottom_N.T_Crate_Bottom_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:157][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_FireExtinguisher_Clean_BaseColor.T_FireExtinguisher_Clean_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:163][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Road_Sign_BaseColor.T_Road_Sign_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:183][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_FE_N_Clean.T_FE_N_Clean (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:187][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Road_Sign_N.T_Road_Sign_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:190][619]LogMeshUtilities: Finished distance field build in 1.3s - 259x98x84 sparse distance field, 1.0Mb total, 0.1Mb always loaded, 24% occupied, 810 triangles, SM_Wooden_Barrier
+[2025.01.26-11.15.19:211][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Electric_Box_N.T_Electric_Box_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:215][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Electric_Box_BaseColor.T_Electric_Box_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:221][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Crate_Top_N.T_Crate_Top_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:739][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Jerry_Can_BaseColor.T_Jerry_Can_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.19:938][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Metal_Rack_BaseColor.T_Metal_Rack_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.20:560][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Poster_BaseColor.T_Poster_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.20:560][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Newspaper_BaseColor.T_Newspaper_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.20:575][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Military_Crate_N.T_Military_Crate_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.20:582][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Military_Crate_BaseColor.T_Military_Crate_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.20:802][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Metal_Rack_N.T_Metal_Rack_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:666][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Medicine_BaseColor.T_Medicine_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:701][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Oxygen_Cannister_BaseColor.T_Oxygen_Cannister_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:714][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Oxygen_Cannister_N.T_Oxygen_Cannister_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:893][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Water_Tank_BaseColor.T_Water_Tank_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:920][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Water_Tank_N.T_Water_Tank_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:926][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Generator_BaseColor.T_Generator_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.21:960][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Generator_N.T_Generator_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.22:180][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_NYPD_Barrier_BaseColor.T_NYPD_Barrier_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.22:381][619]LogMeshUtilities: Finished distance field build in 1.6s - 259x91x105 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 37% occupied, 1730 triangles, SM_Barrier
+[2025.01.26-11.15.24:961][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_NYPD_Barrier_N.T_NYPD_Barrier_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:329][619]LogMeshUtilities: Finished distance field build in 2.8s - 259x35x259 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 63% occupied, 1442 triangles, SM_Folding_Doors_Long_Open
+[2025.01.26-11.15.25:395][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tape_BaseColor.T_Tape_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.333323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:430][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cone_BaseColor.T_Cone_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:434][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Street_Cone_Small_N.T_Street_Cone_Small_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:436][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Street_Cone_Small_BaseColor.T_Street_Cone_Small_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:439][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Cone_N.T_Cone_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:444][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Door02_BaseColor.T_Door02_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:449][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Door02_N.T_Door02_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:452][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_Wall_BaseColor.T_Tarp_Wall_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:624][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Vent_BaseColor.T_Vent_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:630][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Vent_N.T_Vent_N (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:667][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Wooden_Pallet_BaseColor.T_Wooden_Pallet_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:682][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Wooden_Barrier_BaseColor.T_Wooden_Barrier_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:689][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Tarp_Wall_N_R_Pattern.T_Tarp_Wall_N_R_Pattern (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:692][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Wooden_Barrier_N.T_Wooden_Barrier_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:837][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Wooden_Pallet_N.T_Wooden_Pallet_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:892][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Fence_N.T_Fence_N (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:919][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Heat_Vent_BaseColor.T_Heat_Vent_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:926][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Heat_Vent_N.T_Heat_Vent_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:930][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_Clean_RBW_BaseColor.T_SubwayMarble_Clean_RBW_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:941][619]LogTexture: Display: Building textures: /Game/Underground/Particles/Textures/Noise/T_HeatTile3_N.T_HeatTile3_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:946][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_N_Clean_RBW.T_SubwayMarble_N_Clean_RBW (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.25:974][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_N_White_Broken_RBW.T_SubwayMarble_N_White_Broken_RBW (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:070][619]LogTexture: Display: Building textures: /Game/Underground/Particles/Mist/T_SmokeSubUV_8X8_02.T_SmokeSubUV_8X8_02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:125][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_Dirty_RBW_BaseColor.T_SubwayMarble_Dirty_RBW_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:136][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_White_BaseColor.T_SubwayMarble_White_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:140][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_N_White_Clean.T_SubwayMarble_N_White_Clean (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:143][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_White_Dirty_BaseColor.T_SubwayMarble_White_Dirty_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:147][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_ConcreteYellow_BaseColor.T_ConcreteYellow_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:162][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_SubwayMarble_N_White_Broken.T_SubwayMarble_N_White_Broken (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:315][619]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.15.26:320][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Mask_Split.T_Mask_Split (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:323][619]LogTexture: Display: Building textures: /Game/Underground/Particles/Heat/P_Heat.P_Heat:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:329][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.15.26:351][619]LogTexture: Display: Building textures: /Game/Underground/Particles/Dust/T_SmokeBall_03_Perlin.T_SmokeBall_03_Perlin (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:352][619]LogTexture: Display: Building textures: /Game/Underground/Particles/Mist/T_TilingClouds_01.T_TilingClouds_01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:368][619]LogTexture: Display: Building textures: /Game/Underground/Textures/T_ConcreteYellow_N.T_ConcreteYellow_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:372][619]LogTexture: Display: Building textures: /Game/Underground/Maps/Main_Level_BuiltData.Main_Level_BuiltData:HQ_Lightmap1_5 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:423][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.26-11.15.26:438][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.26-11.15.26:445][619]LogTexture: Display: Building textures: /Game/Underground/Particles/Textures/Noise/T_TilingNoise03.T_TilingNoise03 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.26:833][619]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Level'.
+[2025.01.26-11.15.26:833][619]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.01.26-11.15.28:986][619]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.26-11.15.29:043][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.26-11.15.29:043][619]MapCheck: Repaired painted vertex colors in 0.1s for 172 components in /Game/Underground/Maps/Main_Level.  Resave map to fix. 
+[2025.01.26-11.15.29:043][619]MapCheck: Warning: Spent 0.1s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved. 
+[2025.01.26-11.15.29:049][619]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.26-11.15.29:050][619]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,37ms to complete.
+[2025.01.26-11.15.29:367][619]LogAutomationController: Ignoring very large delta of 52.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.26-11.15.29:922][620]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.01.26-11.15.29:948][620]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.01.26-11.15.29:948][620]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.01.26-11.15.29:962][620]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.01.26-11.15.30:022][620]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.01.26-11.15.30:046][620]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.01.26-11.15.30:048][620]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.01.26-11.15.35:436][729]LogPSOHitching: Encountered 50 PSO creation hitches so far (44 graphics, 6 compute). 0 of them were precached.
+[2025.01.26-11.15.36:747][783]LogSlate: Window 'Message Log' being destroyed
+[2025.01.26-11.15.36:762][783]LogSlate: Window 'Message Log' being destroyed
+[2025.01.26-11.15.43:927][196]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.26-11.15.43:928][196]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.15.44:042][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:046][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:047][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:047][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:047][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:048][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:048][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:212][196]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview_Assets
+[2025.01.26-11.15.44:258][196]LogStaticMesh: Display: Building static mesh SM_AC_Unit_C_Bend_90 (Required Memory Estimate: 1.274208 MB)...
+[2025.01.26-11.15.44:258][196]LogStaticMesh: Display: Building static mesh SM_AC_Unit_Bend_90 (Required Memory Estimate: 1.736221 MB)...
+[2025.01.26-11.15.44:259][196]LogStaticMesh: Display: Building static mesh SM_Crate_Closed (Required Memory Estimate: 17.537077 MB)...
+[2025.01.26-11.15.44:260][196]LogStaticMesh: Display: Building static mesh SM_Folding_Doors_Short_Open (Required Memory Estimate: 5.774952 MB)...
+[2025.01.26-11.15.44:261][196]LogStaticMesh: Display: Building static mesh SM_Standing_Floodlight (Required Memory Estimate: 1.354704 MB)...
+[2025.01.26-11.15.44:261][196]LogStaticMesh: Display: Building static mesh SM_Stretcher_Body_Bag02 (Required Memory Estimate: 12.855775 MB)...
+[2025.01.26-11.15.44:267][196]LogStaticMesh: Display: Building static mesh SM_ElectriBox02 (Required Memory Estimate: 32.24983 MB)...
+[2025.01.26-11.15.44:321][196]LogStaticMesh: Built static mesh [0.07s] /Game/Underground/Meshes/Props/SM_AC_Unit_C_Bend_90.SM_AC_Unit_C_Bend_90
+[2025.01.26-11.15.44:327][196]LogStaticMesh: Display: Building static mesh SM_Evidence_Bag_Small (Required Memory Estimate: 0.123047 MB)...
+[2025.01.26-11.15.44:332][196]LogStaticMesh: Built static mesh [0.00s] /Game/Underground/Meshes/Props/SM_Evidence_Bag_Small.SM_Evidence_Bag_Small
+[2025.01.26-11.15.44:334][196]LogStaticMesh: Display: Building static mesh SM_Hospital_Curtain (Required Memory Estimate: 6.893335 MB)...
+[2025.01.26-11.15.44:562][196]LogStaticMesh: Built static mesh [0.31s] /Game/Underground/Meshes/Props/SM_AC_Unit_Bend_90.SM_AC_Unit_Bend_90
+[2025.01.26-11.15.44:567][196]LogStaticMesh: Display: Building static mesh SM_Stripe_Barrier (Required Memory Estimate: 3.338828 MB)...
+[2025.01.26-11.15.44:595][196]LogStaticMesh: Built static mesh [0.34s] /Game/Underground/Meshes/Props/SM_Standing_Floodlight.SM_Standing_Floodlight
+[2025.01.26-11.15.44:645][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:725][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:800][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.44:913][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:025][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:136][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:245][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:291][196]LogChaosDD: Creating Chaos Debug Draw Scene for world Light_Level
+[2025.01.26-11.15.45:315][196]LogStaticMesh: Built static mesh [1.06s] /Game/Underground/Meshes/Props/SM_Folding_Doors_Short_Open.SM_Folding_Doors_Short_Open
+[2025.01.26-11.15.45:354][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:377][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:427][196]LogStaticMesh: Built static mesh [0.86s] /Game/Underground/Meshes/Props/SM_Stripe_Barrier.SM_Stripe_Barrier
+[2025.01.26-11.15.45:494][196]LogObjectTools: Deleting 3 worlds: /Game/Underground/Maps/Main_Level.Main_Level, /Game/Underground/Maps/Overview_Assets.Overview_Assets, /Game/Underground/Maps/Light_Level.Light_Level
+[2025.01.26-11.15.45:494][196]LogObjectTools: Currently 1 active worlds: /Game/Underground/Maps/Main_Level.Main_Level
+[2025.01.26-11.15.45:495][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:497][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:516][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:645][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:661][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:663][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:802][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:814][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:814][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:929][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 31.166582 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:989][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.45:991][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:004][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:028][196]LogStaticMesh: Built static mesh [1.70s] /Game/Underground/Meshes/Props/SM_Hospital_Curtain.SM_Hospital_Curtain
+[2025.01.26-11.15.46:133][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:136][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:138][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:145][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:273][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:ShadowMapTexture2D_4 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:283][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:ShadowMapTexture2D_5 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:286][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:ShadowMapTexture2D_6 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:298][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:314][196]LogTexture: Display: Building textures: /Game/Underground/Maps/Light_Level_BuiltData.Light_Level_BuiltData:ShadowMapTexture2D_7 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:352][196]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Inside_BaseColor.T_Inside_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:369][196]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Inside_N.T_Inside_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:380][196]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Hospital_Curtain_BaseColor.T_Hospital_Curtain_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:585][196]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Stripe_Barrier_BaseColor.T_Stripe_Barrier_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.46:809][196]LogTexture: Display: Building textures: /Game/Underground/Textures/T_Stripe_Barrier_N.T_Stripe_Barrier_N (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.26-11.15.47:091][196]LogSlate: Window 'Unable to delete level' being destroyed
+[2025.01.26-11.15.47:129][196]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2025.01.26-11.15.47:303][196]LogAutomationController: Ignoring very large delta of 3.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.26-11.15.47:438][198]LogStaticMesh: Built static mesh [3.18s] /Game/Underground/Meshes/Props/SM_Stretcher_Body_Bag02.SM_Stretcher_Body_Bag02
+[2025.01.26-11.15.48:862][210]LogStaticMesh: Built static mesh [4.61s] /Game/Underground/Meshes/Props/SM_Crate_Closed.SM_Crate_Closed
+[2025.01.26-11.15.52:571][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.26-11.15.52:577][432]LogStreaming: Display: FlushAsyncLoading(351): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.15.52:595][432]LogStreaming: Display: ImportPackages: SkipPackage: /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) - Skipping non mounted imported package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Albedo (0x4E3864F0C5668296)
+[2025.01.26-11.15.52:595][432]LogStreaming: Display: ImportPackages: SkipPackage: /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) - Skipping non mounted imported package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Metalness (0x604811D750084AE7)
+[2025.01.26-11.15.52:596][432]LogStreaming: Display: ImportPackages: SkipPackage: /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) - Skipping non mounted imported package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Normal (0x832B409FD046E9BF)
+[2025.01.26-11.15.52:596][432]LogStreaming: Display: ImportPackages: SkipPackage: /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material (0xB7C1F3EEC914DE37) - Skipping non mounted imported package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Roughness (0x1B1D9B73DED0BEF3)
+[2025.01.26-11.15.52:616][432]LogStaticMesh: Built static mesh [8.35s] /Game/Underground/Meshes/Props/SM_ElectriBox02.SM_ElectriBox02
+[2025.01.26-11.15.53:074][432]LogMaterial: Warning: [AssetLog] C:\Users\Marcel\Documents\GitHub\CITM-Game-Jam-8\CITM_Game_Jam_8\Content\MainMenu\Props\burned-out-barrel\source\Barrel_Material.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.01.26-11.15.53:108][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.203125 MiB 
+[2025.01.26-11.15.53:108][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.246094 MiB 
+[2025.01.26-11.15.53:109][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 2276.246094 MiB 
+[2025.01.26-11.15.53:109][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 2276.246094 MiB 
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_BaseColor.Body_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_BaseColor.Body_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_BaseColor.Body_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_BaseColor.Body_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Normal.Body_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Normal.Body_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.308594 MiB 
+[2025.01.26-11.15.53:109][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.308594 MiB 
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Normal.Body_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Normal.Body_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_OcclusionRoughnessMetallic.Body_OcclusionRoughnessMetallic has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_OcclusionRoughnessMetallic.Body_OcclusionRoughnessMetallic has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_OcclusionRoughnessMetallic.Body_OcclusionRoughnessMetallic has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_OcclusionRoughnessMetallic.Body_OcclusionRoughnessMetallic has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Specular.Body_Specular has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Specular.Body_Specular has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:109][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Specular.Body_Specular has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:110][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Specular.Body_Specular has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.53:114][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.382812 MiB 
+[2025.01.26-11.15.53:114][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.382812 MiB 
+[2025.01.26-11.15.53:115][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 2276.214844 MiB 
+[2025.01.26-11.15.53:115][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 2276.214844 MiB 
+[2025.01.26-11.15.53:116][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.277344 MiB 
+[2025.01.26-11.15.53:116][432]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2276.199219 MiB 
+[2025.01.26-11.15.53:239][432]LogChaosDD: Creating Chaos Debug Draw Scene for world ScreenSelect
+[2025.01.26-11.15.53:277][432]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu/ScreenSelect/ScreenSelect.ScreenSelect
+[2025.01.26-11.15.53:277][432]Cmd: MAP LOAD FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/ScreenSelect/ScreenSelect.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.26-11.15.53:340][432]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.15.53:340][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.15.53:371][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-11.15.53:397][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.26-11.15.53:518][432]LogWorld: UWorld::CleanupWorld for ScreenSelect, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.15.53:519][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.15.53:519][432]LogWorld: UWorld::CleanupWorld for Overview_Assets, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.15.53:520][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.15.53:522][432]LogWorld: UWorld::CleanupWorld for Light_Level, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.15.53:529][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.15.53:567][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.26-11.15.53:580][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.26-11.15.53:593][432]LogAudio: Display: Audio Device (ID: 1) registered with world 'ScreenSelect'.
+[2025.01.26-11.15.53:593][432]LogChaosDD: Creating Chaos Debug Draw Scene for world ScreenSelect
+[2025.01.26-11.15.53:651][432]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.26-11.15.53:660][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.26-11.15.53:666][432]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.26-11.15.53:666][432]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,048ms to complete.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_BaseColor.Body_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_BaseColor.Body_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Normal.Body_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Normal.Body_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_OcclusionRoughnessMetallic.Body_OcclusionRoughnessMetallic has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_OcclusionRoughnessMetallic.Body_OcclusionRoughnessMetallic has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Specular.Body_Specular has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:307][432]LogTexture: Warning: Texture /Game/MainMenu/ScreenSelect/Textures/Body/Body_Specular.Body_Specular has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.01.26-11.15.54:333][432]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Albedo which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.01.26-11.15.54:333][432]LoadErrors: Warning: While trying to load package /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material, a dependent package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Albedo was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Albedo has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Albedo.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.01.26-11.15.54:333][432]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Metalness which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.01.26-11.15.54:333][432]LoadErrors: Warning: While trying to load package /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material, a dependent package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Metalness was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Metalness has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Metalness.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.01.26-11.15.54:333][432]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Normal which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.01.26-11.15.54:333][432]LoadErrors: Warning: While trying to load package /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material, a dependent package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Normal was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Normal has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Normal.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.01.26-11.15.54:333][432]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Roughness which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.01.26-11.15.54:333][432]LoadErrors: Warning: While trying to load package /Game/MainMenu/Props/burned-out-barrel/source/Barrel_Material, a dependent package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Roughness was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/MainMenu/Props/burned-out-barrel/textures/Barrel_Roughness has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/MainMenu/Props/burned-out-barrel/textures/Barrel_Roughness.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.01.26-11.16.08:809][943]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.26-11.16.08:809][943]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-11.16.08:875][943]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview_Assets
+[2025.01.26-11.16.09:231][943]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.01.26-11.16.09:695][943]LogChaosDD: Creating Chaos Debug Draw Scene for world Light_Level
+[2025.01.26-11.16.09:782][943]LogObjectTools: Deleting 3 worlds: /Game/Underground/Maps/Overview_Assets.Overview_Assets, /Game/Underground/Maps/Main_Level.Main_Level, /Game/Underground/Maps/Light_Level.Light_Level
+[2025.01.26-11.16.09:782][943]LogObjectTools: Currently 1 active worlds: /Game/MainMenu/ScreenSelect/ScreenSelect.ScreenSelect
+[2025.01.26-11.16.09:863][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.26-11.16.12:067][943]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.26-11.16.12:086][943]LogWorld: UWorld::CleanupWorld for Overview_Assets, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.16.12:086][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.16.12:088][943]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.16.12:098][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.16.12:105][943]LogWorld: UWorld::CleanupWorld for Light_Level, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-11.16.12:114][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-11.16.19:557][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.26-11.16.19:568][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.26-11.16.19:576][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.26-11.16.19:769][943]LogAutomationController: Ignoring very large delta of 10.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
