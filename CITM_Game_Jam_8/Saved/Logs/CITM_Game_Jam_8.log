@@ -3624,3 +3624,530 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.27-11.40.46:714][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.27-11.40.46:714][337]AssetCheck: /Game/Dungeons/Level_1/DungeonRoom2 Validating asset
 [2025.01.27-11.40.47:233][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.27-11.41.26:363][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.41.26:442][623]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/DungeonRoom2] ([2] browsable assets)...
+[2025.01.27-11.41.26:452][623]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2]
+[2025.01.27-11.41.26:452][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/DungeonRoom2]
+[2025.01.27-11.41.26:452][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/DungeonRoom2" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset" SILENT=true
+[2025.01.27-11.41.26:459][623]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/DungeonRoom2
+[2025.01.27-11.41.26:459][623]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/DungeonRoom2E8AC87D7401CE92D3EAC1B842469A849.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset'
+[2025.01.27-11.41.26:472][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.117 ms (total: 4.14 sec)
+[2025.01.27-11.41.26:552][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.41.26:552][623]LogContentValidation: Enabled validators:
+[2025.01.27-11.41.26:552][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.41.26:552][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.41.26:552][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.41.26:552][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.41.26:552][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.41.26:552][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.41.26:552][623]AssetCheck: /Game/Dungeons/Level_1/DungeonRoom2 Validating asset
+[2025.01.27-11.41.37:148][196]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3541.518799
+[2025.01.27-11.41.40:558][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-11.41.40:559][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3544.910889, Update Interval: 342.877289
+[2025.01.27-11.41.43:305][524]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.41.43:341][524]LogStaticMesh: Display: Building static mesh SM_ShippingContainer_C01_N1 (Required Memory Estimate: 441.064227 MB)...
+[2025.01.27-11.41.43:877][544]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/City/Textures/T_ShippingContainer_C02_M.T_ShippingContainer_C02_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.41.43:937][544]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/City/Textures/T_ShippingContainer_C01_M.T_ShippingContainer_C01_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.41.45:090][585]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Concrete_Smooth_01_C.T_Concrete_Smooth_01_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.41.45:671][608]LogStaticMesh: Adjacency [0.46s], tris: 270342, UVs 3
+[2025.01.27-11.41.45:765][612]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Concrete_Smooth_01_N.T_Concrete_Smooth_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.41.46:372][635]LogStaticMesh: Clustering [0.70s]. Ratio: 1.015618
+[2025.01.27-11.41.46:406][636]LogStaticMesh: Leaves [0.03s]
+[2025.01.27-11.41.49:496][744]LogStaticMesh: Reduce [3.09s]
+[2025.01.27-11.41.49:979][771]LogStaticMesh: Fallback [0.48s], num tris: 6912
+[2025.01.27-11.41.50:055][775]LogStaticMesh: ConstrainClusters:
+[2025.01.27-11.41.50:055][775]LogStaticMesh:   Input: 4394 Clusters, 553444 Triangles and 458368 Vertices
+[2025.01.27-11.41.50:055][775]LogStaticMesh:   Output without splits: 4394 Clusters, 553444 Triangles and 462809 Vertices
+[2025.01.27-11.41.50:055][775]LogStaticMesh:   Output with splits: 4394 Clusters, 553444 Triangles and 462809 Vertices
+[2025.01.27-11.41.50:061][775]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4394, Slow Path Clusters: 0, 1 Material: 3355, 2 Materials: 1039, 3 Materials: 0, At Least 4 Materials: 0
+[2025.01.27-11.41.50:121][777]LogStaticMesh: WritePages:
+[2025.01.27-11.41.50:121][777]LogStaticMesh:   Root: GPU size: 31860 bytes. 1 Pages. 31860.000 bytes per page (97.229% utilization).
+[2025.01.27-11.41.50:121][777]LogStaticMesh:   Streaming: GPU size: 8881364 bytes. 69 Pages (64 with relative encoding). 128715.422 bytes per page (98.202% utilization).
+[2025.01.27-11.41.50:121][777]LogStaticMesh:   Page data disk size: 7102996 bytes. Fixup data size: 30896 bytes.
+[2025.01.27-11.41.50:121][777]LogStaticMesh:   Total GPU size: 8913224 bytes, Total disk size: 7133892 bytes.
+[2025.01.27-11.41.50:124][777]LogStaticMesh: Encode [0.14s]
+[2025.01.27-11.41.50:124][777]LogStaticMesh: Nanite build [4.91s]
+
+[2025.01.27-11.41.50:190][781]LogStaticMesh: Built static mesh [6.85s] /Game/Deko_MatrixDemo/City/Meshes/SM_ShippingContainer_C01_N1.SM_ShippingContainer_C01_N1
+[2025.01.27-11.41.56:133][ 30]LogEditorTransaction: Undo Cut Component
+[2025.01.27-11.42.10:241][742]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.42.10:245][742]LogStaticMesh: Display: Building static mesh SM_ShippingContainer_C02_N1 (Required Memory Estimate: 228.954432 MB)...
+[2025.01.27-11.42.11:146][782]LogStaticMesh: Adjacency [0.02s], tris: 140334, UVs 3
+[2025.01.27-11.42.11:366][794]LogStaticMesh: Clustering [0.22s]. Ratio: 1.016408
+[2025.01.27-11.42.11:392][796]LogStaticMesh: Leaves [0.03s]
+[2025.01.27-11.42.13:473][893]LogStaticMesh: Reduce [2.08s]
+[2025.01.27-11.42.13:842][902]LogStaticMesh: Fallback [0.37s], num tris: 6070
+[2025.01.27-11.42.13:873][902]LogStaticMesh: ConstrainClusters:
+[2025.01.27-11.42.13:873][902]LogStaticMesh:   Input: 2277 Clusters, 286626 Triangles and 222962 Vertices
+[2025.01.27-11.42.13:873][902]LogStaticMesh:   Output without splits: 2277 Clusters, 286626 Triangles and 226590 Vertices
+[2025.01.27-11.42.13:873][902]LogStaticMesh:   Output with splits: 2278 Clusters, 286626 Triangles and 226590 Vertices
+[2025.01.27-11.42.13:875][902]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 2278, Slow Path Clusters: 0, 1 Material: 1515, 2 Materials: 763, 3 Materials: 0, At Least 4 Materials: 0
+[2025.01.27-11.42.13:906][903]LogStaticMesh: WritePages:
+[2025.01.27-11.42.13:906][903]LogStaticMesh:   Root: GPU size: 31452 bytes. 1 Pages. 31452.000 bytes per page (95.984% utilization).
+[2025.01.27-11.42.13:906][903]LogStaticMesh:   Streaming: GPU size: 4418308 bytes. 34 Pages (32 with relative encoding). 129950.234 bytes per page (99.144% utilization).
+[2025.01.27-11.42.13:906][903]LogStaticMesh:   Page data disk size: 3618568 bytes. Fixup data size: 15232 bytes.
+[2025.01.27-11.42.13:906][903]LogStaticMesh:   Total GPU size: 4449760 bytes, Total disk size: 3633800 bytes.
+[2025.01.27-11.42.13:906][903]LogStaticMesh: Encode [0.07s]
+[2025.01.27-11.42.13:906][903]LogStaticMesh: Nanite build [2.78s]
+
+[2025.01.27-11.42.13:944][904]LogStaticMesh: Built static mesh [3.70s] /Game/Deko_MatrixDemo/City/Meshes/SM_ShippingContainer_C02_N1.SM_ShippingContainer_C02_N1
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: ================================================
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Total job queries 235, among them cache hits 50 (21.28%), DDC hits 152 (64.68%), Duplicates 1 (0.43%)
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Tracking 184 distinct input hashes that result in 165 distinct outputs (89.67%)
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: RAM used: 124,92 KiB of 819,20 MiB budget. Usage: 0.01%
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Shaders Compiled: 32
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100%)
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Average time worker was idle: 486.32 s
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 6.21 s
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 6.23
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Shader code size: average 13,282 KiB, min 5,312 KiB, max 27,117 KiB
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.86 s
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.22%
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Average processing rate: 1.34 jobs/sec
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Total thread time: 39,084 s
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Total thread preprocess time: 5,365 s
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Percentage time preprocessing: 13.73%
+[2025.01.27-11.42.39:005][151]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 2.96 sec, max 5.19 sec, min 2.06 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    4 times, average 2.56 sec, max 4.76 sec, min 1.67 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.71 sec, max 2.91 sec, min 1.15 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.64 sec, max 0.67 sec, min 0.59 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.51 sec, max 0.55 sec, min 0.48 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 30.32% of total time (compiled    4 times, average 2.96 sec, max 5.19 sec, min 2.06 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                                 FLumenCardCS - 26.24% of total time (compiled    4 times, average 2.56 sec, max 4.76 sec, min 1.67 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.53% of total time (compiled    4 times, average 1.71 sec, max 2.91 sec, min 1.15 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.20% of total time (compiled    5 times, average 0.64 sec, max 0.67 sec, min 0.59 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.56% of total time (compiled    5 times, average 0.51 sec, max 0.55 sec, min 0.48 sec)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: === Material stats ===
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Materials Translated:    139
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Material Translation Only: 0.07 s (50%)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: Material Cache Hits: 20 (14%)
+[2025.01.27-11.42.39:006][151]LogShaderCompilers: Display: ================================================
+[2025.01.27-11.44.22:273][187]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.44.22:276][187]LogStaticMesh: Display: Building static mesh SM_LumberPile_A02_N1 (Required Memory Estimate: 19.701566 MB)...
+[2025.01.27-11.44.22:392][190]LogStaticMesh: Adjacency [0.00s], tris: 13380, UVs 3
+[2025.01.27-11.44.22:425][192]LogStaticMesh: Clustering [0.03s]. Ratio: 1.019048
+[2025.01.27-11.44.22:427][192]LogStaticMesh: Leaves [0.00s]
+[2025.01.27-11.44.22:830][211]LogStaticMesh: Reduce [0.40s]
+[2025.01.27-11.44.23:017][215]LogStaticMesh: Fallback [0.19s], num tris: 1856
+[2025.01.27-11.44.23:027][215]LogStaticMesh: ConstrainClusters:
+[2025.01.27-11.44.23:028][215]LogStaticMesh:   Input: 218 Clusters, 27362 Triangles and 27473 Vertices
+[2025.01.27-11.44.23:028][215]LogStaticMesh:   Output without splits: 218 Clusters, 27362 Triangles and 27474 Vertices
+[2025.01.27-11.44.23:028][215]LogStaticMesh:   Output with splits: 221 Clusters, 27362 Triangles and 27474 Vertices
+[2025.01.27-11.44.23:029][215]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 221, Slow Path Clusters: 0, 1 Material: 221, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.01.27-11.44.23:040][216]LogStaticMesh: WritePages:
+[2025.01.27-11.44.23:040][216]LogStaticMesh:   Root: GPU size: 32748 bytes. 1 Pages. 32748.000 bytes per page (99.939% utilization).
+[2025.01.27-11.44.23:040][216]LogStaticMesh:   Streaming: GPU size: 421144 bytes. 4 Pages (4 with relative encoding). 105286.000 bytes per page (80.327% utilization).
+[2025.01.27-11.44.23:040][216]LogStaticMesh:   Page data disk size: 370520 bytes. Fixup data size: 1448 bytes.
+[2025.01.27-11.44.23:040][216]LogStaticMesh:   Total GPU size: 453892 bytes, Total disk size: 371968 bytes.
+[2025.01.27-11.44.23:040][216]LogStaticMesh: Encode [0.02s]
+[2025.01.27-11.44.23:040][216]LogStaticMesh: Nanite build [0.65s]
+
+[2025.01.27-11.44.23:060][217]LogStaticMesh: Built static mesh [0.79s] /Game/Deko_MatrixDemo/City/Meshes/SM_LumberPile_A02_N1.SM_LumberPile_A02_N1
+[2025.01.27-11.44.23:582][238]LogStaticMesh: Display: Building static mesh SM_LumberPile_A02_N1 (Required Memory Estimate: 19.701566 MB)...
+[2025.01.27-11.44.23:765][238]LogStaticMesh: Adjacency [0.00s], tris: 13380, UVs 2
+[2025.01.27-11.44.23:792][238]LogStaticMesh: Clustering [0.03s]. Ratio: 1.019048
+[2025.01.27-11.44.23:793][238]LogStaticMesh: Leaves [0.00s]
+[2025.01.27-11.44.24:117][238]LogStaticMesh: Reduce [0.32s]
+[2025.01.27-11.44.24:248][238]LogStaticMesh: Fallback [0.13s], num tris: 1856
+[2025.01.27-11.44.24:253][238]LogStaticMesh: ConstrainClusters:
+[2025.01.27-11.44.24:253][238]LogStaticMesh:   Input: 218 Clusters, 27362 Triangles and 27473 Vertices
+[2025.01.27-11.44.24:253][238]LogStaticMesh:   Output without splits: 218 Clusters, 27362 Triangles and 27474 Vertices
+[2025.01.27-11.44.24:253][238]LogStaticMesh:   Output with splits: 221 Clusters, 27362 Triangles and 27474 Vertices
+[2025.01.27-11.44.24:255][238]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 221, Slow Path Clusters: 0, 1 Material: 221, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.01.27-11.44.24:258][238]LogStaticMesh: WritePages:
+[2025.01.27-11.44.24:258][238]LogStaticMesh:   Root: GPU size: 32652 bytes. 1 Pages. 32652.000 bytes per page (99.646% utilization).
+[2025.01.27-11.44.24:258][238]LogStaticMesh:   Streaming: GPU size: 419448 bytes. 4 Pages (4 with relative encoding). 104862.000 bytes per page (80.003% utilization).
+[2025.01.27-11.44.24:258][238]LogStaticMesh:   Page data disk size: 368728 bytes. Fixup data size: 1448 bytes.
+[2025.01.27-11.44.24:258][238]LogStaticMesh:   Total GPU size: 452100 bytes, Total disk size: 370176 bytes.
+[2025.01.27-11.44.24:258][238]LogStaticMesh: Encode [0.01s]
+[2025.01.27-11.44.24:258][238]LogStaticMesh: Nanite build [0.50s]
+
+[2025.01.27-11.44.24:270][238]LogStaticMesh: Built static mesh [0.69s] /Game/Deko_MatrixDemo/City/Meshes/SM_LumberPile_A02_N1.SM_LumberPile_A02_N1
+[2025.01.27-11.44.29:802][492]LogDerivedDataCache: C:/Users/Marcel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.27-11.44.50:289][445]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.44.50:293][445]LogStaticMesh: Display: Building static mesh SM_LumberStack_A01_N1 (Required Memory Estimate: 60.823668 MB)...
+[2025.01.27-11.44.50:629][461]LogStaticMesh: Adjacency [0.01s], tris: 41320, UVs 3
+[2025.01.27-11.44.50:734][467]LogStaticMesh: Clustering [0.11s]. Ratio: 1.018576
+[2025.01.27-11.44.50:740][467]LogStaticMesh: Leaves [0.01s]
+[2025.01.27-11.44.51:565][500]LogStaticMesh: Reduce [0.82s]
+[2025.01.27-11.44.52:102][529]LogStaticMesh: Fallback [0.54s], num tris: 5912
+[2025.01.27-11.44.52:125][531]LogStaticMesh: ConstrainClusters:
+[2025.01.27-11.44.52:125][531]LogStaticMesh:   Input: 674 Clusters, 84770 Triangles and 87249 Vertices
+[2025.01.27-11.44.52:125][531]LogStaticMesh:   Output without splits: 674 Clusters, 84770 Triangles and 87250 Vertices
+[2025.01.27-11.44.52:125][531]LogStaticMesh:   Output with splits: 692 Clusters, 84770 Triangles and 87264 Vertices
+[2025.01.27-11.44.52:127][531]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 692, Slow Path Clusters: 0, 1 Material: 692, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.01.27-11.44.52:139][531]LogStaticMesh: WritePages:
+[2025.01.27-11.44.52:139][531]LogStaticMesh:   Root: GPU size: 30588 bytes. 1 Pages. 30588.000 bytes per page (93.347% utilization).
+[2025.01.27-11.44.52:139][531]LogStaticMesh:   Streaming: GPU size: 1405596 bytes. 11 Pages (11 with relative encoding). 127781.453 bytes per page (97.490% utilization).
+[2025.01.27-11.44.52:139][531]LogStaticMesh:   Page data disk size: 1134988 bytes. Fixup data size: 4832 bytes.
+[2025.01.27-11.44.52:139][531]LogStaticMesh:   Total GPU size: 1436184 bytes, Total disk size: 1139820 bytes.
+[2025.01.27-11.44.52:139][531]LogStaticMesh: Encode [0.04s]
+[2025.01.27-11.44.52:139][531]LogStaticMesh: Nanite build [1.52s]
+
+[2025.01.27-11.44.52:178][534]LogStaticMesh: Built static mesh [1.89s] /Game/Deko_MatrixDemo/City/Meshes/SM_LumberStack_A01_N1.SM_LumberStack_A01_N1
+[2025.01.27-11.44.53:028][576]LogStaticMesh: Display: Building static mesh SM_LumberStack_A01_N1 (Required Memory Estimate: 60.823668 MB)...
+[2025.01.27-11.44.53:458][576]LogStaticMesh: Adjacency [0.01s], tris: 41320, UVs 2
+[2025.01.27-11.44.53:550][576]LogStaticMesh: Clustering [0.09s]. Ratio: 1.018576
+[2025.01.27-11.44.53:555][576]LogStaticMesh: Leaves [0.01s]
+[2025.01.27-11.44.54:163][576]LogStaticMesh: Reduce [0.61s]
+[2025.01.27-11.44.54:471][576]LogStaticMesh: Fallback [0.31s], num tris: 5912
+[2025.01.27-11.44.54:487][576]LogStaticMesh: ConstrainClusters:
+[2025.01.27-11.44.54:487][576]LogStaticMesh:   Input: 674 Clusters, 84770 Triangles and 87249 Vertices
+[2025.01.27-11.44.54:487][576]LogStaticMesh:   Output without splits: 674 Clusters, 84770 Triangles and 87250 Vertices
+[2025.01.27-11.44.54:487][576]LogStaticMesh:   Output with splits: 692 Clusters, 84770 Triangles and 87264 Vertices
+[2025.01.27-11.44.54:488][576]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 692, Slow Path Clusters: 0, 1 Material: 692, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.01.27-11.44.54:496][576]LogStaticMesh: WritePages:
+[2025.01.27-11.44.54:496][576]LogStaticMesh:   Root: GPU size: 30492 bytes. 1 Pages. 30492.000 bytes per page (93.054% utilization).
+[2025.01.27-11.44.54:496][576]LogStaticMesh:   Streaming: GPU size: 1400108 bytes. 11 Pages (11 with relative encoding). 127282.547 bytes per page (97.109% utilization).
+[2025.01.27-11.44.54:496][576]LogStaticMesh:   Page data disk size: 1129404 bytes. Fixup data size: 4832 bytes.
+[2025.01.27-11.44.54:496][576]LogStaticMesh:   Total GPU size: 1430600 bytes, Total disk size: 1134236 bytes.
+[2025.01.27-11.44.54:496][576]LogStaticMesh: Encode [0.02s]
+[2025.01.27-11.44.54:496][576]LogStaticMesh: Nanite build [1.04s]
+
+[2025.01.27-11.44.54:529][576]LogStaticMesh: Built static mesh [1.50s] /Game/Deko_MatrixDemo/City/Meshes/SM_LumberStack_A01_N1.SM_LumberStack_A01_N1
+[2025.01.27-11.45.22:995][868]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-11.45.34:484][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.45.34:542][397]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/DungeonRoom2] ([2] browsable assets)...
+[2025.01.27-11.45.34:553][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2]
+[2025.01.27-11.45.34:553][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/DungeonRoom2]
+[2025.01.27-11.45.34:553][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/DungeonRoom2" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset" SILENT=true
+[2025.01.27-11.45.34:559][397]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/DungeonRoom2
+[2025.01.27-11.45.34:560][397]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/DungeonRoom2E97CD433439260F5C20A9F8F62D6E1CF.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset'
+[2025.01.27-11.45.34:571][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.347 ms (total: 4.22 sec)
+[2025.01.27-11.45.34:643][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.45.34:643][397]LogContentValidation: Enabled validators:
+[2025.01.27-11.45.34:643][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.45.34:643][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.45.34:643][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.45.34:643][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.45.34:643][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.45.34:644][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.45.34:644][397]AssetCheck: /Game/Dungeons/Level_1/DungeonRoom2 Validating asset
+[2025.01.27-11.45.35:488][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.27-11.45.48:328][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.45.48:395][121]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Generator] ([2] browsable assets)...
+[2025.01.27-11.45.48:395][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Generator]
+[2025.01.27-11.45.48:411][121]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Generator
+[2025.01.27-11.45.48:412][121]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator332BFA00404C4F1CB33786B72FC48672.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Generator.uasset'
+[2025.01.27-11.45.48:423][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.684 ms (total: 4.32 sec)
+[2025.01.27-11.45.48:502][121]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.45.48:502][121]LogContentValidation: Enabled validators:
+[2025.01.27-11.45.48:502][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.45.48:502][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.45.48:502][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.45.48:502][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.45.48:502][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.45.48:502][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.45.48:502][121]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Generator Validating asset
+[2025.01.27-11.45.49:265][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.27-11.45.52:647][322]LogPlayLevel: [PlayLevel] Compiling Dungeon_Room1 before play...
+[2025.01.27-11.45.52:724][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.27-11.45.52:732][322]LogPlayLevel: PlayLevel: Blueprint regeneration took 86 ms (1 blueprints)
+[2025.01.27-11.45.52:732][322]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.45.52:733][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001778s)
+[2025.01.27-11.45.52:733][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.001818s)
+[2025.01.27-11.45.52:755][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.27-11.45.52:756][322]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-11.45.52:758][322]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2025.01.27-11.45.52:759][322]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-11.45.52:759][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-11.45.52:759][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-11.45.52:759][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-11.45.52:759][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-11.45.52:759][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-11.45.52:761][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-11.45.52:785][322]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-11.45.52:785][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-11.45.52:785][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-11.45.52:785][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-11.45.52:786][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.01.27-11.45.52:786][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.01.27-11.45.52:788][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.01.27-11.45.52:788][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.01.27-11.45.52:788][322]LogInit: FAudioDevice initialized with ID 10.
+[2025.01.27-11.45.52:788][322]LogAudio: Display: Audio Device (ID: 10) registered with world 'Test'.
+[2025.01.27-11.45.52:788][322]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.27-11.45.52:792][322]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-11.45.52:792][322]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-12.45.52
+[2025.01.27-11.45.52:793][322]LogWorld: Bringing up level for play took: 0.000618
+[2025.01.27-11.45.52:796][322]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.01.27-11.45.52:805][322]PIE: Server logged in
+[2025.01.27-11.45.52:806][322]PIE: Play in editor total start time 0,162 seconds.
+[2025.01.27-11.46.08:968][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.46.08:969][234]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.46.08:969][234]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.46.08:975][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.46.08:979][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-11.46.08:985][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.46.09:010][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.46.09:010][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.27-11.46.09:010][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.27-11.46.09:013][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.27-11.46.09:031][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.27-11.46.09:073][235]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.01.27-11.46.25:907][147]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.46.25:992][147]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwallF_Roughness.T_brickwallF_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.26:076][147]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwallF_AmbientOcclusion.T_brickwallF_AmbientOcclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.26:110][147]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwallF_BaseColor.T_brickwallF_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.26:115][147]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwallF_Height.T_brickwallF_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.26:248][151]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwallF_Normal.T_brickwallF_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 398.499988 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.33:026][475]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.46.33:090][475]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalllmossC_Roughness.T_brickwalllmossC_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.33:179][475]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalllmossC_AmbientOcclusion.T_brickwalllmossC_AmbientOcclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.33:180][475]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalllmossC_BaseColor.T_brickwalllmossC_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.33:214][475]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalllmossC_Height.T_brickwalllmossC_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.33:296][475]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalllmossC_Normal.T_brickwalllmossC_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 398.499988 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.45:873][114]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.46.45:939][114]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickWall_dmg2_lite_gravel_Roughness.T_brickWall_dmg2_lite_gravel_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.45:940][114]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickWall_dmg2_lite_gravel_Height.T_brickWall_dmg2_lite_gravel_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.45:956][114]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickWall_dmg2_lite_gravel_AmbientOcclusion.T_brickWall_dmg2_lite_gravel_AmbientOcclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.46:012][114]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickWall_dmg2_lite_gravel_Normal.T_brickWall_dmg2_lite_gravel_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2025.01.27-11.46.46:012][114]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickWall_dmg2_lite_gravel_BaseColor.T_brickWall_dmg2_lite_gravel_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.27-11.47.15:428][682]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-11.47.17:316][777]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-11.47.17:572][780]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-11.47.17:789][782]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-11.47.18:017][786]LogEditorTransaction: Undo Edit 1
+[2025.01.27-11.47.20:112][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.47.20:181][894]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/DungeonRoom2] ([2] browsable assets)...
+[2025.01.27-11.47.20:193][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2]
+[2025.01.27-11.47.20:193][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/DungeonRoom2]
+[2025.01.27-11.47.20:193][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/DungeonRoom2" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset" SILENT=true
+[2025.01.27-11.47.20:199][894]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/DungeonRoom2
+[2025.01.27-11.47.20:200][894]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/DungeonRoom21CB6E5E74D8D20871E8C599529F5A108.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset'
+[2025.01.27-11.47.20:212][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.296 ms (total: 4.42 sec)
+[2025.01.27-11.47.20:279][894]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.47.20:279][894]LogContentValidation: Enabled validators:
+[2025.01.27-11.47.20:279][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.47.20:279][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.47.20:279][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.47.20:279][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.47.20:279][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.47.20:279][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.47.20:279][894]AssetCheck: /Game/Dungeons/Level_1/DungeonRoom2 Validating asset
+[2025.01.27-11.47.23:259][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-11.47.23:259][ 46]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.47.23:260][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001396s)
+[2025.01.27-11.47.23:260][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.001428s)
+[2025.01.27-11.47.23:277][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.27-11.47.23:288][ 46]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-11.47.23:289][ 46]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2025.01.27-11.47.23:290][ 46]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-11.47.23:290][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-11.47.23:290][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-11.47.23:290][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-11.47.23:290][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-11.47.23:290][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-11.47.23:292][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-11.47.23:312][ 46]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-11.47.23:312][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-11.47.23:312][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-11.47.23:312][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-11.47.23:313][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.01.27-11.47.23:313][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.01.27-11.47.23:315][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.01.27-11.47.23:315][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.01.27-11.47.23:315][ 46]LogInit: FAudioDevice initialized with ID 11.
+[2025.01.27-11.47.23:315][ 46]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test'.
+[2025.01.27-11.47.23:315][ 46]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.27-11.47.23:318][ 46]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-11.47.23:319][ 46]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-12.47.23
+[2025.01.27-11.47.23:319][ 46]LogWorld: Bringing up level for play took: 0.000547
+[2025.01.27-11.47.23:321][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.01.27-11.47.23:331][ 46]PIE: Server logged in
+[2025.01.27-11.47.23:332][ 46]PIE: Play in editor total start time 0,074 seconds.
+[2025.01.27-11.47.23:493][ 49]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.01.27-11.47.29:068][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.47.29:068][374]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.47.29:069][374]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.47.29:070][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.47.29:073][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-11.47.29:077][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.47.29:094][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-11.47.29:094][374]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.27-11.47.29:094][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.27-11.47.29:097][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.27-11.47.29:101][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.47.29:104][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.27-11.47.29:134][375]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.01.27-11.47.30:513][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-11.47.30:513][455]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.47.30:515][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001473s)
+[2025.01.27-11.47.30:515][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.001563s)
+[2025.01.27-11.47.30:531][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.27-11.47.30:534][455]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-11.47.30:535][455]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2025.01.27-11.47.30:536][455]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-11.47.30:536][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-11.47.30:536][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-11.47.30:536][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-11.47.30:536][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-11.47.30:536][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-11.47.30:539][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-11.47.30:559][455]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-11.47.30:559][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-11.47.30:559][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-11.47.30:559][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-11.47.30:560][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.01.27-11.47.30:560][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.01.27-11.47.30:563][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.01.27-11.47.30:563][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.01.27-11.47.30:563][455]LogInit: FAudioDevice initialized with ID 12.
+[2025.01.27-11.47.30:563][455]LogAudio: Display: Audio Device (ID: 12) registered with world 'Test'.
+[2025.01.27-11.47.30:563][455]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.01.27-11.47.30:565][455]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-11.47.30:566][455]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-12.47.30
+[2025.01.27-11.47.30:566][455]LogWorld: Bringing up level for play took: 0.000603
+[2025.01.27-11.47.30:569][455]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.01.27-11.47.30:573][455]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.01.27-11.47.30:574][455]PIE: Server logged in
+[2025.01.27-11.47.30:576][455]PIE: Play in editor total start time 0,062 seconds.
+[2025.01.27-11.47.38:479][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.47.38:479][895]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.47.38:479][895]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.47.38:480][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.47.38:483][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-11.47.38:486][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.47.38:502][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.47.38:503][895]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.01.27-11.47.38:503][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.01.27-11.47.38:506][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.01.27-11.47.38:512][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.27-11.47.38:562][897]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.01.27-11.47.43:821][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.47.43:887][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Generator] ([2] browsable assets)...
+[2025.01.27-11.47.43:887][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Generator]
+[2025.01.27-11.47.43:903][202]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Generator
+[2025.01.27-11.47.43:904][202]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_GeneratorF73508AF4A2A5FA733BEBF93CBBCCD3F.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Generator.uasset'
+[2025.01.27-11.47.43:913][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.154 ms (total: 4.51 sec)
+[2025.01.27-11.47.43:986][202]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.47.43:986][202]LogContentValidation: Enabled validators:
+[2025.01.27-11.47.43:986][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.47.43:986][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.47.43:986][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.47.43:986][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.47.43:986][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.47.43:986][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.47.43:986][202]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Generator Validating asset
+[2025.01.27-11.47.44:867][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.27-11.47.46:089][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-11.47.46:090][314]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.47.46:091][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001334s)
+[2025.01.27-11.47.46:091][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.001365s)
+[2025.01.27-11.47.46:106][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.27-11.47.46:113][314]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-11.47.46:114][314]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2025.01.27-11.47.46:115][314]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-11.47.46:115][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-11.47.46:115][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-11.47.46:115][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-11.47.46:115][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-11.47.46:115][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-11.47.46:118][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-11.47.46:137][314]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-11.47.46:137][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-11.47.46:137][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-11.47.46:137][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-11.47.46:138][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.01.27-11.47.46:138][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.01.27-11.47.46:140][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.01.27-11.47.46:140][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.01.27-11.47.46:140][314]LogInit: FAudioDevice initialized with ID 13.
+[2025.01.27-11.47.46:140][314]LogAudio: Display: Audio Device (ID: 13) registered with world 'Test'.
+[2025.01.27-11.47.46:141][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.27-11.47.46:143][314]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-11.47.46:144][314]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-12.47.46
+[2025.01.27-11.47.46:144][314]LogWorld: Bringing up level for play took: 0.000554
+[2025.01.27-11.47.46:147][314]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.01.27-11.47.46:154][314]PIE: Server logged in
+[2025.01.27-11.47.46:155][314]PIE: Play in editor total start time 0,067 seconds.
+[2025.01.27-11.47.56:525][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3920.897705
+[2025.01.27-11.47.56:743][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-11.47.56:743][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3921.098145, Update Interval: 308.397461
+[2025.01.27-11.48.31:878][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.48.31:878][  8]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-11.48.31:879][  8]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.48.31:890][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.48.31:897][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-11.48.31:901][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.48.31:924][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-11.48.31:924][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.27-11.48.31:924][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.27-11.48.31:927][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.27-11.48.31:942][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.27-11.48.31:975][  9]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: ================================================
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Total job queries 330, among them cache hits 77 (23.33%), DDC hits 215 (65.15%), Duplicates 1 (0.30%)
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 205 distinct outputs (81.35%)
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: RAM used: 138,01 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Shaders Compiled: 37
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Average time worker was idle: 438.52 s
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Job execution time: average 1.79 s, max 6.21 s
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Job life time (pending + execution): average 1.84 s, max 6.23
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Shader code size: average 12,394 KiB, min 2,777 KiB, max 27,117 KiB
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.01 s
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Average processing rate: 1.42 jobs/sec
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Total thread time: 41,802 s
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Total thread preprocess time: 7,258 s
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Percentage time preprocessing: 17.36%
+[2025.01.27-11.48.39:141][ 94]LogShaderCompilers: Display: Effective parallelization: 1.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 2.96 sec, max 5.19 sec, min 2.06 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    4 times, average 2.56 sec, max 4.76 sec, min 1.67 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.57 sec, max 2.91 sec, min 0.98 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.62 sec, max 0.67 sec, min 0.53 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.51 sec, max 0.55 sec, min 0.48 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 28.35% of total time (compiled    4 times, average 2.96 sec, max 5.19 sec, min 2.06 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                                 FLumenCardCS - 24.53% of total time (compiled    4 times, average 2.56 sec, max 4.76 sec, min 1.67 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.74% of total time (compiled    5 times, average 1.57 sec, max 2.91 sec, min 0.98 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.94% of total time (compiled    6 times, average 0.62 sec, max 0.67 sec, min 0.53 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.13% of total time (compiled    5 times, average 0.51 sec, max 0.55 sec, min 0.48 sec)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: === Material stats ===
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Materials Translated:    144
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Material Translation Only: 0.07 s (50%)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: Material Cache Hits: 20 (14%)
+[2025.01.27-11.48.39:142][ 94]LogShaderCompilers: Display: ================================================
