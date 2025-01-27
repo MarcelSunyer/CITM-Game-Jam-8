@@ -2433,3 +2433,614 @@ FPackageName: Skipped package /Game/Dungeons/Level_1/DungeonRoom2 has a valid, m
 [2025.01.27-20.01.27:711][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.27-20.01.27:711][850]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
 [2025.01.27-20.01.28:157][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.27-20.02.11:313][360]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.01.27-20.22.41:934][361]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.27-20.22.41:970][361]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26400
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: libcurl info message cache 0 (Too old connection (1272 seconds idle), disconnect it)
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: libcurl info message cache 2 (Closing connection)
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.01.27-20.22.42:594][361]LogHttp: Warning: 00000A483FA2D900: libcurl info message cache 5 (Closing connection)
+[2025.01.27-20.22.42:686][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCCB33540-4E4A-083F-A84E-269FB6DE9EA2%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: libcurl info message cache 0 (Too old connection (1258 seconds idle), disconnect it)
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: libcurl info message cache 2 (Closing connection)
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.42:703][361]LogEOSSDK: Warning: LogHttp: 00000A484EA91800: libcurl info message cache 5 (Closing connection)
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 1 (Closing connection)
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.42:768][362]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 0 (Found bundle for host: 0xa4810880030 [serially])
+[2025.01.27-20.22.42:768][363]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.42:768][363]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 2 (Closing connection)
+[2025.01.27-20.22.42:768][363]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCCB33540-4E4A-083F-A84E-269FB6DE9EA2%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.01.27-20.22.42:768][363]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.42:768][363]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3
+[2025.01.27-20.22.43:188][363]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: f10...fc2
+[2025.01.27-20.22.43:428][364]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.27-20.22.43:435][364]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5f2bdde3-eeb6-4827-862d-25ed56762b87}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1264.73
+[2025.01.27-20.22.43:437][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.27-20.22.43:441][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.27-20.22.44:102][366]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.44:102][367]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 3 (Closing connection)
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 3 (Found bundle for host: 0xa4810880f90 [serially])
+[2025.01.27-20.22.44:432][367]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.44:432][368]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 5 (Closing connection)
+[2025.01.27-20.22.44:432][368]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.44:432][368]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3
+[2025.01.27-20.22.44:766][368]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: f10...fc2
+[2025.01.27-20.22.45:433][370]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.45:433][371]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3
+[2025.01.27-20.22.45:765][371]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 5 (Closing connection)
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 6 (Found bundle for host: 0xa4810880f00 [serially])
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: 00000A484EA93600: libcurl info message cache 8 (Closing connection)
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E4A868714CF5E462D562DC9942285FF3
+[2025.01.27-20.22.45:765][372]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.01.27-20.22.46:099][372]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: f10...fc2
+[2025.01.27-20.22.46:765][374]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.47:098][375]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.47:098][375]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.47:098][375]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.47:098][375]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 7 (Closing connection)
+[2025.01.27-20.22.47:098][375]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.47:433][376]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_OperationWillRetry UserId: f10...fc2
+[2025.01.27-20.22.48:432][380]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.48:765][380]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.01.27-20.22.48:765][380]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.01.27-20.22.48:765][381]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.01.27-20.22.48:765][381]LogEOSSDK: Warning: LogHttp: 00000A484EA90C00: libcurl info message cache 9 (Closing connection)
+[2025.01.27-20.22.48:765][381]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.01.27-20.22.48:765][381]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.01.27-20.22.49:099][381]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: f10...fc2
+[2025.01.27-20.23.39:283][633]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3310.272217
+[2025.01.27-20.23.40:275][636]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-20.23.40:275][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3310.933105, Update Interval: 317.686707
+[2025.01.27-20.29.54:356][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3685.345947
+[2025.01.27-20.29.55:359][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-20.29.55:360][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3686.014893, Update Interval: 333.811462
+[2025.01.27-20.36.06:175][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4057.161133
+[2025.01.27-20.36.07:176][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-20.36.07:176][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4057.827148, Update Interval: 305.290070
+[2025.01.27-20.42.01:915][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4412.893555
+[2025.01.27-20.42.02:916][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-20.42.02:916][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4413.561035, Update Interval: 356.407349
+[2025.01.27-20.48.33:980][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4804.958496
+[2025.01.27-20.48.34:980][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-20.48.34:981][120]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4805.625000, Update Interval: 321.543030
+[2025.01.27-20.50.50:592][526]LogDerivedDataCache: C:/Users/Marcel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.27-20.54.55:052][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5186.025879
+[2025.01.27-20.54.56:052][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-20.54.56:053][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5186.693359, Update Interval: 307.981812
+[2025.01.27-21.00.50:119][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5541.102051
+[2025.01.27-21.00.51:118][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-21.00.51:119][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5541.768066, Update Interval: 316.447021
+[2025.01.27-21.06.50:842][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5901.821777
+[2025.01.27-21.06.51:843][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-21.06.51:843][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5902.490234, Update Interval: 325.271149
+[2025.01.27-21.13.12:228][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6283.210449
+[2025.01.27-21.13.13:229][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-21.13.13:229][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6283.879395, Update Interval: 320.876495
+[2025.01.27-21.15.30:852][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.15.30:937][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start_Room] ([2] browsable assets)...
+[2025.01.27-21.15.30:979][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room]
+[2025.01.27-21.15.30:979][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start_Room]
+[2025.01.27-21.15.30:979][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset" SILENT=true
+[2025.01.27-21.15.31:023][ 31]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start_Room
+[2025.01.27-21.15.31:025][ 31]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_Room6E2AB74F498A39D4F603F281CE18B444.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset'
+[2025.01.27-21.15.31:049][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.058 ms (total: 3.23 sec)
+[2025.01.27-21.15.31:194][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.15.31:194][ 31]LogContentValidation: Enabled validators:
+[2025.01.27-21.15.31:194][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.15.31:195][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.15.31:195][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.15.31:195][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.15.31:195][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.15.31:195][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.15.31:196][ 31]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
+[2025.01.27-21.15.31:950][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2025.01.27-21.15.33:374][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-21.15.33:388][117]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.15.33:419][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029048s)
+[2025.01.27-21.15.33:419][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.029978s)
+[2025.01.27-21.15.33:440][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.27-21.15.33:449][117]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.15.33:517][117]LogPlayLevel: PIE: World Init took: (0.068236s)
+[2025.01.27-21.15.33:519][117]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.01.27-21.15.33:521][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-21.15.33:521][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-21.15.33:521][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-21.15.33:521][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-21.15.33:521][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-21.15.33:522][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-21.15.33:522][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-21.15.33:522][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-21.15.33:524][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-21.15.33:524][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-21.15.33:524][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-21.15.33:527][117]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-21.15.33:547][117]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-21.15.33:552][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-21.15.33:553][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-21.15.33:554][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-21.15.33:560][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.01.27-21.15.33:560][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.01.27-21.15.33:563][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.01.27-21.15.33:563][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.01.27-21.15.33:563][117]LogInit: FAudioDevice initialized with ID 13.
+[2025.01.27-21.15.33:564][117]LogAudio: Display: Audio Device (ID: 13) registered with world 'Test'.
+[2025.01.27-21.15.33:564][117]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.27-21.15.33:598][117]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-21.15.33:605][117]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-22.15.33
+[2025.01.27-21.15.33:608][117]LogWorld: Bringing up level for play took: 0.009792
+[2025.01.27-21.15.33:625][117]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.01.27-21.15.33:694][117]PIE: Server logged in
+[2025.01.27-21.15.33:697][117]PIE: Play in editor total start time 0,338 seconds.
+[2025.01.27-21.15.37:200][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.15.37:202][274]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.15.37:206][274]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-21.15.37:219][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.15.37:233][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-21.15.37:237][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.15.37:275][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-21.15.37:277][274]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.27-21.15.37:278][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.27-21.15.37:281][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.27-21.15.37:287][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.15.37:313][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.01.27-21.15.37:459][275]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.01.27-21.15.39:429][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.15.39:507][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start_Room] ([2] browsable assets)...
+[2025.01.27-21.15.39:518][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room]
+[2025.01.27-21.15.39:518][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start_Room]
+[2025.01.27-21.15.39:518][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset" SILENT=true
+[2025.01.27-21.15.39:527][336]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start_Room
+[2025.01.27-21.15.39:528][336]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_RoomA0B971ED40F60EA46D92C0954ECB2364.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset'
+[2025.01.27-21.15.39:540][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.201 ms (total: 3.35 sec)
+[2025.01.27-21.15.39:640][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.15.39:640][336]LogContentValidation: Enabled validators:
+[2025.01.27-21.15.39:640][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.15.39:640][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.15.39:640][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.15.39:640][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.15.39:640][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.15.39:640][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.15.39:640][336]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
+[2025.01.27-21.15.44:705][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.27-21.15.44:875][579]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.01.27-21.15.55:272][117]LogContentBrowser: Attempting asset rename: Start_Room1 -> Dungeon_Room1
+[2025.01.27-21.15.55:871][117]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room1.SKEL_Dungeon_Room1_C' ref from Metadata '/Game/Dungeons/Level_1/Start_Room1.PackageMetaData'
+[2025.01.27-21.15.55:871][117]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1_C' ref from Metadata '/Game/Dungeons/Level_1/Start_Room1.PackageMetaData'
+[2025.01.27-21.15.55:871][117]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room1.SKEL_Dungeon_Room1_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/Start_Room1.PackageMetaData'
+[2025.01.27-21.15.55:872][117]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room1.SKEL_Dungeon_Room1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/Start_Room1.PackageMetaData'
+[2025.01.27-21.15.55:872][117]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room1.SKEL_Dungeon_Room1_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/Start_Room1.PackageMetaData'
+[2025.01.27-21.15.55:872][117]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room1.SKEL_Dungeon_Room1_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/Start_Room1.PackageMetaData'
+[2025.01.27-21.15.55:885][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.15.55:885][117]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-21.15.55:906][117]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1]
+[2025.01.27-21.15.55:906][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-21.15.55:918][117]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-21.15.55:918][117]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room148708C264F6FE5368C621A913F79B4FA.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-21.15.55:936][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.486 ms (total: 3.40 sec)
+[2025.01.27-21.15.55:973][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.27-21.15.55:998][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.27-21.15.56:021][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.27-21.15.56:119][117]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.15.56:119][117]LogContentValidation: Enabled validators:
+[2025.01.27-21.15.56:119][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.15.56:119][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.15.56:119][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.15.56:119][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.15.56:119][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.15.56:119][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.15.56:119][117]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-21.15.57:170][164]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1
+[2025.01.27-21.15.57:174][164]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2025.01.27-21.16.37:451][678]LogEditorTransaction: Undo Remove Components
+[2025.01.27-21.17.05:678][728]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.17.19:798][334]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.17.23:159][456]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.17.28:356][668]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.17.32:837][845]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.17.39:993][138]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.18.06:022][202]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.18.28:780][975]LogEditorTransaction: Undo Remove Components
+[2025.01.27-21.18.29:236][979]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.18.29:691][991]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.18.30:168][  8]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.18.30:417][ 14]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.18.30:801][ 28]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.18.31:170][ 40]LogEditorTransaction: Undo Edit Static Mesh
+[2025.01.27-21.18.31:641][ 57]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-21.19.29:934][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6660.901855
+[2025.01.27-21.19.30:128][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-21.19.30:128][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6661.071777, Update Interval: 358.921478
+[2025.01.27-21.19.40:871][692]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.19.42:578][739]LogShaderCompilers: Display: ================================================
+[2025.01.27-21.19.42:578][739]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.27-21.19.42:580][739]LogShaderCompilers: Display: Total job queries 449, among them cache hits 124 (27.62%), DDC hits 314 (69.93%), Duplicates 2 (0.45%)
+[2025.01.27-21.19.42:580][739]LogShaderCompilers: Display: Tracking 323 distinct input hashes that result in 247 distinct outputs (76.47%)
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: RAM used: 153,24 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 2.88 s
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Job execution time: average 2.90 s, max 4.14 s
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Job life time (pending + execution): average 3.29 s, max 4.22
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Shader code size: average 8,812 KiB, min 5,043 KiB, max 15,953 KiB
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.22 s
+[2025.01.27-21.19.42:581][739]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Average processing rate: 2.13 jobs/sec
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Total thread time: 8,511 s
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Total thread preprocess time: 9,923 s
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Percentage time preprocessing: 116.60%
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Effective parallelization: 2.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.92 sec, max 1.92 sec, min 1.92 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 22.60% of total time (compiled    1 times, average 1.92 sec, max 1.92 sec, min 1.92 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.72% of total time (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.79% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 8.61% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display:                                                  FVelocityPS - 8.60% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: === Material stats ===
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Materials Translated:    148
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.01.27-21.19.42:582][739]LogShaderCompilers: Display: ================================================
+[2025.01.27-21.19.59:471][335]LogEditorTransaction: Undo Remove Components
+[2025.01.27-21.20.52:995][ 69]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.21.03:618][458]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.21.39:504][709]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.01.27-21.21.45:240][909]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-21.25.52:185][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2025.01.27-21.25.52:248][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.25.52:323][476]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-21.25.52:364][476]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1]
+[2025.01.27-21.25.52:364][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-21.25.52:379][476]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-21.25.52:381][476]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1264EC95D4D6135C4CF2702BD2FF0E541.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-21.25.52:396][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.583 ms (total: 3.55 sec)
+[2025.01.27-21.25.52:481][476]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.25.52:481][476]LogContentValidation: Enabled validators:
+[2025.01.27-21.25.52:481][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.25.52:481][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.25.52:481][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.25.52:481][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.25.52:481][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.25.52:481][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.25.52:481][476]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-21.25.53:220][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.25.53:315][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-21.25.53:315][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-21.25.53:323][500]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-21.25.53:324][500]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1958373B74ED94032119543A66CF95FE1.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-21.25.53:338][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.125 ms (total: 3.66 sec)
+[2025.01.27-21.25.53:418][500]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.25.53:418][500]LogContentValidation: Enabled validators:
+[2025.01.27-21.25.53:418][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.25.53:418][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.25.53:418][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.25.53:418][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.25.53:418][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.25.53:418][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.25.53:418][500]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-21.26.06:177][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.26.06:286][153]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Generator] ([2] browsable assets)...
+[2025.01.27-21.26.06:286][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Generator]
+[2025.01.27-21.26.06:317][153]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Generator
+[2025.01.27-21.26.06:318][153]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_GeneratorA368AC7A41E347DB115E0AA82CF3EEB0.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Generator.uasset'
+[2025.01.27-21.26.06:331][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.823 ms (total: 3.82 sec)
+[2025.01.27-21.26.06:405][153]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.26.06:405][153]LogContentValidation: Enabled validators:
+[2025.01.27-21.26.06:405][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.26.06:405][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.26.06:405][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.26.06:405][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.26.06:405][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.26.06:405][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.26.06:405][153]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Generator Validating asset
+[2025.01.27-21.26.06:752][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.27-21.26.09:011][274]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-21.26.09:018][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-21.26.09:019][274]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.26.09:021][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001967s)
+[2025.01.27-21.26.09:021][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002014s)
+[2025.01.27-21.26.09:045][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.27-21.26.09:052][274]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.26.09:054][274]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2025.01.27-21.26.09:055][274]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-21.26.09:055][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-21.26.09:055][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-21.26.09:055][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-21.26.09:055][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-21.26.09:055][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-21.26.09:058][274]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-21.26.09:079][274]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-21.26.09:080][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-21.26.09:080][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-21.26.09:080][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-21.26.09:080][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.01.27-21.26.09:080][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.01.27-21.26.09:083][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.01.27-21.26.09:083][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.01.27-21.26.09:083][274]LogInit: FAudioDevice initialized with ID 14.
+[2025.01.27-21.26.09:083][274]LogAudio: Display: Audio Device (ID: 14) registered with world 'Test'.
+[2025.01.27-21.26.09:083][274]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.01.27-21.26.09:086][274]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-21.26.09:087][274]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-22.26.09
+[2025.01.27-21.26.09:088][274]LogWorld: Bringing up level for play took: 0.001320
+[2025.01.27-21.26.09:091][274]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.01.27-21.26.09:110][274]PIE: Server logged in
+[2025.01.27-21.26.09:111][274]PIE: Play in editor total start time 0,093 seconds.
+[2025.01.27-21.26.14:160][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7065.157227
+[2025.01.27-21.26.14:345][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-21.26.14:345][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7065.325684, Update Interval: 356.429321
+[2025.01.27-21.26.18:902][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.26.18:902][852]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.26.18:902][852]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-21.26.18:909][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.26.18:913][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-21.26.18:918][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.26.18:938][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.26.18:941][852]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.01.27-21.26.18:941][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.01.27-21.26.18:944][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.01.27-21.26.18:958][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.27-21.26.19:105][853]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.01.27-21.26.22:041][  2]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 59.55 ms. Compile time 33.36 ms, link time 26.14 ms.
+[2025.01.27-21.26.22:222][  2]LogD3D12RHI: Creating RTPSO with 42 shaders (0 cached, 42 new) took 321.86 ms. Compile time 304.11 ms, link time 17.72 ms.
+[2025.01.27-21.26.53:258][590]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: f10...fc2
+[2025.01.27-21.26.53:258][590]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.01.27-21.26.53:516][601]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: f10...fc2 Access[Expires: 2025.01.27-23.26.54 Remaining: 7200.53] Refresh[Expires: 2025-07-26T18:46:02.745Z Remaining: 15542348.74] State: Valid
+[2025.01.27-21.27.13:762][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.27.13:841][684]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-21.27.13:883][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1]
+[2025.01.27-21.27.13:883][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-21.27.13:890][684]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-21.27.13:891][684]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room174D313C941A316F57E33738C1DE9BBD6.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-21.27.13:905][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.402 ms (total: 3.96 sec)
+[2025.01.27-21.27.13:992][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.27.13:992][684]LogContentValidation: Enabled validators:
+[2025.01.27-21.27.13:992][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.27.13:993][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.27.13:993][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.27.13:993][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.27.13:993][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.27.13:993][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.27.13:993][684]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-21.27.14:971][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.27-21.27.16:590][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-21.27.16:590][815]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.27.16:593][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2025.01.27-21.27.16:593][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002779s)
+[2025.01.27-21.27.16:612][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.27-21.27.16:618][815]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.27.16:620][815]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2025.01.27-21.27.16:621][815]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-21.27.16:621][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-21.27.16:621][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-21.27.16:621][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-21.27.16:621][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-21.27.16:621][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-21.27.16:624][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-21.27.16:641][815]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-21.27.16:642][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-21.27.16:642][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-21.27.16:642][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-21.27.16:643][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.01.27-21.27.16:643][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.01.27-21.27.16:645][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.01.27-21.27.16:645][815]LogInit: FAudioDevice initialized with ID 15.
+[2025.01.27-21.27.16:645][815]LogAudio: Display: Audio Device (ID: 15) registered with world 'Test'.
+[2025.01.27-21.27.16:645][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.01.27-21.27.16:645][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.01.27-21.27.16:647][815]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-21.27.16:650][815]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-22.27.16
+[2025.01.27-21.27.16:650][815]LogWorld: Bringing up level for play took: 0.001319
+[2025.01.27-21.27.16:653][815]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.01.27-21.27.16:662][815]PIE: Server logged in
+[2025.01.27-21.27.16:663][815]PIE: Play in editor total start time 0,073 seconds.
+[2025.01.27-21.27.23:344][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.27-21.27.24:777][136]LogSlate: Window 'Save Content' being destroyed
+[2025.01.27-21.27.24:801][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.27.24:803][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.27-21.27.24:845][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.27-21.27.24:858][136]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.27-21.27.24:858][136]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test4C5A05CF4B4AE7559A406487BA6886E3.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.27-21.27.24:871][136]LogFileHelpers: Saving map 'Test' took 0.069
+[2025.01.27-21.27.24:872][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.091 ms (total: 4.03 sec)
+[2025.01.27-21.27.24:872][136]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dungeons/Test.Test
+[2025.01.27-21.27.25:798][136]LogSlate: Window 'Message' being destroyed
+[2025.01.27-21.27.25:836][136]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2025.01.27-21.27.25:837][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.27.25:837][136]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.27.25:838][136]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-21.27.25:845][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.27.25:849][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-21.27.25:854][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.27.25:876][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-21.27.25:876][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.01.27-21.27.25:876][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.01.27-21.27.25:879][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.01.27-21.27.25:884][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.27.25:893][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.27-21.27.25:909][136]Cmd: MAP LOAD FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.27-21.27.26:442][136]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-21.27.26:443][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.27.26:468][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-21.27.26:477][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.01.27-21.27.26:487][136]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.27.26:493][136]LogStreaming: Warning: FGlobalImportStore:AddPackageRef: Found reference to previously missing package /Game/Dungeons/Level_1/Dungeon_Room1 (0x71150494D5905B77)
+[2025.01.27-21.27.26:510][136]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2025.01.27-21.27.26:511][136]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.27.26:664][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.27-21.27.26:691][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.27-21.27.26:706][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.27-21.27.26:707][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,331ms to complete.
+[2025.01.27-21.27.26:812][136]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.27.26:813][136]LogContentValidation: Enabled validators:
+[2025.01.27-21.27.26:813][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.27.26:813][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.27.26:813][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.27.26:813][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.27.26:813][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.27.26:813][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.27.26:813][136]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.27-21.27.26:894][137]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.01.27-21.27.30:333][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-21.27.30:333][328]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.27.30:335][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001795s)
+[2025.01.27-21.27.30:335][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.001827s)
+[2025.01.27-21.27.30:357][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.27-21.27.30:364][328]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.27.30:366][328]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2025.01.27-21.27.30:367][328]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-21.27.30:367][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-21.27.30:367][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-21.27.30:367][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-21.27.30:367][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-21.27.30:367][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-21.27.30:369][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-21.27.30:387][328]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-21.27.30:389][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-21.27.30:389][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-21.27.30:389][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-21.27.30:389][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.01.27-21.27.30:389][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.01.27-21.27.30:392][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.01.27-21.27.30:392][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.01.27-21.27.30:392][328]LogInit: FAudioDevice initialized with ID 16.
+[2025.01.27-21.27.30:392][328]LogAudio: Display: Audio Device (ID: 16) registered with world 'Test'.
+[2025.01.27-21.27.30:392][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.27-21.27.30:395][328]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-21.27.30:397][328]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-22.27.30
+[2025.01.27-21.27.30:398][328]LogWorld: Bringing up level for play took: 0.001687
+[2025.01.27-21.27.30:400][328]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.01.27-21.27.30:410][328]PIE: Server logged in
+[2025.01.27-21.27.30:411][328]PIE: Play in editor total start time 0,078 seconds.
+[2025.01.27-21.27.35:072][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.27.35:072][578]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.27.35:073][578]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-21.27.35:082][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.27.35:086][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-21.27.35:090][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.27.35:107][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.27.35:107][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.27-21.27.35:107][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.27-21.27.35:110][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.27-21.27.35:131][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.01.27-21.27.35:402][579]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.01.27-21.27.51:551][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.27.51:673][393]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-21.27.51:684][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1]
+[2025.01.27-21.27.51:684][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-21.27.51:690][393]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-21.27.51:691][393]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1EEB6E48D46352EF1D0D250AA5B1874C2.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-21.27.51:703][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.365 ms (total: 4.18 sec)
+[2025.01.27-21.27.51:788][393]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.27.51:788][393]LogContentValidation: Enabled validators:
+[2025.01.27-21.27.51:788][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.27.51:788][393]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.27.51:788][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.27.51:788][393]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.27.51:788][393]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.27.51:788][393]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.27.51:788][393]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-21.27.52:137][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.27-21.27.54:054][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-21.27.54:054][508]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.27.54:056][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002096s)
+[2025.01.27-21.27.54:056][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002131s)
+[2025.01.27-21.27.54:080][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.27-21.27.54:087][508]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.27.54:088][508]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2025.01.27-21.27.54:089][508]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.01.27-21.27.54:089][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-21.27.54:089][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-21.27.54:089][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-21.27.54:089][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-21.27.54:089][508]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-21.27.54:089][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-21.27.54:090][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-21.27.54:090][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-21.27.54:090][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-21.27.54:090][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-21.27.54:090][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-21.27.54:092][508]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-21.27.54:113][508]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-21.27.54:114][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-21.27.54:114][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-21.27.54:114][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-21.27.54:115][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.01.27-21.27.54:115][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.01.27-21.27.54:117][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.01.27-21.27.54:117][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.01.27-21.27.54:117][508]LogInit: FAudioDevice initialized with ID 17.
+[2025.01.27-21.27.54:117][508]LogAudio: Display: Audio Device (ID: 17) registered with world 'Test'.
+[2025.01.27-21.27.54:117][508]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.01.27-21.27.54:122][508]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-21.27.54:124][508]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-22.27.54
+[2025.01.27-21.27.54:124][508]LogWorld: Bringing up level for play took: 0.001342
+[2025.01.27-21.27.54:127][508]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.01.27-21.27.54:138][508]PIE: Server logged in
+[2025.01.27-21.27.54:139][508]PIE: Play in editor total start time 0,085 seconds.
+[2025.01.27-21.28.05:612][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.28.05:612][181]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.28.05:612][181]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-21.28.05:619][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.28.05:623][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-21.28.05:627][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-21.28.05:647][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-21.28.05:647][181]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.01.27-21.28.05:647][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.01.27-21.28.05:650][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.01.27-21.28.05:656][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-21.28.05:666][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.01.27-21.28.05:704][182]LogPlayLevel: Display: Destroying online subsystem :Context_31
