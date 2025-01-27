@@ -4453,3 +4453,1188 @@ FPackageName: Skipped package /Game/Dungeons/Level_1/DungeonRoom2 has a valid, m
 [2025.01.27-21.56.18:485][910]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeons/Level_1/Dungeon_Room2_Auto1
 [2025.01.27-21.56.18:485][910]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2_Auto16DA490F54752FD76BC6AC481AB048F3F.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Autosaves/Game/Dungeons/Level_1/Dungeon_Room2_Auto1.uasset'
 [2025.01.27-21.56.18:487][910]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.01.27-21.57.17:333][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8928.332031
+[2025.01.27-21.57.18:332][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-21.57.18:332][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8928.997070, Update Interval: 349.883118
+[2025.01.27-21.57.22:443][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2
+[2025.01.27-21.57.22:443][107]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2025.01.27-21.58.16:940][866]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.58.23:907][128]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.58.24:503][130]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/City/Textures/T_CTY_Signs_A01_M.T_CTY_Signs_A01_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.27-21.58.24:659][133]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/City/Textures/T_CTY_Signs_A01_C.T_CTY_Signs_A01_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: ================================================
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Total job queries 542, among them cache hits 137 (25.28%), DDC hits 364 (67.16%), Duplicates 2 (0.37%)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Tracking 403 distinct input hashes that result in 293 distinct outputs (72.70%)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: RAM used: 168,24 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Shaders Compiled: 39
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Average time worker was idle: 613.91 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 2.88 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 4.14 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Job life time (pending + execution): average 1.87 s, max 4.22
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Shader code size: average 8,01 KiB, min 2,797 KiB, max 15,953 KiB
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.94 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Average processing rate: 2.80 jobs/sec
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Total thread time: 34,967 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Total thread preprocess time: 11,838 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Percentage time preprocessing: 33.86%
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Effective parallelization: 2.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.69 sec, max 1.93 sec, min 1.25 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.34 sec, max 1.45 sec, min 1.23 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.82 sec, max 0.91 sec, min 0.68 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.67 sec, max 0.73 sec, min 0.62 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.66 sec, max 0.75 sec, min 0.62 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 24.13% of total time (compiled    5 times, average 1.69 sec, max 1.93 sec, min 1.25 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.32% of total time (compiled    7 times, average 0.82 sec, max 0.91 sec, min 0.68 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.45% of total time (compiled    7 times, average 0.57 sec, max 0.69 sec, min 0.47 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.64% of total time (compiled    2 times, average 1.34 sec, max 1.45 sec, min 1.23 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display:                                                  FVelocityPS - 5.71% of total time (compiled    3 times, average 0.67 sec, max 0.73 sec, min 0.62 sec)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: === Material stats ===
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Materials Translated:    149
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.01.27-21.58.42:909][  3]LogShaderCompilers: Display: ================================================
+[2025.01.27-21.58.54:586][535]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.59.13:156][477]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.59.32:194][366]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-21.59.46:742][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.27-21.59.46:987][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-21.59.47:071][981]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-21.59.47:080][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1]
+[2025.01.27-21.59.47:080][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-21.59.47:089][981]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-21.59.47:089][981]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1D0ECC0DD4974168D93DCC495E5A85F51.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-21.59.47:103][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.324 ms (total: 6.78 sec)
+[2025.01.27-21.59.47:195][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-21.59.47:195][981]LogContentValidation: Enabled validators:
+[2025.01.27-21.59.47:195][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-21.59.47:195][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-21.59.47:195][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-21.59.47:195][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-21.59.47:195][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-21.59.47:195][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-21.59.47:195][981]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-21.59.48:959][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-21.59.48:959][ 71]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-21.59.48:962][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002802s)
+[2025.01.27-21.59.48:962][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002852s)
+[2025.01.27-21.59.48:985][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.27-21.59.48:992][ 71]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-21.59.48:993][ 71]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2025.01.27-21.59.48:994][ 71]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-21.59.48:994][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-21.59.48:994][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-21.59.48:994][ 71]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-21.59.48:994][ 71]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-21.59.48:994][ 71]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-21.59.48:997][ 71]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-21.59.49:022][ 71]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-21.59.49:022][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-21.59.49:022][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-21.59.49:022][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-21.59.49:023][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.01.27-21.59.49:023][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.01.27-21.59.49:024][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.01.27-21.59.49:024][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.01.27-21.59.49:024][ 71]LogInit: FAudioDevice initialized with ID 38.
+[2025.01.27-21.59.49:026][ 71]LogAudio: Display: Audio Device (ID: 38) registered with world 'Test'.
+[2025.01.27-21.59.49:026][ 71]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.01.27-21.59.49:028][ 71]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-21.59.49:030][ 71]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-22.59.49
+[2025.01.27-21.59.49:030][ 71]LogWorld: Bringing up level for play took: 0.001443
+[2025.01.27-21.59.49:033][ 71]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.01.27-21.59.49:043][ 71]PIE: Server logged in
+[2025.01.27-21.59.49:045][ 71]PIE: Play in editor total start time 0,086 seconds.
+[2025.01.27-22.00.13:557][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.00.13:557][502]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.00.13:557][502]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.00.13:567][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.00.13:572][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.00.13:579][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.00.13:602][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.00.13:602][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.01.27-22.00.13:602][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.01.27-22.00.13:605][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.01.27-22.00.13:613][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.00.13:625][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.27-22.00.13:667][503]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.01.27-22.00.18:931][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room
+[2025.01.27-22.00.18:932][793]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2025.01.27-22.00.28:975][226]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-22.00.28:983][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.00.28:983][226]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.00.28:985][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002173s)
+[2025.01.27-22.00.28:985][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002221s)
+[2025.01.27-22.00.29:033][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.27-22.00.29:037][226]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.00.29:038][226]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2025.01.27-22.00.29:039][226]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.00.29:039][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.00.29:039][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.00.29:039][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.00.29:039][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.00.29:039][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.00.29:042][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.00.29:064][226]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.00.29:065][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.00.29:065][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.00.29:065][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.00.29:065][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.01.27-22.00.29:065][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.01.27-22.00.29:068][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.01.27-22.00.29:068][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.01.27-22.00.29:068][226]LogInit: FAudioDevice initialized with ID 39.
+[2025.01.27-22.00.29:068][226]LogAudio: Display: Audio Device (ID: 39) registered with world 'Test'.
+[2025.01.27-22.00.29:068][226]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.01.27-22.00.29:071][226]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.00.29:072][226]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.00.29
+[2025.01.27-22.00.29:073][226]LogWorld: Bringing up level for play took: 0.001249
+[2025.01.27-22.00.29:076][226]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.01.27-22.00.29:088][226]PIE: Server logged in
+[2025.01.27-22.00.29:089][226]PIE: Play in editor total start time 0,107 seconds.
+[2025.01.27-22.00.34:707][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.00.34:707][547]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.00.34:708][547]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.00.34:717][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.00.34:723][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.00.34:728][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.00.34:754][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.00.34:756][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.01.27-22.00.34:756][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.01.27-22.00.34:759][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.01.27-22.00.34:765][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.00.34:778][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.27-22.00.34:826][548]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.01.27-22.00.49:698][210]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.02.49:693][196]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.02.52:853][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.01.27-22.02.53:416][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.02.53:503][314]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-22.02.53:511][314]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-22.02.53:511][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-22.02.53:511][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-22.02.53:519][314]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-22.02.53:520][314]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_RoomB35E3B6B4EC48386C8168A9C428AE536.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-22.02.53:536][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.440 ms (total: 6.90 sec)
+[2025.01.27-22.02.53:632][314]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.02.53:632][314]LogContentValidation: Enabled validators:
+[2025.01.27-22.02.53:632][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.02.53:632][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.02.53:632][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.02.53:632][314]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.02.53:632][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.02.53:632][314]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.02.53:633][314]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-22.02.55:379][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.02.55:480][380]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.02.55:494][380]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.02.55:494][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.02.55:506][380]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.02.55:506][380]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room26A66923B43C565037C288C9193399BF9.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.02.55:528][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.780 ms (total: 7.05 sec)
+[2025.01.27-22.02.55:636][380]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.02.55:636][380]LogContentValidation: Enabled validators:
+[2025.01.27-22.02.55:636][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.02.55:636][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.02.55:636][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.02.55:636][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.02.55:636][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.02.55:636][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.02.55:636][380]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.02.57:517][456]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.02.57:517][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.02.57:597][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.27-22.03.36:820][202]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.03.38:717][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.03.38:820][271]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-22.03.38:830][271]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-22.03.38:830][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-22.03.38:830][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-22.03.38:838][271]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-22.03.38:839][271]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room7C8306C049E0ED2E633980BC3AD92FC4.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-22.03.38:856][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.429 ms (total: 7.18 sec)
+[2025.01.27-22.03.38:963][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.03.38:963][271]LogContentValidation: Enabled validators:
+[2025.01.27-22.03.38:963][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.03.38:963][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.03.38:963][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.03.38:963][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.03.38:963][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.03.38:963][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.03.38:963][271]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-22.03.42:464][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9313.406250
+[2025.01.27-22.03.42:675][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.03.42:675][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9313.593750, Update Interval: 340.716583
+[2025.01.27-22.03.59:913][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.04.00:004][ 71]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start_Room] ([2] browsable assets)...
+[2025.01.27-22.04.00:016][ 71]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room]
+[2025.01.27-22.04.00:017][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start_Room]
+[2025.01.27-22.04.00:017][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset" SILENT=true
+[2025.01.27-22.04.00:028][ 71]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start_Room
+[2025.01.27-22.04.00:029][ 71]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_Room544BA09845FB75E96992A4B47A2587F4.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset'
+[2025.01.27-22.04.00:043][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.566 ms (total: 7.31 sec)
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: Enabled validators:
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.04.00:137][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.04.00:138][ 71]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
+[2025.01.27-22.04.11:699][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.01.27-22.04.13:866][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-22.04.13:875][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.04.13:896][682]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.04.13:898][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002213s)
+[2025.01.27-22.04.13:898][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002260s)
+[2025.01.27-22.04.13:931][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.27-22.04.13:938][682]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.04.13:939][682]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2025.01.27-22.04.13:940][682]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.04.13:940][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.04.13:940][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.04.13:940][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.04.13:940][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.04.13:940][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.04.13:942][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.04.13:967][682]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.04.13:967][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.04.13:967][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.04.13:967][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.04.13:969][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.01.27-22.04.13:969][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.01.27-22.04.13:972][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.01.27-22.04.13:972][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.01.27-22.04.13:972][682]LogInit: FAudioDevice initialized with ID 40.
+[2025.01.27-22.04.13:972][682]LogAudio: Display: Audio Device (ID: 40) registered with world 'Test'.
+[2025.01.27-22.04.13:972][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.01.27-22.04.13:975][682]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.04.13:976][682]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.04.13
+[2025.01.27-22.04.13:976][682]LogWorld: Bringing up level for play took: 0.001565
+[2025.01.27-22.04.13:980][682]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.01.27-22.04.13:993][682]PIE: Server logged in
+[2025.01.27-22.04.13:995][682]PIE: Play in editor total start time 0,12 seconds.
+[2025.01.27-22.04.16:017][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.04.16:017][786]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.04.16:017][786]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.04.16:026][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.04.16:030][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.04.16:037][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.04.16:063][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.04.16:066][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.01.27-22.04.16:066][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.01.27-22.04.16:070][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.01.27-22.04.16:075][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.04.16:089][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.27-22.04.16:129][787]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.01.27-22.04.25:131][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.04.25:229][148]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-22.04.25:241][148]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-22.04.25:241][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-22.04.25:241][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-22.04.25:248][148]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-22.04.25:249][148]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room0792FE8E4D77D75BE6DBC8B2E0FBBE30.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-22.04.25:263][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.463 ms (total: 7.45 sec)
+[2025.01.27-22.04.25:370][148]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.04.25:371][148]LogContentValidation: Enabled validators:
+[2025.01.27-22.04.25:371][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.04.25:371][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.04.25:371][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.04.25:371][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.04.25:371][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.04.25:371][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.04.25:371][148]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-22.04.25:915][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.01.27-22.04.27:938][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-22.04.27:951][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.04.27:951][258]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.04.27:955][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003474s)
+[2025.01.27-22.04.27:956][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.003533s)
+[2025.01.27-22.04.27:991][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.01.27-22.04.28:001][258]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.04.28:003][258]LogPlayLevel: PIE: World Init took: (0.002041s)
+[2025.01.27-22.04.28:004][258]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.04.28:004][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.04.28:004][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.04.28:004][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.04.28:004][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.04.28:004][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.04.28:008][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.04.28:037][258]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.04.28:038][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.04.28:038][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.04.28:038][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.04.28:039][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.01.27-22.04.28:039][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.01.27-22.04.28:046][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.01.27-22.04.28:047][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.01.27-22.04.28:047][258]LogInit: FAudioDevice initialized with ID 41.
+[2025.01.27-22.04.28:047][258]LogAudio: Display: Audio Device (ID: 41) registered with world 'Test'.
+[2025.01.27-22.04.28:047][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.01.27-22.04.28:050][258]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.04.28:052][258]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.04.28
+[2025.01.27-22.04.28:052][258]LogWorld: Bringing up level for play took: 0.002201
+[2025.01.27-22.04.28:055][258]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.01.27-22.04.28:068][258]PIE: Server logged in
+[2025.01.27-22.04.28:070][258]PIE: Play in editor total start time 0,118 seconds.
+[2025.01.27-22.04.31:426][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.04.31:426][440]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.04.31:427][440]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.04.31:436][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.04.31:440][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.04.31:446][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.04.31:473][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.04.31:476][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.01.27-22.04.31:476][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.01.27-22.04.31:479][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.01.27-22.04.31:488][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.04.31:500][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.01.27-22.04.31:542][441]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.01.27-22.04.38:197][773]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.04.50:922][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.04.51:016][306]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-22.04.51:032][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-22.04.51:032][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-22.04.51:032][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-22.04.51:038][306]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-22.04.51:039][306]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room2A5BB00B49941E38871195B156EE4C61.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-22.04.51:055][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.901 ms (total: 7.58 sec)
+[2025.01.27-22.04.51:149][306]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.04.51:150][306]LogContentValidation: Enabled validators:
+[2025.01.27-22.04.51:150][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.04.51:150][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.04.51:150][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.04.51:150][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.04.51:150][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.04.51:150][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.04.51:150][306]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-22.04.52:180][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.27-22.04.54:145][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-22.04.54:155][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.04.54:155][433]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.04.54:159][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003954s)
+[2025.01.27-22.04.54:159][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.004016s)
+[2025.01.27-22.04.54:189][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.27-22.04.54:196][433]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.04.54:198][433]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2025.01.27-22.04.54:199][433]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.04.54:199][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.04.54:199][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.04.54:199][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.04.54:199][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.04.54:199][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.04.54:202][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.04.54:226][433]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.04.54:227][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.04.54:227][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.04.54:227][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.04.54:227][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.01.27-22.04.54:227][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.01.27-22.04.54:231][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.01.27-22.04.54:231][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.01.27-22.04.54:231][433]LogInit: FAudioDevice initialized with ID 42.
+[2025.01.27-22.04.54:231][433]LogAudio: Display: Audio Device (ID: 42) registered with world 'Test'.
+[2025.01.27-22.04.54:231][433]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.01.27-22.04.54:234][433]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.04.54:236][433]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.04.54
+[2025.01.27-22.04.54:236][433]LogWorld: Bringing up level for play took: 0.001379
+[2025.01.27-22.04.54:239][433]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.01.27-22.04.54:250][433]PIE: Server logged in
+[2025.01.27-22.04.54:252][433]PIE: Play in editor total start time 0,098 seconds.
+[2025.01.27-22.04.57:726][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.04.57:726][617]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.04.57:726][617]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.04.57:735][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.04.57:740][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.04.57:747][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.04.57:776][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.04.57:778][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.01.27-22.04.57:778][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.01.27-22.04.57:782][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.01.27-22.04.57:793][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.04.57:805][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.27-22.04.57:847][618]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.01.27-22.05.05:137][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.05.05:236][931]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-22.05.05:249][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-22.05.05:249][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-22.05.05:249][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-22.05.05:258][931]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-22.05.05:259][931]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room3F902EBC43C9010975807681AEB527A7.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-22.05.05:273][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.790 ms (total: 7.71 sec)
+[2025.01.27-22.05.05:370][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.05.05:370][931]LogContentValidation: Enabled validators:
+[2025.01.27-22.05.05:370][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.05.05:370][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.05.05:370][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.05.05:370][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.05.05:370][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.05.05:370][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.05.05:370][931]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-22.05.05:698][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.27-22.05.07:622][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-22.05.07:631][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.05.07:656][ 30]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.05.07:658][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002241s)
+[2025.01.27-22.05.07:658][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002290s)
+[2025.01.27-22.05.07:690][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.27-22.05.07:698][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.05.07:699][ 30]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2025.01.27-22.05.07:700][ 30]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.05.07:700][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.05.07:700][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.05.07:700][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.05.07:700][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.05.07:700][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.05.07:702][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.05.07:724][ 30]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.05.07:724][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.05.07:724][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.05.07:724][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.05.07:725][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.01.27-22.05.07:725][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.01.27-22.05.07:728][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.01.27-22.05.07:728][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.01.27-22.05.07:728][ 30]LogInit: FAudioDevice initialized with ID 43.
+[2025.01.27-22.05.07:728][ 30]LogAudio: Display: Audio Device (ID: 43) registered with world 'Test'.
+[2025.01.27-22.05.07:728][ 30]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.01.27-22.05.07:732][ 30]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.05.07:734][ 30]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.05.07
+[2025.01.27-22.05.07:734][ 30]LogWorld: Bringing up level for play took: 0.001378
+[2025.01.27-22.05.07:736][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.01.27-22.05.07:749][ 30]PIE: Server logged in
+[2025.01.27-22.05.07:751][ 30]PIE: Play in editor total start time 0,12 seconds.
+[2025.01.27-22.05.09:376][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.05.09:376][112]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.05.09:377][112]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.05.09:388][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.05.09:395][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.05.09:404][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.05.09:431][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.05.09:434][112]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.01.27-22.05.09:434][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.01.27-22.05.09:437][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.01.27-22.05.09:445][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.05.09:459][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.01.27-22.05.09:500][113]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.01.27-22.05.39:200][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.05.39:299][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-22.05.39:310][753]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-22.05.39:310][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-22.05.39:310][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-22.05.39:317][753]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-22.05.39:318][753]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_RoomC9F65E4B42CA9A8550C4B09C6C258B1B.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-22.05.39:331][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.471 ms (total: 7.84 sec)
+[2025.01.27-22.05.39:433][753]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.05.39:433][753]LogContentValidation: Enabled validators:
+[2025.01.27-22.05.39:433][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.05.39:433][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.05.39:433][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.05.39:433][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.05.39:433][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.05.39:433][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.05.39:433][753]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-22.05.59:435][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.01.27-22.06.00:405][514]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.27-22.06.00:745][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-22.06.00:745][514]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.06.00:745][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.06.00:840][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-22.06.00:840][514]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.06.00:840][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.06.01:026][514]LogSlate: Window 'Dungeon_Room1' being destroyed
+[2025.01.27-22.06.01:041][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-22.06.01:041][514]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.06.01:041][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.06.01:253][514]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2
+	Asset Type: Blueprint
+[2025.01.27-22.06.01:546][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.27-22.06.01:706][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.27-22.06.01:732][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.27-22.06.01:757][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.27-22.06.01:794][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.01.27-22.06.09:188][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.27-22.06.11:891][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.01.27-22.06.14:434][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.27-22.06.14:726][ 34]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Test.Test
+	Asset Type: Blueprint
+[2025.01.27-22.06.15:021][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.27-22.06.15:077][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.27-22.06.15:105][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.27-22.06.15:126][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.27-22.06.18:926][241]LogContentBrowser: Attempting asset rename: Dungeon_Room2 -> Test
+[2025.01.27-22.06.19:064][241]LogMetaData: Removing '/Game/Dungeons/Level_1/Test.SKEL_Test_C' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room2.PackageMetaData'
+[2025.01.27-22.06.19:064][241]LogMetaData: Removing '/Game/Dungeons/Level_1/Test.Test_C' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room2.PackageMetaData'
+[2025.01.27-22.06.19:064][241]LogMetaData: Removing '/Game/Dungeons/Level_1/Test.SKEL_Test_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room2.PackageMetaData'
+[2025.01.27-22.06.19:064][241]LogMetaData: Removing '/Game/Dungeons/Level_1/Test.SKEL_Test_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room2.PackageMetaData'
+[2025.01.27-22.06.19:064][241]LogMetaData: Removing '/Game/Dungeons/Level_1/Test.SKEL_Test_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room2.PackageMetaData'
+[2025.01.27-22.06.19:064][241]LogMetaData: Removing '/Game/Dungeons/Level_1/Test.SKEL_Test_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room2.PackageMetaData'
+[2025.01.27-22.06.19:065][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.06.19:065][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Test] ([2] browsable assets)...
+[2025.01.27-22.06.19:077][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Test.Test]
+[2025.01.27-22.06.19:077][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Test]
+[2025.01.27-22.06.19:077][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Test.uasset" SILENT=true
+[2025.01.27-22.06.19:087][241]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Test
+[2025.01.27-22.06.19:087][241]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/TestDFAA396D48AF79B584D588BDA3AD4CCB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Test.uasset'
+[2025.01.27-22.06.19:095][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.944 ms (total: 7.87 sec)
+[2025.01.27-22.06.19:128][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.01.27-22.06.19:157][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.27-22.06.19:185][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.27-22.06.19:295][241]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.06.19:295][241]LogContentValidation: Enabled validators:
+[2025.01.27-22.06.19:295][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.06.19:295][241]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.06.19:295][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.06.19:295][241]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.06.19:295][241]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.06.19:295][241]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.06.19:295][241]AssetCheck: /Game/Dungeons/Level_1/Test Validating asset
+[2025.01.27-22.06.22:234][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.06.22:331][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.27-22.06.22:381][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.01.27-22.06.22:397][406]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.27-22.06.22:398][406]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test28FA9EDF46EFC3857504A38AA9D63E60.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.27-22.06.22:416][406]LogFileHelpers: Saving map 'Test' took 0.085
+[2025.01.27-22.06.22:432][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.517 ms (total: 8.07 sec)
+[2025.01.27-22.06.22:528][406]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.06.22:528][406]LogContentValidation: Enabled validators:
+[2025.01.27-22.06.22:528][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.06.22:528][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.06.22:528][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.06.22:528][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.06.22:528][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.06.22:528][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.06.22:528][406]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.27-22.06.22:843][419]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1
+[2025.01.27-22.06.22:843][419]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2025.01.27-22.09.56:252][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9687.200195
+[2025.01.27-22.09.57:251][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.09.57:251][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9687.868164, Update Interval: 303.684204
+[2025.01.27-22.12.23:553][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.27-22.12.24:716][149]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2
+[2025.01.27-22.12.24:717][149]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2025.01.27-22.12.48:135][157]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.15.57:627][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10048.593750
+[2025.01.27-22.15.57:807][474]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.15.57:807][474]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10048.754883, Update Interval: 300.849640
+[2025.01.27-22.20.23:806][333]LogEditorTransaction: Undo Paste Component(s)
+[2025.01.27-22.21.33:163][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10384.068359
+[2025.01.27-22.21.33:367][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.21.33:367][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10384.250977, Update Interval: 309.897156
+[2025.01.27-22.22.30:072][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.01.27-22.23.02:282][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.01.27-22.23.02:289][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeons/Test' took 0.029
+[2025.01.27-22.23.02:289][226]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.23.02:340][226]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.23.02:340][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.23.02:352][226]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeons/Level_1/Dungeon_Room2_Auto2
+[2025.01.27-22.23.02:352][226]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2_Auto2D02F5B9746EEC759E40EDB907E028C4E.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Autosaves/Game/Dungeons/Level_1/Dungeon_Room2_Auto2.uasset'
+[2025.01.27-22.23.02:353][226]LogFileHelpers: Auto-saving content packages took 0.065
+[2025.01.27-22.23.22:850][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.23.22:937][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.23.22:937][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.23.22:947][288]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.23.22:947][288]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room294DB12D3467AF8174D2F9BBCE80EE2A4.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.23.22:969][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.929 ms (total: 8.19 sec)
+[2025.01.27-22.23.23:073][288]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.23.23:073][288]LogContentValidation: Enabled validators:
+[2025.01.27-22.23.23:073][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.23.23:073][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.23.23:073][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.23.23:073][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.23.23:073][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.23.23:073][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.23.23:073][288]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.23.31:516][519]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Generator.Dungeon_Generator
+[2025.01.27-22.23.31:516][519]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.27-22.23.38:102][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.27-22.23.40:626][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.23.40:709][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Generator] ([2] browsable assets)...
+[2025.01.27-22.23.40:709][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Generator]
+[2025.01.27-22.23.40:727][929]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Generator
+[2025.01.27-22.23.40:727][929]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator7DBF847346A4B6A1764539A66F9E3C60.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Generator.uasset'
+[2025.01.27-22.23.40:742][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.676 ms (total: 8.31 sec)
+[2025.01.27-22.23.40:840][929]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.23.40:840][929]LogContentValidation: Enabled validators:
+[2025.01.27-22.23.40:840][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.23.40:842][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.23.40:842][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.23.40:842][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.23.40:842][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.23.40:842][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.23.40:842][929]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Generator Validating asset
+[2025.01.27-22.23.42:453][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.23.42:453][ 20]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.23.42:455][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002215s)
+[2025.01.27-22.23.42:455][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002253s)
+[2025.01.27-22.23.42:477][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.27-22.23.42:485][ 20]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.23.42:487][ 20]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2025.01.27-22.23.42:488][ 20]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.23.42:488][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.23.42:488][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.23.42:488][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.23.42:488][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.23.42:488][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.23.42:490][ 20]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.23.42:514][ 20]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.23.42:514][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.23.42:514][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.23.42:514][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.23.42:515][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.01.27-22.23.42:515][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.01.27-22.23.42:517][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.01.27-22.23.42:517][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.01.27-22.23.42:517][ 20]LogInit: FAudioDevice initialized with ID 44.
+[2025.01.27-22.23.42:517][ 20]LogAudio: Display: Audio Device (ID: 44) registered with world 'Test'.
+[2025.01.27-22.23.42:517][ 20]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.01.27-22.23.42:520][ 20]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.23.42:522][ 20]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.23.42
+[2025.01.27-22.23.42:522][ 20]LogWorld: Bringing up level for play took: 0.001253
+[2025.01.27-22.23.42:525][ 20]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.01.27-22.23.42:536][ 20]PIE: Server logged in
+[2025.01.27-22.23.42:538][ 20]PIE: Play in editor total start time 0,086 seconds.
+[2025.01.27-22.23.56:384][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.23.56:384][821]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.23.56:385][821]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.23.56:396][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.23.56:403][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.23.56:415][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.23.56:445][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.23.56:447][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.01.27-22.23.56:447][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.01.27-22.23.56:452][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.01.27-22.23.56:481][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.01.27-22.23.56:544][822]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.01.27-22.24.51:518][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.24.51:621][809]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.24.51:634][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.24.51:634][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.24.51:644][809]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.24.51:645][809]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2B41DE5BC4AEA919C4AA9BBB7708633B9.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.24.51:666][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.079 ms (total: 8.45 sec)
+[2025.01.27-22.24.51:775][809]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.24.51:775][809]LogContentValidation: Enabled validators:
+[2025.01.27-22.24.51:775][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.24.51:775][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.24.51:775][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.24.51:775][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.24.51:775][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.24.51:775][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.24.51:775][809]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.24.52:454][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2025.01.27-22.24.53:366][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.27-22.24.57:016][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.27-22.24.57:024][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.24.57:073][ 70]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.24.57:075][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002054s)
+[2025.01.27-22.24.57:075][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002104s)
+[2025.01.27-22.24.57:099][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.01.27-22.24.57:103][ 70]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.24.57:105][ 70]LogPlayLevel: PIE: World Init took: (0.002053s)
+[2025.01.27-22.24.57:106][ 70]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.24.57:106][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.24.57:106][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.24.57:106][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.24.57:106][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.24.57:106][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.24.57:110][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.24.57:138][ 70]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.24.57:138][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.24.57:138][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.24.57:138][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.24.57:139][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.01.27-22.24.57:139][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.01.27-22.24.57:142][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.01.27-22.24.57:142][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.01.27-22.24.57:142][ 70]LogInit: FAudioDevice initialized with ID 45.
+[2025.01.27-22.24.57:142][ 70]LogAudio: Display: Audio Device (ID: 45) registered with world 'Test'.
+[2025.01.27-22.24.57:142][ 70]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.01.27-22.24.57:145][ 70]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.24.57:147][ 70]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.24.57
+[2025.01.27-22.24.57:148][ 70]LogWorld: Bringing up level for play took: 0.001322
+[2025.01.27-22.24.57:151][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.01.27-22.24.57:164][ 70]PIE: Server logged in
+[2025.01.27-22.24.57:165][ 70]PIE: Play in editor total start time 0,142 seconds.
+[2025.01.27-22.25.15:634][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.25.15:634][146]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.25.15:635][146]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.25.15:644][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.25.15:649][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.25.15:656][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.25.15:687][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.25.15:687][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.01.27-22.25.15:688][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.01.27-22.25.15:691][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.01.27-22.25.15:698][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.25.15:712][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.01.27-22.25.15:756][147]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.01.27-22.25.16:513][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.25.16:513][190]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.25.16:517][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003213s)
+[2025.01.27-22.25.16:517][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.003271s)
+[2025.01.27-22.25.16:543][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.01.27-22.25.16:548][190]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.25.16:550][190]LogPlayLevel: PIE: World Init took: (0.002317s)
+[2025.01.27-22.25.16:550][190]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.25.16:552][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.25.16:552][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.25.16:552][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.25.16:552][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.25.16:552][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.25.16:555][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.25.16:582][190]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.25.16:583][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.25.16:583][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.25.16:583][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.25.16:583][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.01.27-22.25.16:583][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.01.27-22.25.16:587][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.01.27-22.25.16:587][190]LogInit: FAudioDevice initialized with ID 46.
+[2025.01.27-22.25.16:588][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.01.27-22.25.16:588][190]LogAudio: Display: Audio Device (ID: 46) registered with world 'Test'.
+[2025.01.27-22.25.16:588][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.01.27-22.25.16:592][190]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.25.16:594][190]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.25.16
+[2025.01.27-22.25.16:594][190]LogWorld: Bringing up level for play took: 0.001638
+[2025.01.27-22.25.16:598][190]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2025.01.27-22.25.16:612][190]PIE: Server logged in
+[2025.01.27-22.25.16:614][190]PIE: Play in editor total start time 0,101 seconds.
+[2025.01.27-22.25.22:393][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.25.22:394][509]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.25.22:394][509]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.25.22:404][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.25.22:410][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.25.22:416][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.25.22:443][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.25.22:443][509]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.01.27-22.25.22:443][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.01.27-22.25.22:445][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.01.27-22.25.22:466][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.01.27-22.25.22:503][510]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2025.01.27-22.25.40:106][213]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.26.10:024][450]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.26.33:906][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.27-22.26.34:345][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.26.34:434][391]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.26.34:475][391]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.26.34:475][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.26.34:483][391]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.26.34:484][391]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2AD042D504CDD0978F977F888863F8DEB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.26.34:497][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.460 ms (total: 8.61 sec)
+[2025.01.27-22.26.34:594][391]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.26.34:594][391]LogContentValidation: Enabled validators:
+[2025.01.27-22.26.34:594][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.26.34:594][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.26.34:594][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.26.34:594][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.26.34:594][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.26.34:594][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.26.34:594][391]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.26.53:473][147]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.26.54:095][157]LogEditorTransaction: Undo Paste Component(s)
+[2025.01.27-22.27.42:299][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10753.220703
+[2025.01.27-22.27.42:531][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.27.42:531][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10753.427734, Update Interval: 350.701630
+[2025.01.27-22.27.59:546][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.27.59:661][608]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.27.59:704][608]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.27.59:704][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.27.59:713][608]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.27.59:714][608]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2437ED30B4F9E0CC3AAAB2D88215B8639.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.27.59:727][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.694 ms (total: 8.79 sec)
+[2025.01.27-22.27.59:835][608]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.27.59:835][608]LogContentValidation: Enabled validators:
+[2025.01.27-22.27.59:835][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.27.59:835][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.27.59:835][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.27.59:835][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.27.59:835][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.27.59:835][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.27.59:836][608]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.28.00:558][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.27-22.28.43:331][179]LogShaderCompilers: Display: ================================================
+[2025.01.27-22.28.43:331][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.27-22.28.43:331][179]LogShaderCompilers: Display: Total job queries 598, among them cache hits 185 (30.94%), DDC hits 367 (61.37%), Duplicates 2 (0.33%)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Tracking 411 distinct input hashes that result in 297 distinct outputs (72.26%)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: RAM used: 169,47 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Shaders Compiled: 44
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Average time worker was idle: 776.23 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 2.88 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Job execution time: average 1.76 s, max 4.14 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Job life time (pending + execution): average 1.95 s, max 4.22
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Shader code size: average 8,036 KiB, min 2,797 KiB, max 15,953 KiB
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.35 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Average processing rate: 2.54 jobs/sec
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Total thread time: 40,208 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Total thread preprocess time: 13,022 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Percentage time preprocessing: 32.39%
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.69 sec, max 1.93 sec, min 1.25 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.52 sec, max 1.88 sec, min 1.23 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.85 sec, max 1.11 sec, min 0.68 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.70 sec, max 0.79 sec, min 0.62 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.67 sec, max 0.73 sec, min 0.62 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 20.98% of total time (compiled    5 times, average 1.69 sec, max 1.93 sec, min 1.25 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.94% of total time (compiled    8 times, average 0.85 sec, max 1.11 sec, min 0.68 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.01% of total time (compiled    8 times, average 0.60 sec, max 0.83 sec, min 0.47 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.32% of total time (compiled    3 times, average 1.52 sec, max 1.88 sec, min 1.23 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.93% of total time (compiled    4 times, average 0.70 sec, max 0.79 sec, min 0.62 sec)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: === Material stats ===
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Materials Translated:    152
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.01.27-22.28.43:332][179]LogShaderCompilers: Display: ================================================
+[2025.01.27-22.30.07:499][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.01.27-22.30.08:095][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.30.08:198][203]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.30.08:207][203]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.30.08:207][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.30.08:218][203]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.30.08:219][203]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2147353494CA2E1BF5DADEEB386FD59AC.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.30.08:234][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.474 ms (total: 8.93 sec)
+[2025.01.27-22.30.08:324][203]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.30.08:324][203]LogContentValidation: Enabled validators:
+[2025.01.27-22.30.08:324][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.30.08:324][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.30.08:324][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.30.08:324][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.30.08:324][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.30.08:324][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.30.08:325][203]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.34.10:482][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11141.353516
+[2025.01.27-22.34.10:726][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.34.10:726][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11141.562500, Update Interval: 341.357452
+[2025.01.27-22.34.18:618][183]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.34.52:011][471]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.35.39:857][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.35.39:943][386]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.35.39:954][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.35.39:954][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.35.39:967][386]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.35.39:968][386]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2186215B7400C5126FD622FBE458E5BB9.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.35.39:981][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.170 ms (total: 9.05 sec)
+[2025.01.27-22.35.40:074][386]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.35.40:074][386]LogContentValidation: Enabled validators:
+[2025.01.27-22.35.40:074][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.35.40:074][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.35.40:074][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.35.40:074][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.35.40:074][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.35.40:074][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.35.40:074][386]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.35.40:770][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.01.27-22.36.51:769][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.36.51:869][465]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.36.51:879][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.36.51:879][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.36.51:896][465]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.36.51:897][465]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room29658F508497238B53CBAAF922F4A7423.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.36.51:920][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.665 ms (total: 9.20 sec)
+[2025.01.27-22.36.52:042][465]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.36.52:042][465]LogContentValidation: Enabled validators:
+[2025.01.27-22.36.52:043][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.36.52:043][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.36.52:043][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.36.52:043][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.36.52:043][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.36.52:043][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.36.52:043][465]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.36.52:427][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.27-22.36.55:067][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.36.55:067][604]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.36.55:070][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002641s)
+[2025.01.27-22.36.55:070][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002694s)
+[2025.01.27-22.36.55:100][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.01.27-22.36.55:106][604]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.36.55:109][604]LogPlayLevel: PIE: World Init took: (0.002112s)
+[2025.01.27-22.36.55:110][604]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.36.55:110][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.36.55:110][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.36.55:110][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.36.55:110][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.36.55:110][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.36.55:113][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.36.55:138][604]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.36.55:138][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.36.55:138][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.36.55:138][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.36.55:139][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.01.27-22.36.55:140][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.01.27-22.36.55:142][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.01.27-22.36.55:142][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.01.27-22.36.55:143][604]LogInit: FAudioDevice initialized with ID 47.
+[2025.01.27-22.36.55:143][604]LogAudio: Display: Audio Device (ID: 47) registered with world 'Test'.
+[2025.01.27-22.36.55:143][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.01.27-22.36.55:146][604]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.36.55:148][604]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.36.55
+[2025.01.27-22.36.55:148][604]LogWorld: Bringing up level for play took: 0.001435
+[2025.01.27-22.36.55:151][604]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2025.01.27-22.36.55:163][604]PIE: Server logged in
+[2025.01.27-22.36.55:164][604]PIE: Play in editor total start time 0,098 seconds.
+[2025.01.27-22.36.58:112][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.36.58:113][732]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.36.58:113][732]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.36.58:123][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.36.58:128][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.36.58:133][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.36.58:163][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.36.58:164][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.01.27-22.36.58:164][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.01.27-22.36.58:167][732]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.01.27-22.36.58:173][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.36.58:190][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.01.27-22.36.58:233][733]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2025.01.27-22.37.19:238][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.37.19:331][719]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.37.19:378][719]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.37.19:379][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.37.19:392][719]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.37.19:393][719]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2FF7F4A404C95B0E5DE71D086439E94DB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.37.19:411][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.944 ms (total: 9.38 sec)
+[2025.01.27-22.37.19:505][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.37.19:505][719]LogContentValidation: Enabled validators:
+[2025.01.27-22.37.19:505][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.37.19:506][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.37.19:506][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.37.19:506][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.37.19:506][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.37.19:506][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.37.19:506][719]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.37.19:731][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.27-22.37.22:139][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.37.22:139][840]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.37.22:141][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001893s)
+[2025.01.27-22.37.22:141][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.001926s)
+[2025.01.27-22.37.22:165][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.27-22.37.22:171][840]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.37.22:172][840]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2025.01.27-22.37.22:173][840]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.01.27-22.37.22:173][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.37.22:173][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.37.22:174][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.37.22:174][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.37.22:174][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.37.22:174][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.37.22:174][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.37.22:174][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.37.22:174][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.37.22:174][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.37.22:174][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.37.22:177][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.37.22:200][840]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.37.22:200][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.37.22:200][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.37.22:200][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.37.22:200][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.01.27-22.37.22:200][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.01.27-22.37.22:203][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.01.27-22.37.22:203][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.01.27-22.37.22:203][840]LogInit: FAudioDevice initialized with ID 48.
+[2025.01.27-22.37.22:203][840]LogAudio: Display: Audio Device (ID: 48) registered with world 'Test'.
+[2025.01.27-22.37.22:203][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.01.27-22.37.22:207][840]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.37.22:208][840]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.37.22
+[2025.01.27-22.37.22:208][840]LogWorld: Bringing up level for play took: 0.001625
+[2025.01.27-22.37.22:212][840]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.01.27-22.37.22:224][840]PIE: Server logged in
+[2025.01.27-22.37.22:225][840]PIE: Play in editor total start time 0,086 seconds.
+[2025.01.27-22.37.26:222][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.37.26:222][ 51]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.37.26:223][ 51]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.37.26:232][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.37.26:237][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.37.26:244][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.37.26:274][ 51]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.37.26:275][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.01.27-22.37.26:275][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.01.27-22.37.26:278][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.01.27-22.37.26:285][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.37.26:300][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.01.27-22.37.26:336][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.01.27-22.38.59:872][910]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.40.24:623][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11515.426758
+[2025.01.27-22.40.24:831][257]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-22.40.24:831][257]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11515.617188, Update Interval: 300.357056
+[2025.01.27-22.41.09:533][105]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-22.42.15:832][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.42.15:924][704]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.42.15:935][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.42.15:935][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.42.15:947][704]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.42.15:948][704]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2F6D237F94FDBF3C43DAA4EB561788A0E.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.42.15:961][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.766 ms (total: 9.50 sec)
+[2025.01.27-22.42.16:060][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.42.16:060][704]LogContentValidation: Enabled validators:
+[2025.01.27-22.42.16:060][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.42.16:060][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.42.16:060][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.42.16:060][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.42.16:060][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.42.16:060][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.42.16:061][704]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.42.17:094][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2025.01.27-22.42.39:210][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.42.39:302][591]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.27-22.42.39:316][591]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.27-22.42.39:316][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.27-22.42.39:326][591]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.27-22.42.39:327][591]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room27CA1D8644D1178DA62E57099A6DDE7B5.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.27-22.42.39:342][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.377 ms (total: 9.64 sec)
+[2025.01.27-22.42.39:440][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.42.39:440][591]LogContentValidation: Enabled validators:
+[2025.01.27-22.42.39:440][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.42.39:440][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.42.39:440][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.42.39:440][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.42.39:440][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.42.39:440][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.42.39:440][591]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.27-22.42.39:744][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.01.27-22.42.41:457][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.27-22.42.41:458][681]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.42.41:460][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002539s)
+[2025.01.27-22.42.41:460][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002589s)
+[2025.01.27-22.42.41:489][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.01.27-22.42.41:496][681]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.27-22.42.41:498][681]LogPlayLevel: PIE: World Init took: (0.002189s)
+[2025.01.27-22.42.41:498][681]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.27-22.42.41:499][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.27-22.42.41:499][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.27-22.42.41:499][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.27-22.42.41:499][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.27-22.42.41:499][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.27-22.42.41:504][681]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.27-22.42.41:527][681]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.27-22.42.41:529][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.27-22.42.41:529][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.27-22.42.41:529][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.27-22.42.41:530][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.01.27-22.42.41:530][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.01.27-22.42.41:533][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.01.27-22.42.41:533][681]LogInit: FAudioDevice initialized with ID 49.
+[2025.01.27-22.42.41:533][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.01.27-22.42.41:533][681]LogAudio: Display: Audio Device (ID: 49) registered with world 'Test'.
+[2025.01.27-22.42.41:533][681]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.01.27-22.42.41:537][681]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.27-22.42.41:539][681]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.27-23.42.41
+[2025.01.27-22.42.41:539][681]LogWorld: Bringing up level for play took: 0.001771
+[2025.01.27-22.42.41:543][681]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2025.01.27-22.42.41:556][681]PIE: Server logged in
+[2025.01.27-22.42.41:557][681]PIE: Play in editor total start time 0,1 seconds.
+[2025.01.27-22.43.27:441][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.43.27:441][377]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.27-22.43.27:441][377]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-22.43.27:454][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.43.27:459][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.27-22.43.27:465][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-22.43.27:491][377]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.27-22.43.27:493][377]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.01.27-22.43.27:493][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.01.27-22.43.27:496][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.01.27-22.43.27:504][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.27-22.43.27:519][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.27-22.43.27:562][378]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2025.01.27-22.43.29:640][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-22.43.29:733][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.27-22.43.29:785][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.01.27-22.43.29:799][499]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.27-22.43.29:800][499]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test516540F24387F7F1A4EAFFB86AAE03D7.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.27-22.43.29:813][499]LogFileHelpers: Saving map 'Test' took 0.081
+[2025.01.27-22.43.29:827][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.922 ms (total: 9.82 sec)
+[2025.01.27-22.43.29:932][499]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-22.43.29:932][499]LogContentValidation: Enabled validators:
+[2025.01.27-22.43.29:932][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-22.43.29:932][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-22.43.29:932][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-22.43.29:932][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-22.43.29:932][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-22.43.29:932][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-22.43.29:933][499]AssetCheck: /Game/Dungeons/Test Validating asset
