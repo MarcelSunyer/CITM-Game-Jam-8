@@ -4310,3 +4310,703 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.27-11.51.47:544][351]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.27-11.51.47:545][351]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room3 Validating asset
 [2025.01.27-11.51.48:038][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.27-11.52.14:664][166]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room
+[2025.01.27-11.52.14:664][166]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.01.27-11.53.42:165][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4266.539551
+[2025.01.27-11.53.42:170][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.53.42:248][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-11.53.42:284][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-11.53.42:285][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-11.53.42:285][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-11.53.42:290][912]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-11.53.42:290][912]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room453637CB4634DC08CE9001B5633A1EFF.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-11.53.42:302][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.926 ms (total: 4.94 sec)
+[2025.01.27-11.53.42:374][912]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.53.42:374][912]LogContentValidation: Enabled validators:
+[2025.01.27-11.53.42:374][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.53.42:374][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.53.42:374][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.53.42:374][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.53.42:374][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.53.42:374][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.53.42:374][912]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-11.53.42:602][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-11.53.42:602][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4266.960449, Update Interval: 331.908936
+[2025.01.27-11.53.42:897][942]LogBlueprint: Warning: [AssetLog] C:\Users\Marcel\Documents\GitHub\CITM-Game-Jam-8\CITM_Game_Jam_8\Content\Dungeons\Level_1\Dungeon_Room1.uasset: [Compiler] Found a component variable with a conflicting name (StaticMesh) - changed to StaticMesh_0.
+[2025.01.27-11.53.42:897][942]LogBlueprint: Warning: [AssetLog] C:\Users\Marcel\Documents\GitHub\CITM-Game-Jam-8\CITM_Game_Jam_8\Content\Dungeons\Level_1\Dungeon_Room1.uasset: [Compiler] Found a component variable with a conflicting name (StaticMesh1) - changed to StaticMesh1_0.
+[2025.01.27-11.53.42:897][942]LogBlueprint: Warning: [AssetLog] C:\Users\Marcel\Documents\GitHub\CITM-Game-Jam-8\CITM_Game_Jam_8\Content\Dungeons\Level_1\Dungeon_Room1.uasset: [Compiler] Found a component variable with a conflicting name (StaticMesh2) - changed to StaticMesh2_0.
+[2025.01.27-11.53.42:897][942]LogBlueprint: Warning: [AssetLog] C:\Users\Marcel\Documents\GitHub\CITM-Game-Jam-8\CITM_Game_Jam_8\Content\Dungeons\Level_1\Dungeon_Room1.uasset: [Compiler] Found a component variable with a conflicting name (StaticMesh3) - changed to StaticMesh3_0.
+[2025.01.27-11.53.43:081][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.27-11.56.08:501][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.56.08:567][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-11.56.08:601][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-11.56.08:601][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-11.56.08:601][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-11.56.08:607][ 44]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-11.56.08:608][ 44]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room85D485194C62307794EBBAB4498F8445.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-11.56.08:619][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.104 ms (total: 5.06 sec)
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: Enabled validators:
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.56.08:690][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.56.08:690][ 44]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-11.56.09:180][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.27-11.56.29:038][118]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-11.56.30:483][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.01.27-11.56.35:339][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.56.35:407][439]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Master_Room] ([2] browsable assets)...
+[2025.01.27-11.56.35:417][439]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room]
+[2025.01.27-11.56.35:418][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Master_Room]
+[2025.01.27-11.56.35:418][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset" SILENT=true
+[2025.01.27-11.56.35:423][439]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Master_Room
+[2025.01.27-11.56.35:423][439]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room87EE98334B09687992D6A4AF6694373E.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Master_Room.uasset'
+[2025.01.27-11.56.35:434][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.963 ms (total: 5.15 sec)
+[2025.01.27-11.56.35:508][439]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.56.35:508][439]LogContentValidation: Enabled validators:
+[2025.01.27-11.56.35:508][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.56.35:508][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.56.35:508][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.56.35:508][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.56.35:508][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.56.35:508][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.56.35:508][439]AssetCheck: /Game/Dungeons/Level_1/Master_Room Validating asset
+[2025.01.27-11.56.37:068][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.27-11.56.38:963][627]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.56.38:964][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.56.39:021][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.27-11.56.49:146][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room
+[2025.01.27-11.56.49:146][186]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.01.27-11.56.52:291][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.56.52:359][319]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start_Room] ([2] browsable assets)...
+[2025.01.27-11.56.52:370][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room]
+[2025.01.27-11.56.52:370][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start_Room]
+[2025.01.27-11.56.52:370][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset" SILENT=true
+[2025.01.27-11.56.52:381][319]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start_Room
+[2025.01.27-11.56.52:381][319]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_Room006D3DA64BB5B56384FF7CAEDC883EA8.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset'
+[2025.01.27-11.56.52:419][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.046 ms (total: 5.28 sec)
+[2025.01.27-11.56.52:494][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.56.52:494][319]LogContentValidation: Enabled validators:
+[2025.01.27-11.56.52:494][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.56.52:494][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.56.52:494][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.56.52:494][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.56.52:494][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.56.52:494][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.56.52:494][319]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
+[2025.01.27-11.56.55:180][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Copy_Room.Copy_Room
+[2025.01.27-11.56.55:180][460]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.01.27-11.56.59:327][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.56.59:398][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Copy_Room] ([2] browsable assets)...
+[2025.01.27-11.56.59:398][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Copy_Room]
+[2025.01.27-11.56.59:398][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Copy_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Copy_Room.uasset" SILENT=true
+[2025.01.27-11.56.59:404][663]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Copy_Room
+[2025.01.27-11.56.59:405][663]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Copy_Room080549BB4B956E9D9779A4A112597964.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Copy_Room.uasset'
+[2025.01.27-11.56.59:421][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.317 ms (total: 5.37 sec)
+[2025.01.27-11.56.59:499][663]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.56.59:499][663]LogContentValidation: Enabled validators:
+[2025.01.27-11.56.59:499][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.56.59:499][663]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.56.59:499][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.56.59:499][663]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.56.59:499][663]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.56.59:499][663]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.56.59:499][663]AssetCheck: /Game/Dungeons/Level_1/Copy_Room Validating asset
+[2025.01.27-11.57.00:768][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1
+[2025.01.27-11.57.00:768][730]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2025.01.27-11.57.01:648][749]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room3.Dungeon_Room3
+[2025.01.27-11.57.01:648][749]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2025.01.27-11.57.05:240][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.57.05:311][928]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room3] ([2] browsable assets)...
+[2025.01.27-11.57.05:321][928]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room3.Dungeon_Room3]
+[2025.01.27-11.57.05:321][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room3]
+[2025.01.27-11.57.05:327][928]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room3
+[2025.01.27-11.57.05:328][928]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room34058C1BE47D96B8528EDD38BEC205794.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room3.uasset'
+[2025.01.27-11.57.05:338][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.274 ms (total: 5.47 sec)
+[2025.01.27-11.57.05:411][928]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.57.05:411][928]LogContentValidation: Enabled validators:
+[2025.01.27-11.57.05:411][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.57.05:411][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.57.05:411][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.57.05:411][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.57.05:411][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.57.05:411][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.57.05:411][928]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room3 Validating asset
+[2025.01.27-11.57.08:594][103]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.57.08:594][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.57.08:713][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.27-11.57.11:300][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.57.11:407][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-11.57.11:407][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-11.57.11:419][248]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-11.57.11:420][248]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room12B0ED63A4B34A8E97AC241A42B7E0229.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-11.57.11:432][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.966 ms (total: 5.60 sec)
+[2025.01.27-11.57.11:513][248]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.57.11:513][248]LogContentValidation: Enabled validators:
+[2025.01.27-11.57.11:513][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.57.11:513][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.57.11:513][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.57.11:513][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.57.11:513][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.57.11:513][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.57.11:513][248]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-11.57.13:956][367]LogSlate: Window 'Dungeon_Room1' being destroyed
+[2025.01.27-11.57.13:992][367]LogSlate: Window 'Dungeon_Room1' being destroyed
+[2025.01.27-11.57.13:997][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.57.13:997][367]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.57.13:997][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.57.14:094][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.57.14:094][367]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.57.14:094][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.57.14:135][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.57.14:135][367]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.57.14:136][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.57.14:173][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.57.14:173][367]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.57.14:173][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.57.14:253][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.27-11.57.16:513][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.01.27-11.57.17:489][494]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.27-11.57.17:651][494]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Dungeon_Room3.Dungeon_Room3
+	Asset Type: Blueprint
+[2025.01.27-11.57.17:915][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.27-11.57.17:974][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.27-11.57.17:996][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.01.27-11.57.18:016][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.27-11.57.18:834][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.27-11.57.26:022][949]LogContentBrowser: Attempting asset rename: Copy_Room1 -> Dungeon_Room_3
+[2025.01.27-11.57.26:131][949]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room_3.SKEL_Dungeon_Room_3_C' ref from Metadata '/Game/Dungeons/Level_1/Copy_Room1.PackageMetaData'
+[2025.01.27-11.57.26:131][949]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room_3.Dungeon_Room_3_C' ref from Metadata '/Game/Dungeons/Level_1/Copy_Room1.PackageMetaData'
+[2025.01.27-11.57.26:131][949]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room_3.SKEL_Dungeon_Room_3_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/Copy_Room1.PackageMetaData'
+[2025.01.27-11.57.26:131][949]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room_3.SKEL_Dungeon_Room_3_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/Copy_Room1.PackageMetaData'
+[2025.01.27-11.57.26:131][949]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room_3.SKEL_Dungeon_Room_3_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/Copy_Room1.PackageMetaData'
+[2025.01.27-11.57.26:131][949]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room_3.SKEL_Dungeon_Room_3_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/Copy_Room1.PackageMetaData'
+[2025.01.27-11.57.26:133][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-11.57.26:134][949]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room_3] ([2] browsable assets)...
+[2025.01.27-11.57.26:134][949]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2025.01.27-11.57.26:161][949]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room_3.Dungeon_Room_3]
+[2025.01.27-11.57.26:161][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room_3]
+[2025.01.27-11.57.26:167][949]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room_3
+[2025.01.27-11.57.26:167][949]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room_37593CD4742A9C99FD6287191F29F15FE.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room_3.uasset'
+[2025.01.27-11.57.26:174][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.913 ms (total: 5.64 sec)
+[2025.01.27-11.57.26:203][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.27-11.57.26:225][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.27-11.57.26:247][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.27-11.57.26:336][949]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-11.57.26:336][949]LogContentValidation: Enabled validators:
+[2025.01.27-11.57.26:336][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-11.57.26:336][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-11.57.26:336][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-11.57.26:336][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-11.57.26:336][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-11.57.26:336][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-11.57.26:336][949]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room_3 Validating asset
+[2025.01.27-11.57.27:413][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room_3.Dungeon_Room_3
+[2025.01.27-11.57.27:414][ 10]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.01.27-11.57.35:382][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Copy_Room.Copy_Room
+[2025.01.27-11.57.35:382][371]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.01.27-11.57.44:378][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room
+[2025.01.27-11.57.44:379][826]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.01.27-11.57.52:236][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room
+[2025.01.27-11.57.52:236][212]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.01.27-11.57.58:285][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1
+[2025.01.27-11.57.58:285][511]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.01.27-11.58.15:420][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.27-11.58.16:225][368]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.27-11.58.16:413][368]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.58.16:413][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.58.16:473][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.58.16:473][368]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.58.16:473][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.58.16:534][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.58.16:534][368]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.58.16:534][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.58.16:595][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.58.16:595][368]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.58.16:595][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.58.16:646][368]LogSlate: Window 'Copy_Room' being destroyed
+[2025.01.27-11.58.16:657][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-11.58.16:657][368]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-11.58.16:657][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-11.58.16:694][368]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Dungeon_Room_3.Dungeon_Room_3
+	Asset Type: Blueprint
+[2025.01.27-11.58.16:967][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.27-11.58.17:044][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.27-11.58.17:069][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.01.27-11.58.17:090][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.01.27-11.58.17:125][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.27-11.58.19:254][489]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Master_Room.Master_Room
+[2025.01.27-11.58.19:254][489]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.01.27-11.58.20:023][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room
+[2025.01.27-11.58.20:023][501]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.01.27-11.58.27:648][874]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2
+[2025.01.27-11.58.27:648][874]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.01.27-11.59.07:519][793]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.01.27-11.59.23:503][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.01.27-11.59.46:788][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4631.153809
+[2025.01.27-11.59.47:057][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.27-11.59.47:057][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4631.404297, Update Interval: 308.377319
+[2025.01.27-12.00.19:901][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.00.19:979][410]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/DungeonRoom2] ([2] browsable assets)...
+[2025.01.27-12.00.20:015][410]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2]
+[2025.01.27-12.00.20:015][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/DungeonRoom2]
+[2025.01.27-12.00.20:015][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/DungeonRoom2" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset" SILENT=true
+[2025.01.27-12.00.20:022][410]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/DungeonRoom2
+[2025.01.27-12.00.20:023][410]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/DungeonRoom2BCA190804C5104E8020FE4968135F2FC.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset'
+[2025.01.27-12.00.20:035][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.410 ms (total: 5.78 sec)
+[2025.01.27-12.00.20:111][410]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.00.20:111][410]LogContentValidation: Enabled validators:
+[2025.01.27-12.00.20:111][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.00.20:111][410]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.00.20:111][410]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.00.20:111][410]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.00.20:111][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.00.20:111][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.00.20:111][410]AssetCheck: /Game/Dungeons/Level_1/DungeonRoom2 Validating asset
+[2025.01.27-12.00.20:712][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.27-12.00.28:227][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.00.28:298][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Start_Room] ([2] browsable assets)...
+[2025.01.27-12.00.28:298][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start_Room]
+[2025.01.27-12.00.28:298][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset" SILENT=true
+[2025.01.27-12.00.28:309][833]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start_Room
+[2025.01.27-12.00.28:310][833]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_Room90FC74E649D7B6E9CB92DA99B5E0F1B4.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset'
+[2025.01.27-12.00.28:322][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.651 ms (total: 5.87 sec)
+[2025.01.27-12.00.28:403][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.00.28:403][833]LogContentValidation: Enabled validators:
+[2025.01.27-12.00.28:403][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.00.28:403][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.00.28:403][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.00.28:403][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.00.28:403][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.00.28:403][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.00.28:403][833]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
+[2025.01.27-12.00.30:234][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1
+[2025.01.27-12.00.30:234][923]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.01.27-12.01.47:857][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.01.47:937][682]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room1] ([2] browsable assets)...
+[2025.01.27-12.01.48:006][682]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1]
+[2025.01.27-12.01.48:006][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room1]
+[2025.01.27-12.01.48:017][682]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room1
+[2025.01.27-12.01.48:018][682]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1141342704C4699A7A5B3D2908D579C26.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room1.uasset'
+[2025.01.27-12.01.48:031][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.859 ms (total: 6.05 sec)
+[2025.01.27-12.01.48:110][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.01.48:110][682]LogContentValidation: Enabled validators:
+[2025.01.27-12.01.48:110][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.01.48:110][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.01.48:110][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.01.48:110][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.01.48:110][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.01.48:110][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.01.48:110][682]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room1 Validating asset
+[2025.01.27-12.01.48:627][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.27-12.01.53:920][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.27-12.01.54:812][951]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.27-12.01.55:001][951]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-12.01.55:001][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-12.01.55:060][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-12.01.55:061][951]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-12.01.55:061][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-12.01.55:188][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-12.01.55:188][951]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-12.01.55:188][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-12.01.55:293][951]LogSlate: Window 'Start_Room' being destroyed
+[2025.01.27-12.01.55:304][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.27-12.01.55:304][951]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.01.27-12.01.55:304][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.27-12.01.55:348][951]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Copy_Room.Copy_Room
+	Asset Type: Blueprint
+[2025.01.27-12.01.55:626][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.27-12.01.55:737][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.27-12.01.55:761][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.27-12.01.55:783][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.27-12.01.55:820][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.27-12.01.59:409][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.27-12.02.03:411][374]LogContentBrowser: Attempting asset rename: DungeonRoom3 -> Copy_Room
+[2025.01.27-12.02.03:528][374]LogMetaData: Removing '/Game/Dungeons/Level_1/Copy_Room.SKEL_Copy_Room_C' ref from Metadata '/Game/Dungeons/Level_1/DungeonRoom3.PackageMetaData'
+[2025.01.27-12.02.03:528][374]LogMetaData: Removing '/Game/Dungeons/Level_1/Copy_Room.Copy_Room_C' ref from Metadata '/Game/Dungeons/Level_1/DungeonRoom3.PackageMetaData'
+[2025.01.27-12.02.03:528][374]LogMetaData: Removing '/Game/Dungeons/Level_1/Copy_Room.SKEL_Copy_Room_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/DungeonRoom3.PackageMetaData'
+[2025.01.27-12.02.03:528][374]LogMetaData: Removing '/Game/Dungeons/Level_1/Copy_Room.SKEL_Copy_Room_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/DungeonRoom3.PackageMetaData'
+[2025.01.27-12.02.03:528][374]LogMetaData: Removing '/Game/Dungeons/Level_1/Copy_Room.SKEL_Copy_Room_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/DungeonRoom3.PackageMetaData'
+[2025.01.27-12.02.03:528][374]LogMetaData: Removing '/Game/Dungeons/Level_1/Copy_Room.SKEL_Copy_Room_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/DungeonRoom3.PackageMetaData'
+[2025.01.27-12.02.03:529][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.02.03:529][374]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Copy_Room] ([2] browsable assets)...
+[2025.01.27-12.02.03:540][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Copy_Room.Copy_Room]
+[2025.01.27-12.02.03:540][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Copy_Room]
+[2025.01.27-12.02.03:540][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Copy_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Copy_Room.uasset" SILENT=true
+[2025.01.27-12.02.03:547][374]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Copy_Room
+[2025.01.27-12.02.03:547][374]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Copy_Room10883C284FEC57C52549608D459C0C82.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Copy_Room.uasset'
+[2025.01.27-12.02.03:554][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.066 ms (total: 6.07 sec)
+[2025.01.27-12.02.03:584][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.27-12.02.03:610][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2025.01.27-12.02.03:637][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.27-12.02.03:731][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.02.03:731][374]LogContentValidation: Enabled validators:
+[2025.01.27-12.02.03:733][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.02.03:733][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.02.03:733][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.02.03:733][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.02.03:733][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.02.03:733][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.02.03:733][374]AssetCheck: /Game/Dungeons/Level_1/Copy_Room Validating asset
+[2025.01.27-12.02.04:819][433]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Copy_Room.Copy_Room
+[2025.01.27-12.02.04:819][433]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.01.27-12.02.30:849][821]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-12.03.21:185][248]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.27-12.03.21:258][248]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalll_Roughness.T_brickwalll_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.999984 MB), EncodeSpeed: Fast
+[2025.01.27-12.03.21:305][248]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalll_AmbientOcclusion.T_brickwalll_AmbientOcclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999984 MB), EncodeSpeed: Fast
+[2025.01.27-12.03.21:346][248]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalll_BaseColor.T_brickwalll_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.01.27-12.03.21:380][248]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalll_Height.T_brickwalll_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999984 MB), EncodeSpeed: Fast
+[2025.01.27-12.03.21:506][250]LogTexture: Display: Building textures: /Game/KT_SmartMat_Vol_3/BrickWalls/Textures/T_brickwalll_Normal.T_brickwalll_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 398.499988 MB), EncodeSpeed: Fast
+[2025.01.27-12.03.23:573][333]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-12.03.23:845][335]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-12.03.24:507][360]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.27-12.03.24:722][364]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-12.03.25:438][394]LogEditorTransaction: Undo Replace component used material
+[2025.01.27-12.03.41:559][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.03.41:632][157]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Copy_Room] ([2] browsable assets)...
+[2025.01.27-12.03.41:643][157]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Copy_Room.Copy_Room]
+[2025.01.27-12.03.41:643][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Copy_Room]
+[2025.01.27-12.03.41:643][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Copy_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Copy_Room.uasset" SILENT=true
+[2025.01.27-12.03.41:650][157]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Copy_Room
+[2025.01.27-12.03.41:651][157]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Copy_RoomCCC00A6C4EBBCDF085E60DBDD3C1B214.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Copy_Room.uasset'
+[2025.01.27-12.03.41:664][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.901 ms (total: 6.18 sec)
+[2025.01.27-12.03.41:753][157]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.03.41:753][157]LogContentValidation: Enabled validators:
+[2025.01.27-12.03.41:753][157]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.03.41:753][157]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.03.41:753][157]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.03.41:753][157]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.03.41:753][157]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.03.41:753][157]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.03.41:753][157]AssetCheck: /Game/Dungeons/Level_1/Copy_Room Validating asset
+[2025.01.27-12.03.43:394][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.03.43:467][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.27-12.03.43:543][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.01.27-12.03.43:564][227]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.27-12.03.43:565][227]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test98B829314F685EBBF2B4D3B5A7FB7EEB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.27-12.03.43:573][227]LogFileHelpers: Saving map 'Test' took 0.106
+[2025.01.27-12.03.43:586][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.389 ms (total: 6.37 sec)
+[2025.01.27-12.03.43:666][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.03.43:666][227]LogContentValidation: Enabled validators:
+[2025.01.27-12.03.43:666][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.03.43:666][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.03.43:666][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.03.43:666][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.03.43:666][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.03.43:666][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.03.43:667][227]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.27-12.03.43:800][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.27-12.03.57:049][785]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2
+[2025.01.27-12.03.57:050][785]LogChaosDD: Creating Chaos Debug Draw Scene for world World_43
+[2025.01.27-12.04.02:863][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.27-12.04.02:948][ 58]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/DungeonRoom2] ([2] browsable assets)...
+[2025.01.27-12.04.02:983][ 58]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/DungeonRoom2.DungeonRoom2]
+[2025.01.27-12.04.02:983][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/DungeonRoom2]
+[2025.01.27-12.04.02:983][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/DungeonRoom2" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset" SILENT=true
+[2025.01.27-12.04.02:990][ 58]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/DungeonRoom2
+[2025.01.27-12.04.02:991][ 58]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/DungeonRoom2E8BF5D9546949B58EDBE64AA6C2BEA55.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/DungeonRoom2.uasset'
+[2025.01.27-12.04.03:002][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.498 ms (total: 6.51 sec)
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: Enabled validators:
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.27-12.04.03:079][ 58]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.27-12.04.03:079][ 58]AssetCheck: /Game/Dungeons/Level_1/DungeonRoom2 Validating asset
+[2025.01.27-12.04.03:938][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1.Dungeon_Room1
+[2025.01.27-12.04.03:939][ 98]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.01.27-12.04.04:474][102]LogWindows: LaunchFileInExternalEditor C:/UE_5.5/Engine/Source/Runtime/Engine/Classes/Components/StaticMeshComponent.h 
+[2025.01.27-12.04.06:872][102]LogWindows: Launch application code for C:/UE_5.5/Engine/Source/Runtime/Engine/Classes/Components/StaticMeshComponent.h : 42
+[2025.01.27-12.04.06:872][102]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.01.27-12.04.06:883][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:883][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:883][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:883][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:883][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:883][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:884][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:885][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:886][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:887][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:888][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:889][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:890][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:891][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:892][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:892][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:892][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:892][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:892][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:892][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:920][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:922][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:933][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:978][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:981][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:981][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:981][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:981][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:993][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:994][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.06:996][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:003][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:003][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:003][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:089][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:090][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:091][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:092][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:093][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:094][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:108][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:109][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:117][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:149][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:152][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:152][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:152][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:152][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:158][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:160][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:161][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:166][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:167][102]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.27-12.04.07:167][102]LogVSAccessor: Warning: Couldn't access module table
