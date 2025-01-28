@@ -1649,3 +1649,567 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.28-21.41.19:908][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.28-21.41.19:908][645]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room7 Validating asset
 [2025.01.28-21.41.20:372][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.28-21.41.36:562][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.28-21.41.36:570][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-21.41.36:570][877]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.41.36:572][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002179s)
+[2025.01.28-21.41.36:572][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002222s)
+[2025.01.28-21.41.36:596][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.28-21.41.36:598][877]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-21.41.36:600][877]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2025.01.28-21.41.36:602][877]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-21.41.36:602][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-21.41.36:602][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-21.41.36:602][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-21.41.36:602][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-21.41.36:602][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-21.41.36:604][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-21.41.36:627][877]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-21.41.36:627][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-21.41.36:627][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-21.41.36:627][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-21.41.36:627][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.28-21.41.36:627][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.28-21.41.36:630][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.28-21.41.36:630][877]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.28-21.41.36:630][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.28-21.41.36:630][877]LogAudio: Display: Audio Device (ID: 3) registered with world 'Test'.
+[2025.01.28-21.41.36:630][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.28-21.41.36:633][877]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-21.41.36:635][877]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-22.41.36
+[2025.01.28-21.41.36:635][877]LogWorld: Bringing up level for play took: 0.001342
+[2025.01.28-21.41.36:638][877]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.01.28-21.41.36:648][877]PIE: Server logged in
+[2025.01.28-21.41.36:649][877]PIE: Play in editor total start time 0,08 seconds.
+[2025.01.28-21.41.37:410][918]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.41.37:585][928]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.41.38:513][983]LogCharacterMovement: BP_FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=277.07 Y=353.54 Z=0.00 Location: X=1458.41 Y=101.91 Z=102.99 Normal: X=-0.26 Y=-0.84 Z=-0.49 PenetrationDepth:6.456 Actor:BP_FirstPersonProjectile_C_0 Component:CollisionComponent BoneName:None (0 other events since notify)
+[2025.01.28-21.41.38:573][986]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.41.38:990][999]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Dungeon Complate
+[2025.01.28-21.41.42:167][157]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.41.42:537][179]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.41.42:812][192]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.41.43:463][231]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.41.57:140][ 51]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.41.57:507][ 73]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.11:975][935]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.12:177][947]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.12:258][952]LogShaderCompilers: Display: ================================================
+[2025.01.28-21.42.12:258][952]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.28-21.42.12:258][952]LogShaderCompilers: Display: Total job queries 225, among them cache hits 48 (21.33%), DDC hits 164 (72.89%), Duplicates 3 (1.33%)
+[2025.01.28-21.42.12:258][952]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 159 distinct outputs (91.38%)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: RAM used: 123,67 KiB of 819,20 MiB budget. Usage: 0.01%
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Shaders Compiled: 10
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 1.86 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 1.92 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 2.57
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Shader code size: average 11,282 KiB, min 6,945 KiB, max 14,789 KiB
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.58 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.32%
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Average processing rate: 3.88 jobs/sec
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Total thread time: 8,006 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Total thread preprocess time: 5,508 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Percentage time preprocessing: 68.80%
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Effective parallelization: 3.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.87 sec, max 0.99 sec, min 0.68 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.81 sec, max 0.87 sec, min 0.60 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.69 sec, max 0.77 sec, min 0.60 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 50.42% of total time (compiled    5 times, average 0.81 sec, max 0.87 sec, min 0.60 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 32.44% of total time (compiled    3 times, average 0.87 sec, max 0.99 sec, min 0.68 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.15% of total time (compiled    2 times, average 0.69 sec, max 0.77 sec, min 0.60 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: === Material stats ===
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Materials Translated:    156
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: Material Cache Hits: 31 (20%)
+[2025.01.28-21.42.12:259][952]LogShaderCompilers: Display: ================================================
+[2025.01.28-21.42.13:165][  5]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.13:184][  6]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.14:090][ 57]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.14:477][ 78]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.14:629][ 87]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.15:259][124]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.16:618][193]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.16:928][211]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.18:696][317]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.19:046][338]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.21:631][493]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.22:494][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.22:494][543]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.22:494][543]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-21.42.22:501][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.22:508][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-21.42.22:520][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.22:548][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-21.42.22:548][543]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.28-21.42.22:548][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.28-21.42.22:551][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.28-21.42.22:557][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.22:567][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.01.28-21.42.22:604][544]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.01.28-21.42.27:922][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-21.42.27:922][847]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.27:924][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002343s)
+[2025.01.28-21.42.27:924][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002390s)
+[2025.01.28-21.42.27:947][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.01.28-21.42.27:949][847]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-21.42.27:952][847]LogPlayLevel: PIE: World Init took: (0.002136s)
+[2025.01.28-21.42.27:953][847]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-21.42.27:953][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-21.42.27:953][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-21.42.27:953][847]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-21.42.27:953][847]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-21.42.27:953][847]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-21.42.27:956][847]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-21.42.27:980][847]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-21.42.27:980][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-21.42.27:980][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-21.42.27:980][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-21.42.27:981][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.01.28-21.42.27:981][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.01.28-21.42.27:984][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.01.28-21.42.27:984][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.01.28-21.42.27:984][847]LogInit: FAudioDevice initialized with ID 4.
+[2025.01.28-21.42.27:984][847]LogAudio: Display: Audio Device (ID: 4) registered with world 'Test'.
+[2025.01.28-21.42.27:984][847]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.28-21.42.27:988][847]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-21.42.27:989][847]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-22.42.27
+[2025.01.28-21.42.27:989][847]LogWorld: Bringing up level for play took: 0.001305
+[2025.01.28-21.42.27:992][847]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.01.28-21.42.28:006][847]PIE: Server logged in
+[2025.01.28-21.42.28:007][847]PIE: Play in editor total start time 0,086 seconds.
+[2025.01.28-21.42.28:124][847]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:124][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:125][847]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:125][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:184][848]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:184][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:184][848]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:184][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:215][849]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:215][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:215][849]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:215][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:241][850]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:241][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:241][850]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:241][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:275][851]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:275][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:275][851]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:275][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:300][852]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:300][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:300][852]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:301][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:327][853]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:327][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:327][853]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:327][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:352][854]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:352][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:352][854]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:352][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:380][855]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:380][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:380][855]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:380][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:408][856]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:408][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:408][856]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:409][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:434][857]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:434][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:435][857]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:435][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:460][858]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:460][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:460][858]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:460][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:497][859]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:497][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:498][859]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:498][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:529][860]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:529][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:529][860]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:529][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:556][861]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:556][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:557][861]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:557][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:584][862]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_0
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:584][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:584][862]LogScript: Warning: Accessed None trying to read property As BP First Person Character
+	SpeedRunTimer_C /Engine/Transient.UnrealEdEngine_0:Settings_C_2.SpeedRunTimer_C_1
+	Function /Game/UI/SpeedRunTimer.SpeedRunTimer_C:ExecuteUbergraph_SpeedRunTimer:0202
+[2025.01.28-21.42.28:585][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:615][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:615][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:629][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:629][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:641][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:642][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:657][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:657][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:675][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:675][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:693][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:694][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:713][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:714][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:727][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:727][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:742][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:742][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:760][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:760][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:776][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:776][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:791][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:791][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:813][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:813][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:825][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:826][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:840][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:840][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:859][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:860][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:874][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:875][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:892][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:892][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:913][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:914][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:934][882]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.42.28:959][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:959][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:986][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.28:986][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:025][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:026][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:069][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:069][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:098][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:098][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:128][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:128][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:161][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:161][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:189][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:189][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:216][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:216][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:227][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:228][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:250][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:250][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:260][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:260][893]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:280][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:280][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:298][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:299][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:314][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:314][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:329][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:330][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:358][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:359][898]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:369][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:369][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:389][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:389][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:402][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:402][901]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:424][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:424][902]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:436][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:437][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:461][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:461][904]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:473][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:473][905]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:499][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:499][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:511][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:511][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:526][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:526][908]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:545][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:546][909]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:568][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:569][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:579][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:579][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:597][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:597][912]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:614][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:614][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:629][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:630][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:648][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:649][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:670][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:670][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:685][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:685][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:700][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:700][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:717][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:717][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:731][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:733][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:751][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:751][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:774][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:774][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:788][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:788][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:804][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:804][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:824][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:824][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:833][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:834][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:850][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:850][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:866][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:866][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:883][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:883][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-21.42.29:933][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.29:934][930]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.29:935][930]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-21.42.29:940][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.29:945][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-21.42.29:951][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.29:973][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.29:973][930]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.01.28-21.42.29:973][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.28-21.42.29:976][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.01.28-21.42.29:991][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.28-21.42.30:184][931]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.01.28-21.42.30:604][947]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.28-21.42.30:612][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-21.42.30:612][947]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.30:614][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002312s)
+[2025.01.28-21.42.30:614][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002352s)
+[2025.01.28-21.42.30:640][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.28-21.42.30:643][947]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-21.42.30:645][947]LogPlayLevel: PIE: World Init took: (0.002339s)
+[2025.01.28-21.42.30:646][947]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-21.42.30:647][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-21.42.30:647][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-21.42.30:647][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-21.42.30:647][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-21.42.30:647][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-21.42.30:649][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-21.42.30:673][947]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-21.42.30:674][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-21.42.30:674][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-21.42.30:674][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-21.42.30:675][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.28-21.42.30:675][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.28-21.42.30:678][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.28-21.42.30:678][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.28-21.42.30:678][947]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.28-21.42.30:678][947]LogAudio: Display: Audio Device (ID: 5) registered with world 'Test'.
+[2025.01.28-21.42.30:678][947]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.28-21.42.30:682][947]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-21.42.30:683][947]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-22.42.30
+[2025.01.28-21.42.30:684][947]LogWorld: Bringing up level for play took: 0.001666
+[2025.01.28-21.42.30:687][947]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.01.28-21.42.30:698][947]PIE: Server logged in
+[2025.01.28-21.42.30:699][947]PIE: Play in editor total start time 0,087 seconds.
+[2025.01.28-21.42.31:598][992]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-21.42.31:613][992]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-21.42.31:678][994]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.42.32:329][ 27]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.32:413][ 32]LogCharacterMovement: BP_FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=401.63 Y=9.13 Z=0.00 Location: X=695.63 Y=-0.27 Z=102.99 Normal: X=-0.90 Y=-0.04 Z=-0.43 PenetrationDepth:7.424 Actor:BP_FirstPersonProjectile_C_0 Component:CollisionComponent BoneName:None (0 other events since notify)
+[2025.01.28-21.42.32:671][ 46]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.42.33:180][ 74]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Dungeon Complate
+[2025.01.28-21.42.33:584][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.33:584][ 95]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.33:584][ 95]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-21.42.33:594][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.33:600][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-21.42.33:605][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.33:630][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.33:630][ 95]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.28-21.42.33:630][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.28-21.42.33:633][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.28-21.42.33:650][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.28-21.42.33:687][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.01.28-21.42.37:457][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Generator.Dungeon_Generator
+[2025.01.28-21.42.37:458][303]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2025.01.28-21.42.43:927][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.28-21.42.43:936][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-21.42.43:937][543]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.43:939][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002473s)
+[2025.01.28-21.42.43:939][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002520s)
+[2025.01.28-21.42.43:996][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.28-21.42.43:998][543]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-21.42.44:000][543]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2025.01.28-21.42.44:001][543]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-21.42.44:001][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-21.42.44:001][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-21.42.44:001][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-21.42.44:001][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-21.42.44:001][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-21.42.44:005][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-21.42.44:025][543]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-21.42.44:026][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-21.42.44:026][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-21.42.44:026][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-21.42.44:026][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.28-21.42.44:026][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.28-21.42.44:029][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.28-21.42.44:029][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.28-21.42.44:029][543]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.28-21.42.44:029][543]LogAudio: Display: Audio Device (ID: 6) registered with world 'Test'.
+[2025.01.28-21.42.44:029][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.28-21.42.44:034][543]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-21.42.44:035][543]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-22.42.44
+[2025.01.28-21.42.44:035][543]LogWorld: Bringing up level for play took: 0.001256
+[2025.01.28-21.42.44:038][543]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.01.28-21.42.44:049][543]PIE: Server logged in
+[2025.01.28-21.42.44:050][543]PIE: Play in editor total start time 0,115 seconds.
+[2025.01.28-21.42.44:933][589]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.42.45:150][601]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.45:946][645]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-21.42.46:409][672]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Dungeon Complate
+[2025.01.28-21.42.52:326][ 25]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-21.42.52:394][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.52:394][ 27]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-21.42.52:394][ 27]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-21.42.52:401][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.52:407][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-21.42.52:413][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-21.42.52:437][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-21.42.52:439][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.28-21.42.52:439][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.28-21.42.52:443][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.28-21.42.52:457][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-21.42.52:466][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.01.28-21.42.52:508][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.01.28-21.42.53:434][ 77]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room
+[2025.01.28-21.42.53:435][ 77]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2025.01.28-21.42.59:913][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-21.43.00:000][321]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start_Room] ([2] browsable assets)...
+[2025.01.28-21.43.00:014][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start_Room.Start_Room]
+[2025.01.28-21.43.00:014][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start_Room]
+[2025.01.28-21.43.00:014][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset" SILENT=true
+[2025.01.28-21.43.00:026][321]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start_Room
+[2025.01.28-21.43.00:027][321]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_RoomDEA8A60E434D1F57C6E329B3B600079D.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start_Room.uasset'
+[2025.01.28-21.43.00:043][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.411 ms (total: 1.52 sec)
+[2025.01.28-21.43.00:146][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-21.43.00:146][321]LogContentValidation: Enabled validators:
+[2025.01.28-21.43.00:146][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-21.43.00:146][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-21.43.00:146][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-21.43.00:146][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-21.43.00:146][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-21.43.00:146][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-21.43.00:146][321]AssetCheck: /Game/Dungeons/Level_1/Start_Room Validating asset
+[2025.01.28-21.43.00:542][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.28-21.43.09:693][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
