@@ -6467,3 +6467,98 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.28-22.13.34:516][918]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.28-22.14.45:738][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2
+[2025.01.28-22.14.45:739][101]LogChaosDD: Creating Chaos Debug Draw Scene for world World_51
+[2025.01.28-22.14.51:854][369]LogSlate: Took 0.000748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.28-22.15.02:190][851]LogStreaming: Display: FlushAsyncLoading(562): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.28-22.15.09:437][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Start_Room_2.Start_Room_2
+[2025.01.28-22.15.09:438][175]LogChaosDD: Creating Chaos Debug Draw Scene for world World_52
+[2025.01.28-22.15.15:776][454]LogEditorTransaction: Undo Remove Components
+[2025.01.28-22.15.32:928][224]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.17.18:969][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1369.625977
+[2025.01.28-22.17.19:156][607]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.28-22.17.19:156][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1369.794922, Update Interval: 331.667236
+[2025.01.28-22.17.40:865][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.17.40:968][593]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.28-22.17.41:012][593]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2]
+[2025.01.28-22.17.41:012][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.28-22.17.41:022][593]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.28-22.17.41:023][593]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_20FC2E31944FAE92D251AAE80BE52C760.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.28-22.17.41:035][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.176 ms (total: 6.56 sec)
+[2025.01.28-22.17.41:138][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.17.41:138][593]LogContentValidation: Enabled validators:
+[2025.01.28-22.17.41:138][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.17.41:138][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.17.41:138][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.17.41:138][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.17.41:138][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.17.41:138][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.17.41:138][593]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.28-22.17.42:121][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.01.28-22.18.12:448][777]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.28-22.18.21:134][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.18.21:239][ 63]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.28-22.18.21:249][ 63]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2]
+[2025.01.28-22.18.21:249][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.28-22.18.21:257][ 63]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.28-22.18.21:258][ 63]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_2A64EB9CC484C67494D80D1A810665E42.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.28-22.18.21:272][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.313 ms (total: 6.70 sec)
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: Enabled validators:
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.18.21:374][ 63]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.18.21:375][ 63]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.28-22.18.32:960][362]LogShaderCompilers: Display: ================================================
+[2025.01.28-22.18.32:960][362]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.28-22.18.32:960][362]LogShaderCompilers: Display: Total job queries 333, among them cache hits 52 (15.62%), DDC hits 269 (80.78%), Duplicates 4 (1.20%)
+[2025.01.28-22.18.32:960][362]LogShaderCompilers: Display: Tracking 277 distinct input hashes that result in 215 distinct outputs (77.62%)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: RAM used: 141,07 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.07 s
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Job execution time: average 3.03 s, max 3.81 s
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Job life time (pending + execution): average 3.09 s, max 3.87
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Shader code size: average 7,465 KiB, min 2,777 KiB, max 12,105 KiB
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.88 s
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Total thread time: 9,828 s
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Total thread preprocess time: 7,556 s
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Percentage time preprocessing: 76.88%
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 2.02 sec, max 2.02 sec, min 2.02 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.56% of total time (compiled    1 times, average 2.02 sec, max 2.02 sec, min 2.02 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.36% of total time (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                                  FVelocityPS - 10.62% of total time (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.58% of total time (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display:                                                  FHitProxyPS - 9.99% of total time (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: === Material stats ===
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Materials Translated:    157
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Material Translation Only: 0.05 s (46%)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: Material Cache Hits: 28 (18%)
+[2025.01.28-22.18.32:961][362]LogShaderCompilers: Display: ================================================
+[2025.01.28-22.23.14:343][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.002319
+[2025.01.28-22.23.15:343][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.28-22.23.15:343][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.668579, Update Interval: 314.936371
+[2025.01.28-22.23.34:799][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.01.28-22.23.34:810][267]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeons/Test' took 0.043
+[2025.01.28-22.23.34:811][267]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Generator_2] ([2] browsable assets)...
+[2025.01.28-22.23.34:811][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Generator_2]
+[2025.01.28-22.23.34:834][267]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeons/Level_2/Dungeon_Generator_2_Auto1
+[2025.01.28-22.23.34:834][267]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator_2_Auto13BDD0B4A4BA4CDE1A25B82981967AFDE.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Autosaves/Game/Dungeons/Level_2/Dungeon_Generator_2_Auto1.uasset'
+[2025.01.28-22.23.34:835][267]LogFileHelpers: Auto-saving content packages took 0.025
