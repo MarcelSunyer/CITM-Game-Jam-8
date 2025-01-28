@@ -3734,3 +3734,314 @@ FPackageName: Skipped package /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Hi
 [2025.01.28-16.37.24:687][159]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10304.589844
 [2025.01.28-16.37.25:687][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.28-16.37.25:687][163]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10305.255859, Update Interval: 311.034271
+[2025.01.28-16.39.55:790][617]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.28-16.39.55:800][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-16.39.55:800][617]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-16.39.55:804][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004230s)
+[2025.01.28-16.39.55:804][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.004295s)
+[2025.01.28-16.39.55:828][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.28-16.39.55:830][617]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-16.39.55:832][617]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2025.01.28-16.39.55:833][617]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-16.39.55:833][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-16.39.55:833][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-16.39.55:833][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-16.39.55:834][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-16.39.55:834][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-16.39.55:836][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-16.39.55:856][617]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-16.39.55:856][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-16.39.55:856][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-16.39.55:856][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-16.39.55:857][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.01.28-16.39.55:857][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.01.28-16.39.55:860][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.01.28-16.39.55:861][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.01.28-16.39.55:861][617]LogInit: FAudioDevice initialized with ID 19.
+[2025.01.28-16.39.55:861][617]LogAudio: Display: Audio Device (ID: 19) registered with world 'Test'.
+[2025.01.28-16.39.55:861][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.28-16.39.55:864][617]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.28-16.39.55:866][617]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-17.39.55
+[2025.01.28-16.39.55:866][617]LogWorld: Bringing up level for play took: 0.001504
+[2025.01.28-16.39.55:868][617]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.01.28-16.39.55:878][617]PIE: Server logged in
+[2025.01.28-16.39.55:879][617]PIE: Play in editor total start time 0,08 seconds.
+[2025.01.28-16.39.57:423][701]LogScript: Warning: Accessed None trying to read property VFX Emiter
+	BP_FirstPersonCharacter_C /Game/Dungeons/UEDPIE_0_Test.Test:PersistentLevel.BP_FirstPersonCharacter_C_1
+	Function /Game/First_Person_Controller/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:017E
+[2025.01.28-16.39.57:424][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property VFX Emiter". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2025.01.28-16.39.57:509][706]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.39.58:041][738]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.39.58:557][769]LogScript: Warning: Accessed None trying to read property VFX Emiter
+	BP_FirstPersonCharacter_C /Game/Dungeons/UEDPIE_0_Test.Test:PersistentLevel.BP_FirstPersonCharacter_C_1
+	Function /Game/First_Person_Controller/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:017E
+[2025.01.28-16.39.58:557][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property VFX Emiter". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2025.01.28-16.39.58:792][783]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.39.59:893][849]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.00:308][874]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.01:375][938]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.01:527][947]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.01:742][960]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.01:827][965]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.02:527][  7]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.04:025][ 97]LogScript: Warning: Accessed None trying to read property VFX Emiter
+	BP_FirstPersonCharacter_C /Game/Dungeons/UEDPIE_0_Test.Test:PersistentLevel.BP_FirstPersonCharacter_C_1
+	Function /Game/First_Person_Controller/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:017E
+[2025.01.28-16.40.04:025][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property VFX Emiter". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2025.01.28-16.40.04:842][146]LogScript: Warning: Accessed None trying to read property VFX Emiter
+	BP_FirstPersonCharacter_C /Game/Dungeons/UEDPIE_0_Test.Test:PersistentLevel.BP_FirstPersonCharacter_C_1
+	Function /Game/First_Person_Controller/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:017E
+[2025.01.28-16.40.04:842][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property VFX Emiter". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2025.01.28-16.40.06:060][219]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.06:073][220]LogScript: Warning: Accessed None trying to read property VFX Emiter
+	BP_FirstPersonCharacter_C /Game/Dungeons/UEDPIE_0_Test.Test:PersistentLevel.BP_FirstPersonCharacter_C_1
+	Function /Game/First_Person_Controller/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:017E
+[2025.01.28-16.40.06:073][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property VFX Emiter". Node:  Destroy Component Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2025.01.28-16.40.17:515][906]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.40.17:748][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-16.40.17:748][918]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-16.40.17:748][918]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.40.17:760][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.40.17:765][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-16.40.17:771][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.40.17:795][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-16.40.17:795][918]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.01.28-16.40.17:795][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.28-16.40.17:798][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.01.28-16.40.17:804][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-16.40.17:819][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.28-16.40.17:973][919]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.01.28-16.40.22:859][197]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-16.40.22:871][197]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-16.40.24:383][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2
+[2025.01.28-16.40.24:383][278]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.01.28-16.40.24:481][278]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.28-16.40.39:682][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.40.39:803][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room2] ([2] browsable assets)...
+[2025.01.28-16.40.39:847][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room2.Dungeon_Room2]
+[2025.01.28-16.40.39:847][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room2]
+[2025.01.28-16.40.39:859][982]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room2
+[2025.01.28-16.40.39:860][982]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room26FB04A9C4885CFD9EE176F9DDA145CD6.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room2.uasset'
+[2025.01.28-16.40.39:875][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.903 ms (total: 7.20 sec)
+[2025.01.28-16.40.39:965][982]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.40.39:965][982]LogContentValidation: Enabled validators:
+[2025.01.28-16.40.39:965][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.40.39:965][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.40.39:965][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.40.39:965][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.40.39:965][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.40.39:965][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.40.39:965][982]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room2 Validating asset
+[2025.01.28-16.40.40:203][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.28-16.40.41:656][ 57]LogSlate: Window 'Dungeon_Room2' being destroyed
+[2025.01.28-16.40.41:673][ 57]LogSlate: Window 'Dungeon_Room2' being destroyed
+[2025.01.28-16.40.41:679][ 57]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.40.41:680][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.40.41:752][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.28-16.40.42:538][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room3.Dungeon_Room3
+[2025.01.28-16.40.42:539][ 99]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2025.01.28-16.41.01:771][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.28-16.41.02:583][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.41.02:666][ 48]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room3] ([2] browsable assets)...
+[2025.01.28-16.41.02:703][ 48]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room3.Dungeon_Room3]
+[2025.01.28-16.41.02:703][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room3]
+[2025.01.28-16.41.02:712][ 48]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room3
+[2025.01.28-16.41.02:713][ 48]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room39FF7B2E343530504F5AEA097F94CE5F1.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room3.uasset'
+[2025.01.28-16.41.02:726][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.458 ms (total: 7.34 sec)
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: Enabled validators:
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.41.02:811][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.41.02:811][ 48]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room3 Validating asset
+[2025.01.28-16.41.03:614][ 88]LogSlate: Window 'Dungeon_Room3' being destroyed
+[2025.01.28-16.41.03:630][ 88]LogSlate: Window 'Dungeon_Room3' being destroyed
+[2025.01.28-16.41.03:637][ 88]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.41.03:637][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.41.03:703][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.28-16.41.04:468][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room4.Dungeon_Room4
+[2025.01.28-16.41.04:468][127]LogChaosDD: Creating Chaos Debug Draw Scene for world World_46
+[2025.01.28-16.41.41:348][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.41.41:431][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room4] ([2] browsable assets)...
+[2025.01.28-16.41.41:470][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room4.Dungeon_Room4]
+[2025.01.28-16.41.41:471][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room4]
+[2025.01.28-16.41.41:479][ 44]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room4
+[2025.01.28-16.41.41:480][ 44]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room4155848164B931091DE3226A8ECDDD711.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room4.uasset'
+[2025.01.28-16.41.41:494][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.793 ms (total: 7.49 sec)
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: Enabled validators:
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.41.41:586][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.41.41:586][ 44]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room4 Validating asset
+[2025.01.28-16.41.42:111][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.28-16.42.15:834][295]LogSlate: Window 'Dungeon_Room4' being destroyed
+[2025.01.28-16.42.15:853][295]LogSlate: Window 'Dungeon_Room4' being destroyed
+[2025.01.28-16.42.15:860][295]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.42.15:860][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.42.15:961][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.01.28-16.42.16:590][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room5.Dungeon_Room5
+[2025.01.28-16.42.16:590][328]LogChaosDD: Creating Chaos Debug Draw Scene for world World_47
+[2025.01.28-16.42.29:961][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.42.30:060][946]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room5] ([2] browsable assets)...
+[2025.01.28-16.42.30:105][946]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room5.Dungeon_Room5]
+[2025.01.28-16.42.30:105][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room5]
+[2025.01.28-16.42.30:118][946]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room5
+[2025.01.28-16.42.30:119][946]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room5BCA5362D448F76D5F45FA9814626F4F9.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room5.uasset'
+[2025.01.28-16.42.30:133][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.305 ms (total: 7.66 sec)
+[2025.01.28-16.42.30:221][946]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.42.30:221][946]LogContentValidation: Enabled validators:
+[2025.01.28-16.42.30:221][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.42.30:221][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.42.30:221][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.42.30:221][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.42.30:221][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.42.30:221][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.42.30:221][946]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room5 Validating asset
+[2025.01.28-16.42.30:469][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.01.28-16.42.31:801][ 14]LogSlate: Window 'Dungeon_Room5' being destroyed
+[2025.01.28-16.42.31:819][ 14]LogSlate: Window 'Dungeon_Room5' being destroyed
+[2025.01.28-16.42.31:825][ 14]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.42.31:825][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.42.31:887][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.28-16.42.32:560][ 49]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room6.Dungeon_Room6
+[2025.01.28-16.42.32:560][ 49]LogChaosDD: Creating Chaos Debug Draw Scene for world World_48
+[2025.01.28-16.42.45:566][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.42.45:657][635]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room6] ([2] browsable assets)...
+[2025.01.28-16.42.45:700][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room6.Dungeon_Room6]
+[2025.01.28-16.42.45:700][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room6]
+[2025.01.28-16.42.45:712][635]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room6
+[2025.01.28-16.42.45:713][635]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room6F1E807A549190773C9616E8C302FBDA5.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room6.uasset'
+[2025.01.28-16.42.45:726][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.760 ms (total: 7.82 sec)
+[2025.01.28-16.42.45:807][635]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.42.45:808][635]LogContentValidation: Enabled validators:
+[2025.01.28-16.42.45:808][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.42.45:808][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.42.45:808][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.42.45:808][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.42.45:808][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.42.45:808][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.42.45:808][635]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room6 Validating asset
+[2025.01.28-16.42.46:054][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.01.28-16.42.47:473][705]LogSlate: Window 'Dungeon_Room6' being destroyed
+[2025.01.28-16.42.47:484][705]LogSlate: Window 'Dungeon_Room6' being destroyed
+[2025.01.28-16.42.47:492][705]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.42.47:492][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.42.47:567][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.28-16.42.48:611][763]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room7.Dungeon_Room7
+[2025.01.28-16.42.48:611][763]LogChaosDD: Creating Chaos Debug Draw Scene for world World_49
+[2025.01.28-16.43.02:133][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.43.02:230][386]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room7] ([2] browsable assets)...
+[2025.01.28-16.43.02:268][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room7.Dungeon_Room7]
+[2025.01.28-16.43.02:269][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room7]
+[2025.01.28-16.43.02:280][386]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room7
+[2025.01.28-16.43.02:281][386]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room7A81C34CA49F2740B7B4CD389ED4429CE.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room7.uasset'
+[2025.01.28-16.43.02:297][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.655 ms (total: 7.98 sec)
+[2025.01.28-16.43.02:388][386]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.43.02:388][386]LogContentValidation: Enabled validators:
+[2025.01.28-16.43.02:388][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.43.02:388][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.43.02:388][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.43.02:388][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.43.02:388][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.43.02:388][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.43.02:388][386]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room7 Validating asset
+[2025.01.28-16.43.10:412][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-16.43.10:533][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room7] ([2] browsable assets)...
+[2025.01.28-16.43.10:533][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room7]
+[2025.01.28-16.43.10:549][755]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room7
+[2025.01.28-16.43.10:550][755]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room7777BC25D4280BAB15C98BE8B5890897E.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room7.uasset'
+[2025.01.28-16.43.10:567][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.954 ms (total: 8.14 sec)
+[2025.01.28-16.43.10:674][755]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-16.43.10:674][755]LogContentValidation: Enabled validators:
+[2025.01.28-16.43.10:674][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-16.43.10:674][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-16.43.10:674][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-16.43.10:674][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-16.43.10:674][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-16.43.10:674][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-16.43.10:676][755]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room7 Validating asset
+[2025.01.28-16.43.20:167][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10660.076172
+[2025.01.28-16.43.20:350][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.28-16.43.20:350][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10660.243164, Update Interval: 343.073212
+[2025.01.28-16.44.18:063][829]LogSlate: Window 'Dungeon_Room7' being destroyed
+[2025.01.28-16.44.18:083][829]LogSlate: Window 'Dungeon_Room7' being destroyed
+[2025.01.28-16.44.18:089][829]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.44.18:090][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.44.18:168][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.28-16.44.18:981][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.28-16.44.18:990][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-16.44.18:990][878]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-16.44.18:993][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002328s)
+[2025.01.28-16.44.18:993][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002364s)
+[2025.01.28-16.44.19:013][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.28-16.44.19:014][878]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-16.44.19:016][878]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2025.01.28-16.44.19:017][878]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-16.44.19:017][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-16.44.19:017][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-16.44.19:017][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-16.44.19:017][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-16.44.19:017][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-16.44.19:020][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-16.44.19:039][878]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-16.44.19:039][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-16.44.19:039][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-16.44.19:039][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-16.44.19:040][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.01.28-16.44.19:040][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.01.28-16.44.19:043][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.01.28-16.44.19:043][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.01.28-16.44.19:043][878]LogInit: FAudioDevice initialized with ID 20.
+[2025.01.28-16.44.19:043][878]LogAudio: Display: Audio Device (ID: 20) registered with world 'Test'.
+[2025.01.28-16.44.19:043][878]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.28-16.44.19:046][878]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2025.01.28-16.44.19:048][878]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-17.44.19
+[2025.01.28-16.44.19:048][878]LogWorld: Bringing up level for play took: 0.002252
+[2025.01.28-16.44.19:051][878]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.01.28-16.44.19:061][878]PIE: Server logged in
+[2025.01.28-16.44.19:063][878]PIE: Play in editor total start time 0,073 seconds.
+[2025.01.28-16.44.20:129][931]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.24:078][168]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.24:197][175]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.26:247][298]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.26:464][311]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.26:879][336]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.28:266][419]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.28-16.44.31:666][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-16.44.31:666][621]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-16.44.31:667][621]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.44.31:678][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.44.31:683][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-16.44.31:690][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.44.31:717][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-16.44.31:718][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.01.28-16.44.31:718][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.28-16.44.31:721][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.01.28-16.44.31:743][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.01.28-16.44.31:773][622]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.01.28-16.44.41:370][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Generator.Dungeon_Generator
+[2025.01.28-16.44.41:371][195]LogChaosDD: Creating Chaos Debug Draw Scene for world World_50
+[2025.01.28-16.44.44:734][335]LogSlate: Window 'Dungeon_Generator' being destroyed
+[2025.01.28-16.44.44:756][335]LogSlate: Window 'Dungeon_Generator' being destroyed
+[2025.01.28-16.44.44:762][335]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-16.44.44:762][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-16.44.44:849][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
