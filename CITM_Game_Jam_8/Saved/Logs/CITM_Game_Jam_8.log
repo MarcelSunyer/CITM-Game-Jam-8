@@ -3726,3 +3726,11 @@ FPackageName: Skipped package /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Hi
 [2025.01.28-16.36.32:028][661]LogPlayLevel: Display: Destroying online subsystem :Context_61
 [2025.01.28-16.36.35:685][869]LogSlate: Window 'Message Log' being destroyed
 [2025.01.28-16.36.35:701][869]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-16.37.01:139][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.28-16.37.01:153][ 88]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeons/Test_Auto8
+[2025.01.28-16.37.01:153][ 88]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test_Auto80A3D55D2488C7700E9598EABBE3084CB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Autosaves/Game/Dungeons/Test_Auto8.umap'
+[2025.01.28-16.37.01:157][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeons/Test' took 0.046
+[2025.01.28-16.37.01:157][ 88]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2025.01.28-16.37.24:687][159]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10304.589844
+[2025.01.28-16.37.25:687][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.28-16.37.25:687][163]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10305.255859, Update Interval: 311.034271
