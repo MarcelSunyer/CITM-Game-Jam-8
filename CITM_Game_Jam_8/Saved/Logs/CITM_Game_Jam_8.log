@@ -5527,3 +5527,943 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.01.28-22.05.26:917][781]LogEditorActor: Deleted Actor: Start_Room_1_C
 [2025.01.28-22.05.26:946][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2025.01.28-22.05.26:950][781]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.01.28-22.05.37:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.28-22.05.39:261][  0]LogSlate: Window 'Save Content' being destroyed
+[2025.01.28-22.05.39:277][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.39:362][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.28-22.05.39:405][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.01.28-22.05.39:414][  0]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.28-22.05.39:415][  0]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/TestCF3282DD4E25ADA0FA473FA0210900BD.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.28-22.05.39:426][  0]LogFileHelpers: Saving map 'Test' took 0.064
+[2025.01.28-22.05.39:442][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.884 ms (total: 5.00 sec)
+[2025.01.28-22.05.39:532][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.39:532][  0]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.39:532][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.39:532][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.39:532][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.39:532][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.39:532][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.39:532][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.39:532][  0]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.28-22.05.39:553][  0]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.28-22.05.45:313][319]LogContentBrowser: Attempting asset rename: Dungeon_Room1 -> Dungeon_Room1_2
+[2025.01.28-22.05.45:452][319]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1.PackageMetaData'
+[2025.01.28-22.05.45:452][319]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room1_2.SKEL_Dungeon_Room1_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1.PackageMetaData'
+[2025.01.28-22.05.45:452][319]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room1_2.SKEL_Dungeon_Room1_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1.PackageMetaData'
+[2025.01.28-22.05.45:452][319]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room1_2.SKEL_Dungeon_Room1_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1.PackageMetaData'
+[2025.01.28-22.05.45:452][319]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room1_2.SKEL_Dungeon_Room1_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1.PackageMetaData'
+[2025.01.28-22.05.45:452][319]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room1_2.SKEL_Dungeon_Room1_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1.PackageMetaData'
+[2025.01.28-22.05.45:469][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.45:469][319]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.28-22.05.45:469][319]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.01.28-22.05.45:491][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2]
+[2025.01.28-22.05.45:491][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.28-22.05.45:500][319]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.28-22.05.45:501][319]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_29DDE6BB74E1BE34DA4CE59A1DD0460A1.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.28-22.05.45:505][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.617 ms (total: 5.04 sec)
+[2025.01.28-22.05.45:545][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.28-22.05.45:569][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.28-22.05.45:592][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.01.28-22.05.45:689][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.45:689][319]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.45:689][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.45:689][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.45:689][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.45:689][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.45:689][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.45:689][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.45:690][319]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.28-22.05.47:456][418]LogContentBrowser: Attempting asset rename: Dungeon_Room2 -> Dungeon_Room2
+[2025.01.28-22.05.51:699][651]LogContentBrowser: Attempting asset rename: Dungeon_Room2 -> Dungeon_Room2_2
+[2025.01.28-22.05.51:837][651]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_2.Dungeon_Room2_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room2.PackageMetaData'
+[2025.01.28-22.05.51:837][651]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_2.SKEL_Dungeon_Room2_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room2.PackageMetaData'
+[2025.01.28-22.05.51:837][651]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_2.SKEL_Dungeon_Room2_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room2.PackageMetaData'
+[2025.01.28-22.05.51:837][651]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_2.SKEL_Dungeon_Room2_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room2.PackageMetaData'
+[2025.01.28-22.05.51:837][651]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_2.SKEL_Dungeon_Room2_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room2.PackageMetaData'
+[2025.01.28-22.05.51:837][651]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_2.SKEL_Dungeon_Room2_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room2.PackageMetaData'
+[2025.01.28-22.05.51:856][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.51:856][651]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room2_2] ([2] browsable assets)...
+[2025.01.28-22.05.51:856][651]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.01.28-22.05.51:877][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room2_2.Dungeon_Room2_2]
+[2025.01.28-22.05.51:877][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room2_2]
+[2025.01.28-22.05.51:888][651]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room2_2
+[2025.01.28-22.05.51:888][651]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2_2296D1A744608389F7A7824B492137962.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room2_2.uasset'
+[2025.01.28-22.05.51:893][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.040 ms (total: 5.08 sec)
+[2025.01.28-22.05.51:934][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.28-22.05.51:957][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.28-22.05.51:981][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.28-22.05.52:124][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.52:124][651]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.52:124][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.52:124][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.52:124][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.52:124][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.52:124][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.52:124][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.52:124][651]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room2_2 Validating asset
+[2025.01.28-22.05.53:573][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 684.231750
+[2025.01.28-22.05.53:673][707]LogContentBrowser: Attempting asset rename: Dungeon_Room3 -> Dungeon_Room3_2
+[2025.01.28-22.05.53:807][707]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room3_2.Dungeon_Room3_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room3.PackageMetaData'
+[2025.01.28-22.05.53:807][707]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room3_2.SKEL_Dungeon_Room3_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room3.PackageMetaData'
+[2025.01.28-22.05.53:807][707]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room3_2.SKEL_Dungeon_Room3_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room3.PackageMetaData'
+[2025.01.28-22.05.53:807][707]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room3_2.SKEL_Dungeon_Room3_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room3.PackageMetaData'
+[2025.01.28-22.05.53:807][707]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room3_2.SKEL_Dungeon_Room3_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room3.PackageMetaData'
+[2025.01.28-22.05.53:807][707]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room3_2.SKEL_Dungeon_Room3_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room3.PackageMetaData'
+[2025.01.28-22.05.53:825][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.53:825][707]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room3_2] ([2] browsable assets)...
+[2025.01.28-22.05.53:825][707]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.01.28-22.05.53:845][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room3_2.Dungeon_Room3_2]
+[2025.01.28-22.05.53:845][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room3_2]
+[2025.01.28-22.05.53:854][707]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room3_2
+[2025.01.28-22.05.53:854][707]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room3_29DB2CC034A6A7E738422C198E38A4E27.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room3_2.uasset'
+[2025.01.28-22.05.53:859][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.826 ms (total: 5.11 sec)
+[2025.01.28-22.05.53:900][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.28-22.05.53:922][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.28-22.05.53:945][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.28-22.05.54:056][707]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.54:056][707]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.54:056][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.54:056][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.54:056][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.54:056][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.54:056][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.54:056][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.54:056][707]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room3_2 Validating asset
+[2025.01.28-22.05.54:115][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.28-22.05.54:115][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 684.758850, Update Interval: 328.847321
+[2025.01.28-22.05.55:383][769]LogContentBrowser: Attempting asset rename: Dungeon_Room4 -> Dungeon_Room4_2
+[2025.01.28-22.05.55:535][769]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room4_2.Dungeon_Room4_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room4.PackageMetaData'
+[2025.01.28-22.05.55:535][769]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room4_2.SKEL_Dungeon_Room4_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room4.PackageMetaData'
+[2025.01.28-22.05.55:535][769]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room4_2.SKEL_Dungeon_Room4_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room4.PackageMetaData'
+[2025.01.28-22.05.55:535][769]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room4_2.SKEL_Dungeon_Room4_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room4.PackageMetaData'
+[2025.01.28-22.05.55:535][769]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room4_2.SKEL_Dungeon_Room4_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room4.PackageMetaData'
+[2025.01.28-22.05.55:535][769]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room4_2.SKEL_Dungeon_Room4_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room4.PackageMetaData'
+[2025.01.28-22.05.55:554][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.55:554][769]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room4_2] ([2] browsable assets)...
+[2025.01.28-22.05.55:554][769]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.01.28-22.05.55:578][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room4_2.Dungeon_Room4_2]
+[2025.01.28-22.05.55:578][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room4_2]
+[2025.01.28-22.05.55:589][769]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room4_2
+[2025.01.28-22.05.55:589][769]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room4_2F01475C2487B635156D2E9B2FBE5FFF4.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room4_2.uasset'
+[2025.01.28-22.05.55:594][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.118 ms (total: 5.15 sec)
+[2025.01.28-22.05.55:640][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.28-22.05.55:663][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.28-22.05.55:686][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.28-22.05.55:795][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.55:795][769]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.55:795][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.55:795][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.55:795][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.55:795][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.55:795][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.55:795][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.55:795][769]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room4_2 Validating asset
+[2025.01.28-22.05.57:166][840]LogContentBrowser: Attempting asset rename: Dungeon_Room5 -> Dungeon_Room5_2
+[2025.01.28-22.05.57:305][840]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room5_2.Dungeon_Room5_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room5.PackageMetaData'
+[2025.01.28-22.05.57:305][840]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room5_2.SKEL_Dungeon_Room5_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room5.PackageMetaData'
+[2025.01.28-22.05.57:305][840]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room5_2.SKEL_Dungeon_Room5_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room5.PackageMetaData'
+[2025.01.28-22.05.57:305][840]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room5_2.SKEL_Dungeon_Room5_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room5.PackageMetaData'
+[2025.01.28-22.05.57:305][840]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room5_2.SKEL_Dungeon_Room5_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room5.PackageMetaData'
+[2025.01.28-22.05.57:305][840]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room5_2.SKEL_Dungeon_Room5_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room5.PackageMetaData'
+[2025.01.28-22.05.57:324][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.57:325][840]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room5_2] ([2] browsable assets)...
+[2025.01.28-22.05.57:326][840]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.01.28-22.05.57:347][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room5_2.Dungeon_Room5_2]
+[2025.01.28-22.05.57:347][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room5_2]
+[2025.01.28-22.05.57:358][840]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room5_2
+[2025.01.28-22.05.57:358][840]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room5_231DB45E84285539A0FC2368A07AB4EE0.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room5_2.uasset'
+[2025.01.28-22.05.57:364][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.116 ms (total: 5.19 sec)
+[2025.01.28-22.05.57:405][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.01.28-22.05.57:429][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.01.28-22.05.57:451][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.28-22.05.57:554][840]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.57:554][840]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.57:554][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.57:554][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.57:554][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.57:554][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.57:554][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.57:554][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.57:554][840]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room5_2 Validating asset
+[2025.01.28-22.05.58:938][910]LogContentBrowser: Attempting asset rename: Dungeon_Room6 -> Dungeon_Room6_2
+[2025.01.28-22.05.59:077][910]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room6_2.Dungeon_Room6_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room6.PackageMetaData'
+[2025.01.28-22.05.59:077][910]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room6_2.SKEL_Dungeon_Room6_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room6.PackageMetaData'
+[2025.01.28-22.05.59:077][910]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room6_2.SKEL_Dungeon_Room6_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room6.PackageMetaData'
+[2025.01.28-22.05.59:077][910]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room6_2.SKEL_Dungeon_Room6_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room6.PackageMetaData'
+[2025.01.28-22.05.59:077][910]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room6_2.SKEL_Dungeon_Room6_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room6.PackageMetaData'
+[2025.01.28-22.05.59:077][910]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room6_2.SKEL_Dungeon_Room6_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room6.PackageMetaData'
+[2025.01.28-22.05.59:095][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.05.59:095][910]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room6_2] ([2] browsable assets)...
+[2025.01.28-22.05.59:095][910]LogChaosDD: Creating Chaos Debug Draw Scene for world World_43
+[2025.01.28-22.05.59:119][910]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room6_2.Dungeon_Room6_2]
+[2025.01.28-22.05.59:119][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room6_2]
+[2025.01.28-22.05.59:133][910]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room6_2
+[2025.01.28-22.05.59:133][910]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room6_249A6C6884BF3116A723121866A4359D9.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room6_2.uasset'
+[2025.01.28-22.05.59:139][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.036 ms (total: 5.24 sec)
+[2025.01.28-22.05.59:180][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.28-22.05.59:204][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.28-22.05.59:225][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.28-22.05.59:339][910]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.05.59:340][910]LogContentValidation: Enabled validators:
+[2025.01.28-22.05.59:340][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.05.59:340][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.05.59:340][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.05.59:340][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.05.59:340][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.05.59:340][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.05.59:340][910]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room6_2 Validating asset
+[2025.01.28-22.06.01:473][ 23]LogContentBrowser: Attempting asset rename: Dungeon_Room7 -> Dungeon_Room7_2
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.SKEL_Dungeon_Room7_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.Dungeon_Room7_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.SKEL_Dungeon_Room7_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.SKEL_Dungeon_Room7_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.SKEL_Dungeon_Room7_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.Dungeon_Room7_2_C:Floor_GEN_VARIABLE' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:612][ 23]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room7_2.SKEL_Dungeon_Room7_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room7.PackageMetaData'
+[2025.01.28-22.06.01:629][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.06.01:630][ 23]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room7_2] ([2] browsable assets)...
+[2025.01.28-22.06.01:630][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.01.28-22.06.01:652][ 23]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room7_2.Dungeon_Room7_2]
+[2025.01.28-22.06.01:652][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room7_2]
+[2025.01.28-22.06.01:664][ 23]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room7_2
+[2025.01.28-22.06.01:664][ 23]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room7_2F23602314DCA34394E085DB2C2D57958.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room7_2.uasset'
+[2025.01.28-22.06.01:669][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.581 ms (total: 5.28 sec)
+[2025.01.28-22.06.01:711][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.28-22.06.01:734][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.28-22.06.01:757][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: Enabled validators:
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.06.01:861][ 23]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.06.01:861][ 23]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room7_2 Validating asset
+[2025.01.28-22.06.04:590][165]LogContentBrowser: Attempting asset rename: Start_Room -> Start_Room_2
+[2025.01.28-22.06.04:731][165]LogMetaData: Removing '/Game/Dungeons/Level_2/Start_Room_2.Start_Room_2_C' ref from Metadata '/Game/Dungeons/Level_2/Start_Room.PackageMetaData'
+[2025.01.28-22.06.04:731][165]LogMetaData: Removing '/Game/Dungeons/Level_2/Start_Room_2.SKEL_Start_Room_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Start_Room.PackageMetaData'
+[2025.01.28-22.06.04:731][165]LogMetaData: Removing '/Game/Dungeons/Level_2/Start_Room_2.SKEL_Start_Room_2_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Start_Room.PackageMetaData'
+[2025.01.28-22.06.04:731][165]LogMetaData: Removing '/Game/Dungeons/Level_2/Start_Room_2.SKEL_Start_Room_2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Start_Room.PackageMetaData'
+[2025.01.28-22.06.04:731][165]LogMetaData: Removing '/Game/Dungeons/Level_2/Start_Room_2.SKEL_Start_Room_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Start_Room.PackageMetaData'
+[2025.01.28-22.06.04:731][165]LogMetaData: Removing '/Game/Dungeons/Level_2/Start_Room_2.SKEL_Start_Room_2_C' ref from Metadata '/Game/Dungeons/Level_2/Start_Room.PackageMetaData'
+[2025.01.28-22.06.04:746][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.06.04:747][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Start_Room_2] ([2] browsable assets)...
+[2025.01.28-22.06.04:747][165]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2025.01.28-22.06.04:774][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Start_Room_2.Start_Room_2]
+[2025.01.28-22.06.04:774][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Start_Room_2]
+[2025.01.28-22.06.04:774][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/Start_Room_2" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Start_Room_2.uasset" SILENT=true
+[2025.01.28-22.06.04:785][165]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Start_Room_2
+[2025.01.28-22.06.04:785][165]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start_Room_23B4C77D94490065B61A13DAB9DC4BA57.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Start_Room_2.uasset'
+[2025.01.28-22.06.04:789][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.558 ms (total: 5.32 sec)
+[2025.01.28-22.06.04:832][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.01.28-22.06.04:858][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.28-22.06.04:882][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.28-22.06.05:000][165]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.06.05:000][165]LogContentValidation: Enabled validators:
+[2025.01.28-22.06.05:000][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.06.05:000][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.06.05:000][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.06.05:000][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.06.05:000][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.06.05:000][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.06.05:000][165]AssetCheck: /Game/Dungeons/Level_2/Start_Room_2 Validating asset
+[2025.01.28-22.06.12:687][615]LogContentBrowser: Attempting asset rename: Dungeon_Generator -> Dungeon_Generator_
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.Dungeon_Generator__C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.Dungeon_Generator__C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Spawn Start Room' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Spawn Next Room' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Check for Overlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Add Overlaping Rooms to List' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Close Holes' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Set Seed' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Start Dungeon Timer' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:Check for Dungeon Complate' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:851][615]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_.SKEL_Dungeon_Generator__C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator.PackageMetaData'
+[2025.01.28-22.06.12:868][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.06.12:868][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Generator_] ([2] browsable assets)...
+[2025.01.28-22.06.12:868][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Generator_]
+[2025.01.28-22.06.12:894][615]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Generator_
+[2025.01.28-22.06.12:894][615]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator_B339F66A48338BFE22F639A69849E921.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Generator_.uasset'
+[2025.01.28-22.06.12:899][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.073 ms (total: 5.35 sec)
+[2025.01.28-22.06.12:933][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.28-22.06.12:957][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.28-22.06.12:983][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.28-22.06.13:090][615]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.06.13:090][615]LogContentValidation: Enabled validators:
+[2025.01.28-22.06.13:090][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.06.13:090][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.06.13:090][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.06.13:090][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.06.13:090][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.06.13:090][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.06.13:090][615]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Generator_ Validating asset
+[2025.01.28-22.06.15:878][779]LogContentBrowser: Attempting asset rename: Dungeon_Generator_ -> Dungeon_Generator_2
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.Dungeon_Generator_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.Dungeon_Generator_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Spawn Start Room' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Spawn Next Room' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Check for Overlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Add Overlaping Rooms to List' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Close Holes' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Set Seed' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Start Dungeon Timer' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:Check for Dungeon Complate' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:003][779]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Generator_2.SKEL_Dungeon_Generator_2_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Generator_.PackageMetaData'
+[2025.01.28-22.06.16:020][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.06.16:020][779]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Generator_2] ([2] browsable assets)...
+[2025.01.28-22.06.16:020][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Generator_2]
+[2025.01.28-22.06.16:049][779]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Generator_2
+[2025.01.28-22.06.16:050][779]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator_2129CA3DF4E9EB2B9D8A8BCB803893A95.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Generator_2.uasset'
+[2025.01.28-22.06.16:055][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.960 ms (total: 5.38 sec)
+[2025.01.28-22.06.16:094][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.28-22.06.16:117][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.28-22.06.16:139][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.28-22.06.16:254][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.06.16:254][779]LogContentValidation: Enabled validators:
+[2025.01.28-22.06.16:254][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.06.16:254][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.06.16:254][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.06.16:254][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.06.16:254][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.06.16:254][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.06.16:255][779]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Generator_2 Validating asset
+[2025.01.28-22.06.17:448][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.06.17:548][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.28-22.06.17:594][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.28-22.06.17:605][844]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.28-22.06.17:605][844]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/TestB01ACC944C9A54F090AB44A63636AA5D.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.28-22.06.17:617][844]LogFileHelpers: Saving map 'Test' took 0.069
+[2025.01.28-22.06.17:633][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.450 ms (total: 5.57 sec)
+[2025.01.28-22.06.17:731][844]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.06.17:731][844]LogContentValidation: Enabled validators:
+[2025.01.28-22.06.17:731][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.06.17:731][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.06.17:731][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.06.17:731][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.06.17:731][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.06.17:731][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.06.17:731][844]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.28-22.06.17:927][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.28-22.07.56:658][463]LogContentBrowser: Attempting asset rename: Test -> Start
+[2025.01.28-22.07.56:658][463]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.28-22.07.56:801][463]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.Start_C' ref from Metadata '/Game/Dungeons/Level_1/Test.PackageMetaData'
+[2025.01.28-22.07.56:801][463]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/Test.PackageMetaData'
+[2025.01.28-22.07.56:801][463]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/Test.PackageMetaData'
+[2025.01.28-22.07.56:801][463]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/Test.PackageMetaData'
+[2025.01.28-22.07.56:801][463]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/Test.PackageMetaData'
+[2025.01.28-22.07.56:801][463]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C' ref from Metadata '/Game/Dungeons/Level_1/Test.PackageMetaData'
+[2025.01.28-22.07.56:818][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.07.56:818][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Start] ([2] browsable assets)...
+[2025.01.28-22.07.56:818][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start]
+[2025.01.28-22.07.56:818][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset" SILENT=true
+[2025.01.28-22.07.56:827][463]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start
+[2025.01.28-22.07.56:827][463]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start2AD7ADE4483D9AE64141D4B6AE971308.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset'
+[2025.01.28-22.07.56:832][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.136 ms (total: 5.58 sec)
+[2025.01.28-22.07.56:872][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.01.28-22.07.56:899][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.28-22.07.56:921][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.28-22.07.57:038][463]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.07.57:038][463]LogContentValidation: Enabled validators:
+[2025.01.28-22.07.57:038][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.07.57:038][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.07.57:038][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.07.57:038][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.07.57:038][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.07.57:038][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.07.57:038][463]AssetCheck: /Game/Dungeons/Level_1/Start Validating asset
+[2025.01.28-22.07.57:770][505]LogChaosDD: Creating Chaos Debug Draw Scene for world World_46
+[2025.01.28-22.07.57:863][507]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Start.Start
+[2025.01.28-22.07.57:864][507]LogChaosDD: Creating Chaos Debug Draw Scene for world World_47
+[2025.01.28-22.08.07:569][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.08.07:665][901]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start] ([2] browsable assets)...
+[2025.01.28-22.08.07:677][901]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start.Start]
+[2025.01.28-22.08.07:677][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start]
+[2025.01.28-22.08.07:677][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset" SILENT=true
+[2025.01.28-22.08.07:687][901]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start
+[2025.01.28-22.08.07:687][901]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start3754CA4744E5CDEAA39BE093D5270FB0.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset'
+[2025.01.28-22.08.07:704][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.496 ms (total: 5.72 sec)
+[2025.01.28-22.08.07:812][901]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.08.07:812][901]LogContentValidation: Enabled validators:
+[2025.01.28-22.08.07:812][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.08.07:812][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.08.07:812][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.08.07:812][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.08.07:812][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.08.07:812][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.08.07:812][901]AssetCheck: /Game/Dungeons/Level_1/Start Validating asset
+[2025.01.28-22.08.14:061][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.28-22.08.15:069][164]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.28-22.08.15:516][164]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.15:516][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.15:598][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.15:598][164]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.15:598][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.15:689][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.15:689][164]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.15:689][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.15:782][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.15:782][164]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.15:782][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.15:869][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.15:869][164]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.15:869][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.15:953][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.15:953][164]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.15:953][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.16:034][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.16:034][164]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.16:034][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.16:117][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.16:117][164]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.16:117][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.16:212][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.16:212][164]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.16:212][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.16:273][164]LogSlate: Window 'Start_Room_2' being destroyed
+[2025.01.28-22.08.16:298][164]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.08.16:298][164]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.08.16:299][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.08.16:339][164]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Start.Start
+	Asset Type: Blueprint
+[2025.01.28-22.08.16:683][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.01.28-22.08.16:770][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.28-22.08.16:794][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.01.28-22.08.16:818][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.01.28-22.08.16:853][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.01.28-22.08.16:866][164]LogAutomationController: Ignoring very large delta of 2.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.28-22.08.18:695][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.28-22.08.22:225][428]LogContentBrowser: Attempting asset rename: Dungeon_Room1_2 -> Start
+[2025.01.28-22.08.22:361][428]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room1_2.PackageMetaData'
+[2025.01.28-22.08.22:361][428]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.Start_C' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room1_2.PackageMetaData'
+[2025.01.28-22.08.22:361][428]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room1_2.PackageMetaData'
+[2025.01.28-22.08.22:361][428]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room1_2.PackageMetaData'
+[2025.01.28-22.08.22:361][428]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room1_2.PackageMetaData'
+[2025.01.28-22.08.22:361][428]LogMetaData: Removing '/Game/Dungeons/Level_1/Start.SKEL_Start_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room1_2.PackageMetaData'
+[2025.01.28-22.08.22:361][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.08.22:361][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start] ([2] browsable assets)...
+[2025.01.28-22.08.22:374][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start.Start]
+[2025.01.28-22.08.22:374][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start]
+[2025.01.28-22.08.22:374][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset" SILENT=true
+[2025.01.28-22.08.22:382][428]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start
+[2025.01.28-22.08.22:382][428]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/StartB00849644BD7E451B63DAEA9444E0A14.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset'
+[2025.01.28-22.08.22:388][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 26.442 ms (total: 5.74 sec)
+[2025.01.28-22.08.22:430][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.28-22.08.22:453][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.28-22.08.22:477][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.28-22.08.22:588][428]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.08.22:588][428]LogContentValidation: Enabled validators:
+[2025.01.28-22.08.22:588][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.08.22:588][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.08.22:588][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.08.22:588][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.08.22:588][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.08.22:588][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.08.22:588][428]AssetCheck: /Game/Dungeons/Level_1/Start Validating asset
+[2025.01.28-22.08.23:443][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Start.Start
+[2025.01.28-22.08.23:444][472]LogChaosDD: Creating Chaos Debug Draw Scene for world World_48
+[2025.01.28-22.09.01:156][ 24]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.09.21:660][886]Cmd: MODE ROTGRID=0
+[2025.01.28-22.09.29:847][239]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.09.32:642][336]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.10.45:846][405]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.10.52:895][656]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.10.56:754][797]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.11.26:621][892]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.28-22.11.27:384][910]Cmd: MODE ROTGRID=1
+[2025.01.28-22.11.28:506][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1019.165161
+[2025.01.28-22.11.28:749][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.28-22.11.28:749][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1019.375061, Update Interval: 338.865326
+[2025.01.28-22.12.33:285][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.12.33:372][331]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Start] ([2] browsable assets)...
+[2025.01.28-22.12.33:385][331]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Start.Start]
+[2025.01.28-22.12.33:385][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Start]
+[2025.01.28-22.12.33:385][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_1/Start" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset" SILENT=true
+[2025.01.28-22.12.33:396][331]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Start
+[2025.01.28-22.12.33:396][331]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Start2C30FD91497B3B849961C191BB1843DB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Start.uasset'
+[2025.01.28-22.12.33:414][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.132 ms (total: 5.87 sec)
+[2025.01.28-22.12.33:534][331]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.12.33:534][331]LogContentValidation: Enabled validators:
+[2025.01.28-22.12.33:534][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.12.33:534][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.12.33:534][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.12.33:534][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.12.33:534][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.12.33:534][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.12.33:535][331]AssetCheck: /Game/Dungeons/Level_1/Start Validating asset
+[2025.01.28-22.12.34:668][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.01.28-22.12.38:368][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Generator.Dungeon_Generator
+[2025.01.28-22.12.38:369][535]LogChaosDD: Creating Chaos Debug Draw Scene for world World_49
+[2025.01.28-22.12.45:535][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.12.45:634][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Generator] ([2] browsable assets)...
+[2025.01.28-22.12.45:634][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Generator]
+[2025.01.28-22.12.45:663][836]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Generator
+[2025.01.28-22.12.45:664][836]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator298AB78D4AB615A9621643BFF21954B1.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Generator.uasset'
+[2025.01.28-22.12.45:683][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.845 ms (total: 6.02 sec)
+[2025.01.28-22.12.45:787][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.12.45:787][836]LogContentValidation: Enabled validators:
+[2025.01.28-22.12.45:787][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.12.45:787][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.12.45:787][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.12.45:787][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.12.45:788][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.12.45:788][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.12.45:788][836]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Generator Validating asset
+[2025.01.28-22.12.46:153][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.28-22.12.55:771][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.28-22.12.56:788][290]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.28-22.12.57:155][290]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.12.57:155][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.12.57:366][290]LogSlate: Window 'Dungeon_Generator' being destroyed
+[2025.01.28-22.12.57:400][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.28-22.12.57:400][290]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.12.57:400][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.12.57:437][290]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Start_Room_1.Start_Room_1
+	Asset Type: Blueprint
+[2025.01.28-22.12.57:782][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.01.28-22.12.57:871][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.01.28-22.12.57:897][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.28-22.12.57:920][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.28-22.12.57:957][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.01.28-22.12.57:976][290]LogAutomationController: Ignoring very large delta of 2.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.01.28-22.12.59:180][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.12.59:267][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.28-22.12.59:318][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.28-22.12.59:329][338]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.28-22.12.59:330][338]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test70DEB83345FFB9E56B264E828CB7B7DF.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.28-22.12.59:340][338]LogFileHelpers: Saving map 'Test' took 0.073
+[2025.01.28-22.12.59:356][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.922 ms (total: 6.20 sec)
+[2025.01.28-22.12.59:457][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.12.59:457][338]LogContentValidation: Enabled validators:
+[2025.01.28-22.12.59:457][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.12.59:457][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.12.59:457][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.12.59:457][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.12.59:457][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.12.59:457][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.12.59:457][338]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.28-22.13.02:648][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Start_Room_2.Start_Room_2
+[2025.01.28-22.13.02:648][509]LogChaosDD: Creating Chaos Debug Draw Scene for world World_50
+[2025.01.28-22.13.10:915][869]LogSlate: Window 'Start_Room_2' being destroyed
+[2025.01.28-22.13.10:938][869]LogSlate: Window 'Start_Room_2' being destroyed
+[2025.01.28-22.13.10:945][869]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.13.10:945][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.11:047][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.01.28-22.13.14:669][ 74]LogPlayLevel: [PlayLevel] Compiling Dungeon_Generator_2 before play...
+[2025.01.28-22.13.14:675][ 74]LogBlueprint: Error: [AssetLog] C:\Users\Marcel\Documents\GitHub\CITM-Game-Jam-8\CITM_Game_Jam_8\Content\Dungeons\Level_2\Dungeon_Generator_2.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2025.01.28-22.13.14:707][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.28-22.13.14:711][ 74]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2025.01.28-22.13.14:711][ 74]BlueprintLog: Warning: Blueprint failed to compile:  Dungeon_Generator_2
+[2025.01.28-22.13.16:281][ 74]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.01.28-22.13.17:477][138]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-22.13.17:488][138]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-22.13.17:967][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-22.13.17:967][166]BlueprintLog: Warning: Blueprint failed to compile:  Dungeon_Generator_2
+[2025.01.28-22.13.18:669][166]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.01.28-22.13.18:685][166]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.18:689][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004195s)
+[2025.01.28-22.13.18:689][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.004301s)
+[2025.01.28-22.13.18:717][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.01.28-22.13.18:719][166]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-22.13.18:721][166]LogPlayLevel: PIE: World Init took: (0.002289s)
+[2025.01.28-22.13.18:722][166]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.01.28-22.13.18:722][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-22.13.18:722][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-22.13.18:723][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-22.13.18:723][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-22.13.18:723][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.28-22.13.18:723][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-22.13.18:723][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.28-22.13.18:723][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-22.13.18:723][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-22.13.18:723][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-22.13.18:723][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-22.13.18:726][166]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-22.13.18:760][166]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.28-22.13.18:761][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-22.13.18:761][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-22.13.18:761][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-22.13.18:761][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.01.28-22.13.18:761][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.01.28-22.13.18:764][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.01.28-22.13.18:764][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.01.28-22.13.18:764][166]LogInit: FAudioDevice initialized with ID 11.
+[2025.01.28-22.13.18:764][166]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test'.
+[2025.01.28-22.13.18:764][166]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.28-22.13.18:768][166]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-22.13.18:770][166]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-23.13.18
+[2025.01.28-22.13.18:770][166]LogWorld: Bringing up level for play took: 0.001487
+[2025.01.28-22.13.18:775][166]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.01.28-22.13.18:786][166]PIE: Server logged in
+[2025.01.28-22.13.18:788][166]PIE: Play in editor total start time 0,821 seconds.
+[2025.01.28-22.13.18:797][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:797][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:904][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:904][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:920][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:920][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:963][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:963][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:992][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.18:992][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:016][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:016][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:048][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:048][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:074][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:074][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:102][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:102][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:127][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:127][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:158][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:159][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:183][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:183][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:212][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:212][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:240][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:240][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:273][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:274][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:286][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:286][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:309][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:309][182]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:321][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:322][183]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:335][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:335][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:372][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:372][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:396][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:396][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:430][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:430][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:436][188]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.19:458][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:458][188]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:489][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:489][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:516][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:516][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:546][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:546][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:569][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:569][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:600][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:601][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:624][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:624][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:652][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:652][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:694][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:694][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:723][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:724][197]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:749][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:749][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:768][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:768][199]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:781][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:782][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:796][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:799][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:820][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:820][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:830][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:830][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:848][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:849][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:872][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:872][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:885][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:885][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:900][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:900][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:923][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:923][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:936][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:936][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:952][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:952][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:973][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:973][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:986][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.19:986][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:002][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:002][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:031][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:031][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:049][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:049][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:061][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:061][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:087][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:087][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:099][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:100][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:115][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:115][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:136][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:137][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:150][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:150][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:165][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:165][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:187][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:187][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:198][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:198][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:216][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:216][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:236][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:236][226]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:253][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:253][227]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:266][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:267][228]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:292][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:292][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:308][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:309][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:322][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:323][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:345][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:346][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:358][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:358][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:373][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:373][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:397][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:397][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:402][236]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.20:409][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:409][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:428][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:428][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:449][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:449][238]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:465][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:465][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:479][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:479][240]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:506][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:506][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:525][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:525][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:539][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:539][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:561][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:561][244]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:576][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:576][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:592][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:593][246]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:609][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:610][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:626][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:626][248]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:638][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:638][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:663][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:663][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:678][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:679][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:694][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:694][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:715][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:715][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:728][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:728][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:744][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:745][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:769][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:769][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:786][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:786][257]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:801][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:801][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:829][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:830][259]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:849][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:849][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:864][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:864][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:892][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:893][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:912][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:912][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:930][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:930][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:960][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:960][265]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:975][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:976][266]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:990][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.20:990][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:022][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:023][268]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:038][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:038][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:053][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:054][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:078][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:078][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:093][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:094][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:108][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:109][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:135][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:136][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:153][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:153][275]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:168][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:168][276]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:197][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:198][277]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:218][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:218][278]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:234][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:234][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:266][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:266][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:284][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:284][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:301][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:301][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:331][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:331][283]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:350][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:351][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:363][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:363][285]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:388][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:389][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:402][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:403][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:413][288]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.21:423][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:423][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP First Person Character". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Speed Run Timer Blueprint:  SpeedRunTimer
+[2025.01.28-22.13.21:429][289]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dungeons/Test"
+[2025.01.28-22.13.21:429][289]LogNet: Browse: /Game/Dungeons/Test
+[2025.01.28-22.13.21:429][289]LogLoad: LoadMap: /Game/Dungeons/Test
+[2025.01.28-22.13.21:429][289]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.21:430][289]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.13.21:441][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.21:473][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-22.13.21:486][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.01.28-22.13.21:492][289]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.21:494][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003063s)
+[2025.01.28-22.13.21:494][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.003127s)
+[2025.01.28-22.13.21:494][289]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test'.
+[2025.01.28-22.13.21:494][289]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-22.13.21:497][289]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2025.01.28-22.13.21:497][289]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-22.13.21:498][289]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-23.13.21
+[2025.01.28-22.13.21:498][289]LogWorld: Bringing up level for play took: 0.001226
+[2025.01.28-22.13.21:507][289]LogLoad: Took 0.078389 seconds to LoadMap(/Game/Dungeons/UEDPIE_0_Test)
+[2025.01.28-22.13.21:507][289]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.22:461][334]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.23:438][389]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.24:458][428]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.24:470][429]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dungeons/Test"
+[2025.01.28-22.13.24:470][429]LogNet: Browse: /Game/Dungeons/Test
+[2025.01.28-22.13.24:470][429]LogLoad: LoadMap: /Game/Dungeons/Test
+[2025.01.28-22.13.24:470][429]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.24:472][429]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.13.24:485][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.24:516][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-22.13.24:531][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.01.28-22.13.24:538][429]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.24:542][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003241s)
+[2025.01.28-22.13.24:542][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.003320s)
+[2025.01.28-22.13.24:542][429]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test'.
+[2025.01.28-22.13.24:542][429]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-22.13.24:543][429]LogPlayLevel: PIE: World Init took: (0.001679s)
+[2025.01.28-22.13.24:543][429]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-22.13.24:545][429]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-23.13.24
+[2025.01.28-22.13.24:545][429]LogWorld: Bringing up level for play took: 0.001230
+[2025.01.28-22.13.24:556][429]LogLoad: Took 0.085549 seconds to LoadMap(/Game/Dungeons/UEDPIE_0_Test)
+[2025.01.28-22.13.24:556][429]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.25:503][472]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.26:492][529]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.27:486][585]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.27:502][586]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dungeons/Test"
+[2025.01.28-22.13.27:502][586]LogNet: Browse: /Game/Dungeons/Test
+[2025.01.28-22.13.27:502][586]LogLoad: LoadMap: /Game/Dungeons/Test
+[2025.01.28-22.13.27:503][586]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.27:504][586]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.13.27:518][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.27:587][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-22.13.27:600][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.01.28-22.13.27:606][586]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.27:608][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002523s)
+[2025.01.28-22.13.27:608][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002584s)
+[2025.01.28-22.13.27:608][586]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test'.
+[2025.01.28-22.13.27:608][586]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-22.13.27:610][586]LogPlayLevel: PIE: World Init took: (0.002102s)
+[2025.01.28-22.13.27:610][586]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-22.13.27:611][586]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-23.13.27
+[2025.01.28-22.13.27:612][586]LogWorld: Bringing up level for play took: 0.001268
+[2025.01.28-22.13.27:621][586]LogLoad: Took 0.118419 seconds to LoadMap(/Game/Dungeons/UEDPIE_0_Test)
+[2025.01.28-22.13.27:621][586]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.28:544][635]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.29:512][689]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.30:512][745]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.30:528][746]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dungeons/Test"
+[2025.01.28-22.13.30:528][746]LogNet: Browse: /Game/Dungeons/Test
+[2025.01.28-22.13.30:528][746]LogLoad: LoadMap: /Game/Dungeons/Test
+[2025.01.28-22.13.30:528][746]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.30:529][746]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.13.30:543][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.30:612][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-22.13.30:625][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.28-22.13.30:632][746]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.30:634][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002136s)
+[2025.01.28-22.13.30:634][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.002195s)
+[2025.01.28-22.13.30:634][746]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test'.
+[2025.01.28-22.13.30:634][746]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.28-22.13.30:635][746]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2025.01.28-22.13.30:635][746]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.28-22.13.30:636][746]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.28-23.13.30
+[2025.01.28-22.13.30:636][746]LogWorld: Bringing up level for play took: 0.000958
+[2025.01.28-22.13.30:646][746]LogLoad: Took 0.117780 seconds to LoadMap(/Game/Dungeons/UEDPIE_0_Test)
+[2025.01.28-22.13.30:646][746]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.31:570][791]LogBlueprintUserMessages: [Dungeon_Generator_C_1] Running Timer
+[2025.01.28-22.13.32:249][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-22.13.32:250][825]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.28-22.13.32:250][825]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-22.13.32:254][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.32:258][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-22.13.32:265][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-22.13.32:293][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-22.13.32:293][825]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.28-22.13.32:293][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.28-22.13.32:296][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.28-22.13.32:312][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.01.28-22.13.32:470][826]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.01.28-22.13.33:738][890]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-22.13.33:750][890]LogSlate: Window 'Message Log' being destroyed
+[2025.01.28-22.13.34:226][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-22.13.34:325][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.28-22.13.34:373][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.28-22.13.34:386][918]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.28-22.13.34:387][918]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test3C0C249F4F47B5801F2429B79CC1C57F.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.28-22.13.34:399][918]LogFileHelpers: Saving map 'Test' took 0.076
+[2025.01.28-22.13.34:420][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.726 ms (total: 6.39 sec)
+[2025.01.28-22.13.34:515][918]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.28-22.13.34:515][918]LogContentValidation: Enabled validators:
+[2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.28-22.13.34:515][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.28-22.13.34:516][918]AssetCheck: /Game/Dungeons/Test Validating asset
