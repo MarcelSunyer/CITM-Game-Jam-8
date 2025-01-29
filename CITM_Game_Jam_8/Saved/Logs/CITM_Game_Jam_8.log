@@ -1428,3 +1428,34 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.29-13.54.38:441][744]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2025.01.29-13.54.38:441][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.01.29-13.54.38:485][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.29-13.55.01:408][322]LogDerivedDataCache: C:/Users/Marcel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.29-13.56.33:201][830]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-13.56.33:208][830]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room4_1.Dungeon_Room4_1
+[2025.01.29-13.56.33:208][830]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.01.29-13.56.33:638][830]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.01.29-13.56.35:455][934]LogSlate: Window 'Dungeon_Room4_1' being destroyed
+[2025.01.29-13.56.35:465][934]LogSlate: Window 'Dungeon_Room4_1' being destroyed
+[2025.01.29-13.56.35:470][934]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-13.56.35:470][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-13.56.35:533][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.29-13.56.36:290][979]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-13.56.36:342][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room5_1.Dungeon_Room5_1
+[2025.01.29-13.56.36:343][979]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.01.29-13.56.36:736][979]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.01.29-13.56.50:322][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-13.56.50:403][733]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room5_1] ([2] browsable assets)...
+[2025.01.29-13.56.50:413][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room5_1.Dungeon_Room5_1]
+[2025.01.29-13.56.50:413][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room5_1]
+[2025.01.29-13.56.50:423][733]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room5_1
+[2025.01.29-13.56.50:424][733]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room5_11672D5A0443447D4072B14B5C65509AC.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room5_1.uasset'
+[2025.01.29-13.56.50:435][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.951 ms (total: 472.060 ms)
+[2025.01.29-13.56.50:513][733]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-13.56.50:513][733]LogContentValidation: Enabled validators:
+[2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-13.56.50:513][733]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room5_1 Validating asset
+[2025.01.29-13.56.51:423][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
