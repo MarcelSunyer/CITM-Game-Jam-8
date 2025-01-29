@@ -1885,3 +1885,427 @@ FPackageName: Skipped package /Game/Deko_MatrixDemo/Shared/Textures/T_Plastic_Mi
 [2025.01.29-22.21.09:858][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.29-22.21.09:858][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.29-22.21.09:858][548]AssetCheck: /Game/Dungeons/Level_1/Start Validating asset
+[2025.01.29-22.21.19:467][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.29-22.21.21:185][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.29-22.21.21:191][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.29-22.21.21:223][684]LogPlayLevel: Creating play world package: /Game/Dungeons/UEDPIE_0_Test
+[2025.01.29-22.21.21:227][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003657s)
+[2025.01.29-22.21.21:227][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dungeons/Test.Test to /Game/Dungeons/UEDPIE_0_Test.Test (0.003769s)
+[2025.01.29-22.21.21:242][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.29-22.21.21:244][684]LogChaosDD: Creating Chaos Debug Draw Scene for world Test
+[2025.01.29-22.21.21:245][684]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2025.01.29-22.21.21:247][684]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.29-22.21.21:247][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.29-22.21.21:247][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.29-22.21.21:247][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.29-22.21.21:247][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.29-22.21.21:247][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.29-22.21.21:249][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.29-22.21.21:266][684]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.01.29-22.21.21:266][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.29-22.21.21:266][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.29-22.21.21:266][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.29-22.21.21:267][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.29-22.21.21:267][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.29-22.21.21:269][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.29-22.21.21:269][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.29-22.21.21:269][684]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.29-22.21.21:269][684]LogAudio: Display: Audio Device (ID: 3) registered with world 'Test'.
+[2025.01.29-22.21.21:269][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.29-22.21.21:272][684]LogLoad: Game class is 'MainMenuGameMode_C'
+[2025.01.29-22.21.21:272][684]LogWorld: Bringing World /Game/Dungeons/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2025.01.29-23.21.21
+[2025.01.29-22.21.21:273][684]LogWorld: Bringing up level for play took: 0.001083
+[2025.01.29-22.21.21:275][684]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.01.29-22.21.21:286][684]PIE: Server logged in
+[2025.01.29-22.21.21:287][684]PIE: Play in editor total start time 0,096 seconds.
+[2025.01.29-22.21.22:045][725]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.22:196][734]LogBlueprintUserMessages: [Dungeon_Generator_C_2] Running Timer
+[2025.01.29-22.21.23:190][789]LogBlueprintUserMessages: [Dungeon_Generator_C_2] Running Timer
+[2025.01.29-22.21.24:195][849]LogBlueprintUserMessages: [Dungeon_Generator_C_2] Running Timer
+[2025.01.29-22.21.24:588][872]LogBlueprintUserMessages: [Dungeon_Generator_C_2] Dungeon Complate
+[2025.01.29-22.21.26:732][997]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.26:884][  6]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.33:316][392]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.33:332][393]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.37:433][639]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.37:793][655]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.39:466][754]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.39:717][769]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.39:999][786]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.40:217][799]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.40:867][838]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.41:768][892]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.43:268][982]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.45:517][117]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.45:634][124]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.45:783][133]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.47:268][222]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.47:419][231]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.49:351][347]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.49:667][366]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.50:601][422]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.51:084][451]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.29-22.21.52:503][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.29-22.21.52:503][533]LogWorld: BeginTearingDown for /Game/Dungeons/UEDPIE_0_Test
+[2025.01.29-22.21.52:504][533]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-22.21.52:528][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-22.21.52:533][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.29-22.21.52:538][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-22.21.52:565][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.29-22.21.52:565][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.29-22.21.52:565][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.29-22.21.52:569][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.29-22.21.52:576][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.29-22.21.52:590][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.29-22.21.52:625][534]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.01.29-22.21.56:740][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.21.56:809][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.29-22.21.56:849][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.29-22.21.56:860][776]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.29-22.21.56:861][776]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test6A06888C4513CEF71D2143AD2509ABAB.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.29-22.21.56:871][776]LogFileHelpers: Saving map 'Test' took 0.062
+[2025.01.29-22.21.56:882][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.196 ms (total: 2.08 sec)
+[2025.01.29-22.21.56:956][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.21.56:956][776]LogContentValidation: Enabled validators:
+[2025.01.29-22.21.56:956][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.21.56:956][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.21.56:956][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.21.56:956][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.21.56:956][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.21.56:956][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.21.56:956][776]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.29-22.22.51:529][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.22.51:603][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Test" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.29-22.22.51:642][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.29-22.22.51:651][512]LogSavePackage: Moving output files for package: /Game/Dungeons/Test
+[2025.01.29-22.22.51:652][512]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Test13DD7D5149D1BF9E2AF9829676A790FF.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Test.umap'
+[2025.01.29-22.22.51:660][512]LogFileHelpers: Saving map 'Test' took 0.059
+[2025.01.29-22.22.51:671][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.749 ms (total: 2.22 sec)
+[2025.01.29-22.22.51:744][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.22.51:744][512]LogContentValidation: Enabled validators:
+[2025.01.29-22.22.51:744][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.22.51:744][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.22.51:744][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.22.51:744][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.22.51:744][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.22.51:744][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.22.51:744][512]AssetCheck: /Game/Dungeons/Test Validating asset
+[2025.01.29-22.25.17:916][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 640.105652
+[2025.01.29-22.25.18:099][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.29-22.25.18:099][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 640.272156, Update Interval: 301.508850
+[2025.01.29-22.25.49:332][744]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-22.25.49:345][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2
+[2025.01.29-22.25.49:346][744]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.01.29-22.25.49:730][744]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.01.29-22.25.53:127][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.25.53:197][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.29-22.25.53:197][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.29-22.25.53:207][919]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.29-22.25.53:208][919]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_23601F89A46B495153514269C614ACEF1.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.29-22.25.53:220][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.734 ms (total: 2.31 sec)
+[2025.01.29-22.25.53:307][919]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.25.53:307][919]LogContentValidation: Enabled validators:
+[2025.01.29-22.25.53:307][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.25.53:307][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.25.53:307][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.25.53:307][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.25.53:307][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.25.53:307][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.25.53:307][919]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.29-22.26.04:241][545]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-22.26.04:247][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room
+[2025.01.29-22.26.04:247][545]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.01.29-22.26.08:160][724]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.29-22.26.13:531][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.26.13:595][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Master_Room] ([2] browsable assets)...
+[2025.01.29-22.26.13:604][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room]
+[2025.01.29-22.26.13:604][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Master_Room]
+[2025.01.29-22.26.13:604][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset" SILENT=true
+[2025.01.29-22.26.13:611][ 31]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Master_Room
+[2025.01.29-22.26.13:611][ 31]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room4F9CDCA6463FDBCA84328596108B8BEA.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset'
+[2025.01.29-22.26.13:623][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.271 ms (total: 2.41 sec)
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: Enabled validators:
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.26.13:697][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.26.13:697][ 31]AssetCheck: /Game/Dungeons/Level_2/Master_Room Validating asset
+[2025.01.29-22.26.21:196][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.26.21:261][459]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Master_Room] ([2] browsable assets)...
+[2025.01.29-22.26.21:269][459]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room]
+[2025.01.29-22.26.21:269][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Master_Room]
+[2025.01.29-22.26.21:269][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset" SILENT=true
+[2025.01.29-22.26.21:274][459]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Master_Room
+[2025.01.29-22.26.21:274][459]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room232201874A46C4FCB7DF618FC48B1BCF.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset'
+[2025.01.29-22.26.21:287][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.270 ms (total: 2.50 sec)
+[2025.01.29-22.26.21:364][459]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.26.21:364][459]LogContentValidation: Enabled validators:
+[2025.01.29-22.26.21:364][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.26.21:364][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.26.21:364][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.26.21:364][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.26.21:364][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.26.21:364][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.26.21:364][459]AssetCheck: /Game/Dungeons/Level_2/Master_Room Validating asset
+[2025.01.29-22.26.21:937][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.29-22.26.26:645][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.26.26:713][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.29-22.26.26:713][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.29-22.26.26:722][751]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.29-22.26.26:723][751]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_28329A05D491A9B3B63F0CEA98A560AD6.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.29-22.26.26:733][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.806 ms (total: 2.59 sec)
+[2025.01.29-22.26.26:809][751]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.26.26:809][751]LogContentValidation: Enabled validators:
+[2025.01.29-22.26.26:809][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.26.26:809][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.26.26:809][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.26.26:809][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.26.26:810][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.26.26:810][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.26.26:810][751]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.29-22.26.48:874][ 14]LogContentBrowser: Deferred new asset file creation: Master_Room_Child
+[2025.01.29-22.26.48:881][ 14]LogContentBrowser: Creating deferred item: Master_Room_Child
+[2025.01.29-22.26.48:904][ 15]LogContentBrowser: Renaming the item being created (Deferred Item: Master_Room_Child).
+[2025.01.29-22.26.50:797][129]LogContentBrowser: Attempting asset rename: Master_Room_Child -> adsf
+[2025.01.29-22.26.50:803][129]LogContentBrowser: End creating deferred item Master_Room_Child
+[2025.01.29-22.26.50:804][129]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2025.01.29-22.27.04:537][896]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/adsf.adsf
+[2025.01.29-22.27.04:537][896]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2025.01.29-22.27.10:891][177]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.29-22.27.11:427][187]LogEditorTransaction: Undo Paste Component(s)
+[2025.01.29-22.27.20:984][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.27.21:063][706]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/adsf] ([2] browsable assets)...
+[2025.01.29-22.27.21:075][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/adsf.adsf]
+[2025.01.29-22.27.21:075][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/adsf]
+[2025.01.29-22.27.21:075][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/adsf" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/adsf.uasset" SILENT=true
+[2025.01.29-22.27.21:081][706]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/adsf
+[2025.01.29-22.27.21:081][706]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/adsf4664B48E41B1F24634D8E3817D9EA63D.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/adsf.uasset'
+[2025.01.29-22.27.21:097][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.557 ms (total: 2.70 sec)
+[2025.01.29-22.27.21:175][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.27.21:175][706]LogContentValidation: Enabled validators:
+[2025.01.29-22.27.21:175][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.27.21:175][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.27.21:175][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.27.21:175][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.27.21:175][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.27.21:175][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.27.21:175][706]AssetCheck: /Game/Dungeons/Level_2/adsf Validating asset
+[2025.01.29-22.27.21:504][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.29-22.27.25:065][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Generator.Dungeon_Generator
+[2025.01.29-22.27.25:065][916]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2025.01.29-22.27.28:373][ 60]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-22.27.28:373][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-22.27.28:455][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.29-22.27.28:807][ 77]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.29-22.27.28:807][ 77]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-22.27.28:807][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-22.27.28:868][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.29-22.27.42:967][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.29-22.27.44:015][901]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.29-22.27.44:201][901]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.29-22.27.44:201][901]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-22.27.44:201][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-22.27.44:233][901]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_2/adsf.adsf
+	Asset Type: Blueprint
+[2025.01.29-22.27.44:526][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.29-22.27.44:597][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.29-22.27.44:616][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.01.29-22.27.44:632][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.01.29-22.27.44:658][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.29-22.28.18:233][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room
+[2025.01.29-22.28.18:234][869]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.01.29-22.28.19:088][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.28.19:156][892]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Master_Room] ([2] browsable assets)...
+[2025.01.29-22.28.19:188][892]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room]
+[2025.01.29-22.28.19:188][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Master_Room]
+[2025.01.29-22.28.19:188][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset" SILENT=true
+[2025.01.29-22.28.19:195][892]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Master_Room
+[2025.01.29-22.28.19:195][892]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room048BB8B74BC70B61A44F10A7F0433217.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset'
+[2025.01.29-22.28.19:207][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.283 ms (total: 2.82 sec)
+[2025.01.29-22.28.19:285][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.28.19:285][892]LogContentValidation: Enabled validators:
+[2025.01.29-22.28.19:285][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.28.19:285][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.28.19:285][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.28.19:285][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.28.19:285][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.28.19:285][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.28.19:285][892]AssetCheck: /Game/Dungeons/Level_2/Master_Room Validating asset
+[2025.01.29-22.28.36:217][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.28.36:293][829]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Master_Room] ([2] browsable assets)...
+[2025.01.29-22.28.36:302][829]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room]
+[2025.01.29-22.28.36:302][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Master_Room]
+[2025.01.29-22.28.36:302][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset" SILENT=true
+[2025.01.29-22.28.36:308][829]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Master_Room
+[2025.01.29-22.28.36:308][829]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_RoomB3E7D5CE447FFA2E698D7798BC3E599A.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset'
+[2025.01.29-22.28.36:320][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.599 ms (total: 2.92 sec)
+[2025.01.29-22.28.36:396][829]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.28.36:396][829]LogContentValidation: Enabled validators:
+[2025.01.29-22.28.36:396][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.28.36:397][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.28.36:397][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.28.36:397][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.28.36:397][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.28.36:397][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.28.36:397][829]AssetCheck: /Game/Dungeons/Level_2/Master_Room Validating asset
+[2025.01.29-22.28.36:768][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.29-22.28.58:451][645]LogContentBrowser: Attempting asset rename: Dungeon_Room1_2 -> adsf
+[2025.01.29-22.28.58:572][645]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-22.28.58:632][645]LogMetaData: Removing '/Game/Dungeons/Level_2/adsf.adsf_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1_2.PackageMetaData'
+[2025.01.29-22.28.58:632][645]LogMetaData: Removing '/Game/Dungeons/Level_2/adsf.SKEL_adsf_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1_2.PackageMetaData'
+[2025.01.29-22.28.58:632][645]LogMetaData: Removing '/Game/Dungeons/Level_2/adsf.SKEL_adsf_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1_2.PackageMetaData'
+[2025.01.29-22.28.58:632][645]LogMetaData: Removing '/Game/Dungeons/Level_2/adsf.SKEL_adsf_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1_2.PackageMetaData'
+[2025.01.29-22.28.58:632][645]LogMetaData: Removing '/Game/Dungeons/Level_2/adsf.SKEL_adsf_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1_2.PackageMetaData'
+[2025.01.29-22.28.58:632][645]LogMetaData: Removing '/Game/Dungeons/Level_2/adsf.SKEL_adsf_C' ref from Metadata '/Game/Dungeons/Level_2/Dungeon_Room1_2.PackageMetaData'
+[2025.01.29-22.28.58:651][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.28.58:651][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Generator_2] ([2] browsable assets)...
+[2025.01.29-22.28.58:651][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Generator_2]
+[2025.01.29-22.28.58:677][645]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Generator_2
+[2025.01.29-22.28.58:677][645]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Generator_20962E7BB47C3EBE17BD4499214E3647E.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Generator_2.uasset'
+[2025.01.29-22.28.58:679][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_2/adsf] ([2] browsable assets)...
+[2025.01.29-22.28.58:679][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/adsf]
+[2025.01.29-22.28.58:679][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/adsf" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/adsf.uasset" SILENT=true
+[2025.01.29-22.28.58:687][645]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/adsf
+[2025.01.29-22.28.58:687][645]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/adsf2CDEE7774A493B5DA6B378982669DB17.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/adsf.uasset'
+[2025.01.29-22.28.58:691][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.803 ms (total: 2.96 sec)
+[2025.01.29-22.28.58:727][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.29-22.28.58:750][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.29-22.28.58:768][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.01.29-22.28.58:859][645]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.29-22.28.58:859][645]LogContentValidation: Enabled validators:
+[2025.01.29-22.28.58:859][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.28.58:859][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.28.58:859][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.28.58:859][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.28.58:859][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.28.58:859][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.28.58:860][645]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Generator_2 Validating asset
+[2025.01.29-22.28.58:860][645]AssetCheck: /Game/Dungeons/Level_2/adsf Validating asset
+[2025.01.29-22.28.58:872][645]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.01.29-22.28.58:920][646]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.01.29-22.28.58:985][649]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.01.29-22.28.59:006][650]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.01.29-22.29.10:443][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.29-22.29.10:557][291]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.01.29-22.29.21:703][945]LogContentBrowser: Attempting asset rename: Master_Room1 -> Dungeon_Room2_1
+[2025.01.29-22.29.21:803][945]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_1.SKEL_Dungeon_Room2_1_C' ref from Metadata '/Game/Dungeons/Level_2/Master_Room1.PackageMetaData'
+[2025.01.29-22.29.21:803][945]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_1.Dungeon_Room2_1_C' ref from Metadata '/Game/Dungeons/Level_2/Master_Room1.PackageMetaData'
+[2025.01.29-22.29.21:803][945]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_1.SKEL_Dungeon_Room2_1_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_2/Master_Room1.PackageMetaData'
+[2025.01.29-22.29.21:803][945]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_1.SKEL_Dungeon_Room2_1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_2/Master_Room1.PackageMetaData'
+[2025.01.29-22.29.21:803][945]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_1.SKEL_Dungeon_Room2_1_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_2/Master_Room1.PackageMetaData'
+[2025.01.29-22.29.21:803][945]LogMetaData: Removing '/Game/Dungeons/Level_2/Dungeon_Room2_1.SKEL_Dungeon_Room2_1_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_2/Master_Room1.PackageMetaData'
+[2025.01.29-22.29.21:804][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.29.21:804][945]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room2_1] ([2] browsable assets)...
+[2025.01.29-22.29.21:816][945]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room2_1.Dungeon_Room2_1]
+[2025.01.29-22.29.21:817][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room2_1]
+[2025.01.29-22.29.21:824][945]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room2_1
+[2025.01.29-22.29.21:824][945]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room2_1894CDA3B479934082105E1A4C044811E.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room2_1.uasset'
+[2025.01.29-22.29.21:828][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.159 ms (total: 2.98 sec)
+[2025.01.29-22.29.21:862][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.29-22.29.21:882][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.29-22.29.21:903][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.01.29-22.29.21:990][945]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.29.21:990][945]LogContentValidation: Enabled validators:
+[2025.01.29-22.29.21:990][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.29.21:990][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.29.21:990][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.29.21:990][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.29.21:990][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.29.21:990][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.29.21:990][945]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room2_1 Validating asset
+[2025.01.29-22.29.23:060][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Dungeon_Room2_1.Dungeon_Room2_1
+[2025.01.29-22.29.23:060][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.01.29-22.29.34:934][659]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-22.29.34:963][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Start_Room_2.Start_Room_2
+[2025.01.29-22.29.34:963][659]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.01.29-22.29.35:404][659]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.01.29-22.29.45:887][196]Cmd: TRANSACTION UNDO
+[2025.01.29-22.29.45:887][196]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.29-22.29.46:114][205]Cmd: TRANSACTION UNDO
+[2025.01.29-22.29.46:114][205]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.29-22.30.01:509][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.29-22.30.02:974][806]LogSlate: Window 'Save Content' being destroyed
+[2025.01.29-22.30.02:992][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.30.03:082][806]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Master_Room] ([2] browsable assets)...
+[2025.01.29-22.30.03:136][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Master_Room.Master_Room]
+[2025.01.29-22.30.03:136][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Master_Room]
+[2025.01.29-22.30.03:136][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeons/Level_2/Master_Room" FILE="../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset" SILENT=true
+[2025.01.29-22.30.03:144][806]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Master_Room
+[2025.01.29-22.30.03:144][806]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Master_Room4F947C314B68B8CB4AC0B08F48330918.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Master_Room.uasset'
+[2025.01.29-22.30.03:154][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.356 ms (total: 3.15 sec)
+[2025.01.29-22.30.03:235][806]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.30.03:235][806]LogContentValidation: Enabled validators:
+[2025.01.29-22.30.03:235][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.30.03:235][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.30.03:235][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.30.03:235][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.30.03:235][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.30.03:235][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.30.03:235][806]AssetCheck: /Game/Dungeons/Level_2/Master_Room Validating asset
+[2025.01.29-22.30.04:263][862]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-22.30.04:270][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2
+[2025.01.29-22.30.04:271][862]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.01.29-22.30.18:919][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.30.19:004][586]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.29-22.30.19:016][586]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2]
+[2025.01.29-22.30.19:016][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.29-22.30.19:025][586]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.29-22.30.19:026][586]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_21CED91E747EB06CB1898679AF0F35F29.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.29-22.30.19:040][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.386 ms (total: 3.27 sec)
+[2025.01.29-22.30.19:124][586]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.30.19:124][586]LogContentValidation: Enabled validators:
+[2025.01.29-22.30.19:124][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.30.19:124][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.30.19:124][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.30.19:124][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.30.19:124][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.30.19:124][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.30.19:124][586]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.29-22.30.19:860][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.01.29-22.30.23:956][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 946.148438
+[2025.01.29-22.30.24:131][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.29-22.30.24:131][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 946.307922, Update Interval: 340.835602
+[2025.01.29-22.30.52:900][206]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.29-22.30.59:011][484]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.29-22.32.12:927][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.32.13:021][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.29-22.32.13:032][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_2/Dungeon_Room1_2.Dungeon_Room1_2]
+[2025.01.29-22.32.13:032][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.29-22.32.13:041][ 40]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.29-22.32.13:042][ 40]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_2540AEC8D47FE5FD96AD80DB63A488B36.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.29-22.32.13:053][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.465 ms (total: 3.39 sec)
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: Enabled validators:
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.32.13:131][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.32.13:131][ 40]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.29-22.32.17:098][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-22.32.17:171][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_2/Dungeon_Room1_2] ([2] browsable assets)...
+[2025.01.29-22.32.17:171][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_2/Dungeon_Room1_2]
+[2025.01.29-22.32.17:180][254]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_2/Dungeon_Room1_2
+[2025.01.29-22.32.17:180][254]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room1_2170228534B49E7A15A80C39D3EC90979.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_2/Dungeon_Room1_2.uasset'
+[2025.01.29-22.32.17:191][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.002 ms (total: 3.49 sec)
+[2025.01.29-22.32.17:273][254]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-22.32.17:273][254]LogContentValidation: Enabled validators:
+[2025.01.29-22.32.17:273][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-22.32.17:273][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-22.32.17:273][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-22.32.17:273][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-22.32.17:273][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-22.32.17:273][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-22.32.17:273][254]AssetCheck: /Game/Dungeons/Level_2/Dungeon_Room1_2 Validating asset
+[2025.01.29-22.32.18:444][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
