@@ -1459,3 +1459,173 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.29-13.56.50:513][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.29-13.56.50:513][733]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room5_1 Validating asset
 [2025.01.29-13.56.51:423][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.29-13.58.14:479][860]LogSlate: Window 'Dungeon_Room5_1' being destroyed
+[2025.01.29-13.58.14:500][860]LogSlate: Window 'Dungeon_Room5_1' being destroyed
+[2025.01.29-13.58.14:506][860]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-13.58.14:506][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-13.58.14:563][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.29-13.58.55:879][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 350.209351
+[2025.01.29-13.58.56:030][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.29-13.58.56:030][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 350.342346, Update Interval: 318.228699
+[2025.01.29-13.59.25:988][925]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room1_1.Dungeon_Room1_1
+[2025.01.29-13.59.25:988][925]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.01.29-13.59.27:147][966]LogSlate: Window 'Dungeon_Room1_1' being destroyed
+[2025.01.29-13.59.27:160][966]LogSlate: Window 'Dungeon_Room1_1' being destroyed
+[2025.01.29-13.59.27:165][966]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-13.59.27:165][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-13.59.27:229][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.29-13.59.27:800][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room2_1.Dungeon_Room2_1
+[2025.01.29-13.59.27:801][998]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.01.29-13.59.30:774][144]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-13.59.30:781][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room3_1.Dungeon_Room3_1
+[2025.01.29-13.59.30:781][144]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.01.29-13.59.31:144][144]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2025.01.29-13.59.49:006][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-13.59.49:069][144]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room3_1] ([2] browsable assets)...
+[2025.01.29-13.59.49:078][144]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room3_1.Dungeon_Room3_1]
+[2025.01.29-13.59.49:078][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room3_1]
+[2025.01.29-13.59.49:086][144]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room3_1
+[2025.01.29-13.59.49:087][144]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room3_10BA904D04C161BF3436A27828D4C4F07.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room3_1.uasset'
+[2025.01.29-13.59.49:099][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.943 ms (total: 565.004 ms)
+[2025.01.29-13.59.49:190][144]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-13.59.49:190][144]LogContentValidation: Enabled validators:
+[2025.01.29-13.59.49:190][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-13.59.49:190][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-13.59.49:190][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-13.59.49:190][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-13.59.49:190][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-13.59.49:190][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-13.59.49:190][144]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room3_1 Validating asset
+[2025.01.29-13.59.49:948][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.29-13.59.53:994][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.29-13.59.55:185][413]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.29-13.59.55:319][413]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-13.59.55:320][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-13.59.55:370][413]LogSlate: Window 'Dungeon_Room3_1' being destroyed
+[2025.01.29-13.59.55:379][413]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.29-13.59.55:379][413]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-13.59.55:379][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-13.59.55:411][413]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dungeons/Level_1/Dungeon_Room4_1.Dungeon_Room4_1
+	Asset Type: Blueprint
+[2025.01.29-13.59.55:689][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.29-13.59.55:762][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.29-13.59.55:781][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.29-13.59.55:798][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.29-13.59.55:825][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.29-13.59.58:132][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.29-13.59.58:251][548]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2025.01.29-14.00.02:500][790]LogContentBrowser: Attempting asset rename: Dungeon_Room3_2 -> Dungeon_Room4_1
+[2025.01.29-14.00.02:627][790]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room4_1.SKEL_Dungeon_Room4_1_C' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room3_2.PackageMetaData'
+[2025.01.29-14.00.02:627][790]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room4_1.Dungeon_Room4_1_C' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room3_2.PackageMetaData'
+[2025.01.29-14.00.02:627][790]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room4_1.SKEL_Dungeon_Room4_1_C:ReceiveBeginPlay' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room3_2.PackageMetaData'
+[2025.01.29-14.00.02:627][790]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room4_1.SKEL_Dungeon_Room4_1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room3_2.PackageMetaData'
+[2025.01.29-14.00.02:627][790]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room4_1.SKEL_Dungeon_Room4_1_C:ReceiveTick' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room3_2.PackageMetaData'
+[2025.01.29-14.00.02:627][790]LogMetaData: Removing '/Game/Dungeons/Level_1/Dungeon_Room4_1.SKEL_Dungeon_Room4_1_C:UserConstructionScript' ref from Metadata '/Game/Dungeons/Level_1/Dungeon_Room3_2.PackageMetaData'
+[2025.01.29-14.00.02:629][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-14.00.02:629][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room4_1] ([2] browsable assets)...
+[2025.01.29-14.00.02:637][790]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room4_1.Dungeon_Room4_1]
+[2025.01.29-14.00.02:637][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room4_1]
+[2025.01.29-14.00.02:645][790]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room4_1
+[2025.01.29-14.00.02:645][790]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room4_14A8D9F144EC64431196DF78E15FDCBBE.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room4_1.uasset'
+[2025.01.29-14.00.02:648][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 19.373 ms (total: 584.377 ms)
+[2025.01.29-14.00.02:672][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.29-14.00.02:688][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.29-14.00.02:704][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.29-14.00.02:788][790]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-14.00.02:788][790]LogContentValidation: Enabled validators:
+[2025.01.29-14.00.02:788][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-14.00.02:788][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-14.00.02:788][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-14.00.02:788][790]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-14.00.02:788][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-14.00.02:788][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-14.00.02:788][790]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room4_1 Validating asset
+[2025.01.29-14.00.03:926][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room4_1.Dungeon_Room4_1
+[2025.01.29-14.00.03:926][855]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2025.01.29-14.00.59:687][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-14.00.59:757][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room4_1] ([2] browsable assets)...
+[2025.01.29-14.00.59:757][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room4_1]
+[2025.01.29-14.00.59:765][130]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room4_1
+[2025.01.29-14.00.59:766][130]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room4_1F24AFBCC46C050CCCC3669AB8A1A4BB4.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room4_1.uasset'
+[2025.01.29-14.00.59:777][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.754 ms (total: 674.131 ms)
+[2025.01.29-14.00.59:863][130]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-14.00.59:863][130]LogContentValidation: Enabled validators:
+[2025.01.29-14.00.59:863][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-14.00.59:863][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-14.00.59:863][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-14.00.59:863][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-14.00.59:863][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-14.00.59:863][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-14.00.59:863][130]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room4_1 Validating asset
+[2025.01.29-14.01.03:446][341]LogStreaming: Display: FlushAsyncLoading(553): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-14.01.03:455][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room6_1.Dungeon_Room6_1
+[2025.01.29-14.01.03:456][341]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2025.01.29-14.01.03:819][341]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2025.01.29-14.01.18:406][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-14.01.18:474][149]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room6_1] ([2] browsable assets)...
+[2025.01.29-14.01.18:482][149]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room6_1.Dungeon_Room6_1]
+[2025.01.29-14.01.18:482][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room6_1]
+[2025.01.29-14.01.18:495][149]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room6_1
+[2025.01.29-14.01.18:496][149]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room6_12BAE2D56488C5BF001B828B812D617F8.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room6_1.uasset'
+[2025.01.29-14.01.18:508][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.068 ms (total: 776.199 ms)
+[2025.01.29-14.01.18:589][149]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-14.01.18:589][149]LogContentValidation: Enabled validators:
+[2025.01.29-14.01.18:589][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-14.01.18:589][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-14.01.18:589][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-14.01.18:589][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-14.01.18:589][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-14.01.18:589][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-14.01.18:589][149]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room6_1 Validating asset
+[2025.01.29-14.01.19:247][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.29-14.01.38:183][305]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.29-14.01.38:191][305]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dungeons/Level_1/Dungeon_Room7_1.Dungeon_Room7_1
+[2025.01.29-14.01.38:191][305]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2025.01.29-14.01.38:572][305]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2025.01.29-14.02.00:729][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-14.02.00:800][566]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room7_1] ([2] browsable assets)...
+[2025.01.29-14.02.00:809][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room7_1.Dungeon_Room7_1]
+[2025.01.29-14.02.00:809][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room7_1]
+[2025.01.29-14.02.00:819][566]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room7_1
+[2025.01.29-14.02.00:820][566]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room7_15A3A39664E2F75743667E3AF9E04E95C.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room7_1.uasset'
+[2025.01.29-14.02.00:831][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.279 ms (total: 877.479 ms)
+[2025.01.29-14.02.00:914][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-14.02.00:914][566]LogContentValidation: Enabled validators:
+[2025.01.29-14.02.00:914][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-14.02.00:915][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-14.02.00:915][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-14.02.00:915][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-14.02.00:915][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-14.02.00:915][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-14.02.00:915][566]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room7_1 Validating asset
+[2025.01.29-14.02.01:357][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.29-14.02.10:892][137]LogEditorTransaction: Undo Modify Component(s)
+[2025.01.29-14.02.46:031][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.29-14.02.46:112][131]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dungeons/Level_1/Dungeon_Room7_1] ([2] browsable assets)...
+[2025.01.29-14.02.46:121][131]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dungeons/Level_1/Dungeon_Room7_1.Dungeon_Room7_1]
+[2025.01.29-14.02.46:121][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dungeons/Level_1/Dungeon_Room7_1]
+[2025.01.29-14.02.46:132][131]LogSavePackage: Moving output files for package: /Game/Dungeons/Level_1/Dungeon_Room7_1
+[2025.01.29-14.02.46:132][131]LogSavePackage: Moving '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Saved/Dungeon_Room7_103ACD04A46D838ECB20E69BF8659C81C.tmp' to '../../../../Users/Marcel/Documents/GitHub/CITM-Game-Jam-8/CITM_Game_Jam_8/Content/Dungeons/Level_1/Dungeon_Room7_1.uasset'
+[2025.01.29-14.02.46:143][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.481 ms (total: 989.960 ms)
+[2025.01.29-14.02.46:220][131]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.29-14.02.46:220][131]LogContentValidation: Enabled validators:
+[2025.01.29-14.02.46:220][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.29-14.02.46:220][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.29-14.02.46:220][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.29-14.02.46:220][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.29-14.02.46:220][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.29-14.02.46:220][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.29-14.02.46:220][131]AssetCheck: /Game/Dungeons/Level_1/Dungeon_Room7_1 Validating asset
+[2025.01.29-14.02.46:599][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.29-14.02.49:252][292]LogSlate: Window 'Dungeon_Room7_1' being destroyed
+[2025.01.29-14.02.49:269][292]LogSlate: Window 'Dungeon_Room7_1' being destroyed
+[2025.01.29-14.02.49:275][292]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-14.02.49:276][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-14.02.49:313][292]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.29-14.02.49:313][292]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-14.02.49:313][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-14.02.49:355][292]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.29-14.02.49:355][292]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.01.29-14.02.49:355][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.29-14.02.49:415][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
